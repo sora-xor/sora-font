@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcaron" format="2">
+  <advance width="587"/>
+  <unicode hex="0164"/>
+  <outline>
+    <contour>
+      <point x="258" y="0" type="line" name="hintSet0000"/>
+      <point x="329" y="0" type="line"/>
+      <point x="329" y="666" type="line"/>
+      <point x="558" y="666" type="line"/>
+      <point x="558" y="730" type="line"/>
+      <point x="28" y="730" type="line"/>
+      <point x="28" y="666" type="line"/>
+      <point x="258" y="666" type="line"/>
+    </contour>
+    <contour>
+      <point x="249" y="794" type="line"/>
+      <point x="336" y="794" type="line"/>
+      <point x="451" y="947" type="line"/>
+      <point x="386" y="947" type="line"/>
+      <point x="302" y="831" type="line"/>
+      <point x="284" y="831" type="line"/>
+      <point x="195" y="947" type="line"/>
+      <point x="128" y="947" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 666 64</string>
+              <string>hstem 794 37</string>
+              <string>vstem 258 71</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w587l2580l3290l329666l558666l558730l28730l28666l258666l249794l336794l451947l386947l302831l284831l195947l128947</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

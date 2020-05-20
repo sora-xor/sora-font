@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblleft" format="2">
+  <advance width="438"/>
+  <unicode hex="201C"/>
+  <outline>
+    <contour>
+      <point x="390" y="738" type="line" name="hintSet0000"/>
+      <point x="383" y="738" type="line"/>
+      <point x="294" y="738"/>
+      <point x="236" y="700"/>
+      <point x="236" y="554" type="curve"/>
+      <point x="236" y="533" type="line"/>
+      <point x="236" y="448"/>
+      <point x="273" y="426"/>
+      <point x="311" y="426" type="curve"/>
+      <point x="351" y="426"/>
+      <point x="376" y="455"/>
+      <point x="376" y="493" type="curve"/>
+      <point x="376" y="534"/>
+      <point x="348" y="559"/>
+      <point x="311" y="559" type="curve"/>
+      <point x="306" y="559"/>
+      <point x="300" y="559"/>
+      <point x="294" y="558" type="curve"/>
+      <point x="294" y="581" type="line"/>
+      <point x="294" y="653"/>
+      <point x="317" y="686"/>
+      <point x="381" y="686" type="curve"/>
+      <point x="390" y="686" type="line"/>
+    </contour>
+    <contour>
+      <point x="196" y="738" type="line"/>
+      <point x="189" y="738" type="line"/>
+      <point x="100" y="738"/>
+      <point x="42" y="700"/>
+      <point x="42" y="554" type="curve"/>
+      <point x="42" y="533" type="line"/>
+      <point x="42" y="448"/>
+      <point x="79" y="426"/>
+      <point x="117" y="426" type="curve"/>
+      <point x="157" y="426"/>
+      <point x="182" y="455"/>
+      <point x="182" y="493" type="curve"/>
+      <point x="182" y="534"/>
+      <point x="154" y="559"/>
+      <point x="117" y="559" type="curve"/>
+      <point x="112" y="559"/>
+      <point x="106" y="559"/>
+      <point x="100" y="558" type="curve"/>
+      <point x="100" y="581" type="line"/>
+      <point x="100" y="653"/>
+      <point x="123" y="686"/>
+      <point x="187" y="686" type="curve"/>
+      <point x="196" y="686" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 426 133</string>
+              <string>hstem 686 52</string>
+              <string>vstem 42 58</string>
+              <string>vstem 236 58</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>0f045fd0ae8145c7e923b034d394cf68c30a4253a16640c0a7cb960c16142d261fe62596f3af3eecb65d057e73818f52f19f2aca8af96edeb6c7ab4b747d2c88</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

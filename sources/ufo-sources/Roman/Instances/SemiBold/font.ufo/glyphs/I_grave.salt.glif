@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Igrave.salt" format="2">
+  <advance width="452"/>
+  <anchor x="226" y="0" name="bottom"/>
+  <anchor x="290" y="10" name="ogonek"/>
+  <anchor x="105" y="958" name="top"/>
+  <outline>
+    <component base="I.salt"/>
+    <component base="gravecomb.case" xOffset="29"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

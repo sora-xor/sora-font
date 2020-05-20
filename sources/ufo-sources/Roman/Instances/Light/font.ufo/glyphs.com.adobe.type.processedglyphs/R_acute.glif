@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Racute" format="2">
+  <advance width="685"/>
+  <unicode hex="0154"/>
+  <outline>
+    <contour>
+      <point x="116" y="0" type="line" name="hintSet0000"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="279" type="line"/>
+      <point x="342" y="279" type="line"/>
+      <point x="345" y="279"/>
+      <point x="348" y="279"/>
+      <point x="352" y="279" type="curve"/>
+      <point x="570" y="0" type="line"/>
+      <point x="657" y="0" type="line"/>
+      <point x="429" y="288" type="line"/>
+      <point x="534" y="313"/>
+      <point x="591" y="388"/>
+      <point x="591" y="500" type="curve"/>
+      <point x="591" y="513" type="line"/>
+      <point x="591" y="652"/>
+      <point x="502" y="733"/>
+      <point x="342" y="733" type="curve"/>
+      <point x="116" y="733" type="line"/>
+    </contour>
+    <contour>
+      <point x="285" y="794" type="line"/>
+      <point x="351" y="794" type="line"/>
+      <point x="487" y="947" type="line"/>
+      <point x="406" y="947" type="line"/>
+    </contour>
+    <contour>
+      <point x="353" y="670" type="line"/>
+      <point x="465" y="670"/>
+      <point x="519" y="599"/>
+      <point x="519" y="506" type="curve"/>
+      <point x="519" y="414"/>
+      <point x="465" y="343"/>
+      <point x="353" y="343" type="curve"/>
+      <point x="187" y="343" type="line"/>
+      <point x="187" y="670" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 279 64</string>
+              <string>hstem 670 63</string>
+              <string>hstem 794 153</string>
+              <string>vstem 116 71</string>
+              <string>vstem 519 72</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>efc54918756bbc9fc191bc18063de4988496a63abf32c9cd577ba1c92353307aafb258a25a609df126739dc7ad5decbe04e8d07e17c325a8bffd7051ee9ffe12</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

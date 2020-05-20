@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="h" format="2">
+  <advance width="656"/>
+  <unicode hex="0068"/>
+  <anchor x="333" y="0" name="bottom"/>
+  <anchor x="198" y="637" name="center"/>
+  <anchor x="157" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="248" y="319" type="line" smooth="yes"/>
+      <point x="248" y="372"/>
+      <point x="283" y="408"/>
+      <point x="334" y="408" type="curve" smooth="yes"/>
+      <point x="385" y="408"/>
+      <point x="418" y="372"/>
+      <point x="418" y="321" type="curve" smooth="yes"/>
+      <point x="418" y="0" type="line"/>
+      <point x="600" y="0" type="line"/>
+      <point x="600" y="314" type="line" smooth="yes"/>
+      <point x="600" y="482"/>
+      <point x="535" y="570"/>
+      <point x="415" y="570" type="curve" smooth="yes"/>
+      <point x="407" y="570" type="line" smooth="yes"/>
+      <point x="287" y="570"/>
+      <point x="224" y="482"/>
+      <point x="224" y="314" type="curve"/>
+      <point x="248" y="314" type="line"/>
+      <point x="248" y="730" type="line"/>
+      <point x="66" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

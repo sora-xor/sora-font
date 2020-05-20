@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iogonek.salt" format="2">
+  <advance width="444"/>
+  <outline>
+    <contour>
+      <point x="114" y="700" type="line" name="hintSet0000"/>
+      <point x="206" y="700" type="line"/>
+      <point x="206" y="30" type="line"/>
+      <point x="114" y="30" type="line"/>
+      <point x="114" y="0" type="line"/>
+      <point x="215" y="0" type="line"/>
+      <point x="164" y="-42"/>
+      <point x="129" y="-88"/>
+      <point x="129" y="-148" type="curve"/>
+      <point x="129" y="-210"/>
+      <point x="171" y="-244"/>
+      <point x="224" y="-244" type="curve"/>
+      <point x="243" y="-244"/>
+      <point x="256" y="-241"/>
+      <point x="270" y="-235" type="curve"/>
+      <point x="270" y="-207" type="line"/>
+      <point x="254" y="-213"/>
+      <point x="239" y="-216"/>
+      <point x="224" y="-216" type="curve"/>
+      <point x="187" y="-216"/>
+      <point x="157" y="-196"/>
+      <point x="157" y="-148" type="curve"/>
+      <point x="157" y="-100"/>
+      <point x="183" y="-59"/>
+      <point x="231" y="-19" type="curve"/>
+      <point x="254" y="0" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="330" y="30" type="line"/>
+      <point x="238" y="30" type="line"/>
+      <point x="238" y="700" type="line"/>
+      <point x="330" y="700" type="line"/>
+      <point x="330" y="730" type="line"/>
+      <point x="114" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -244 28</string>
+              <string>hstem 0 30</string>
+              <string>hstem 700 30</string>
+              <string>vstem 129 28</string>
+              <string>vstem 206 32</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>9b70fd2b27413a56f7d52822feb6514eaf4c78581fbc4866d6f4bd2ff9c49b5ee78148eb54ee129600e0158a22c9ddecfc7fa9fc4ac9208ab8018827fd45b385</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

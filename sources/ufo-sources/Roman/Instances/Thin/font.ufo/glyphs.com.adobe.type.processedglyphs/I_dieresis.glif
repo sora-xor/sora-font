@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresis" format="2">
+  <advance width="296"/>
+  <unicode hex="00CF"/>
+  <anchor x="148" y="0" name="bottom"/>
+  <anchor x="164" y="10" name="ogonek"/>
+  <anchor x="148" y="942" name="top"/>
+  <anchor x="46" y="730" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="132" y="0" type="line" name="hintSet0000"/>
+      <point x="164" y="0" type="line"/>
+      <point x="164" y="730" type="line"/>
+      <point x="132" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="832" type="curve"/>
+      <point x="67" y="832"/>
+      <point x="81" y="845"/>
+      <point x="81" y="867" type="curve"/>
+      <point x="81" y="888"/>
+      <point x="67" y="902"/>
+      <point x="45" y="902" type="curve"/>
+      <point x="23" y="902"/>
+      <point x="9" y="888"/>
+      <point x="9" y="867" type="curve"/>
+      <point x="9" y="845"/>
+      <point x="23" y="832"/>
+    </contour>
+    <contour>
+      <point x="251" y="832" type="curve"/>
+      <point x="273" y="832"/>
+      <point x="287" y="845"/>
+      <point x="287" y="867" type="curve"/>
+      <point x="287" y="888"/>
+      <point x="273" y="902"/>
+      <point x="251" y="902" type="curve"/>
+      <point x="229" y="902"/>
+      <point x="215" y="888"/>
+      <point x="215" y="867" type="curve"/>
+      <point x="215" y="845"/>
+      <point x="229" y="832"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 832 70</string>
+              <string>vstem 9 72</string>
+              <string>vstem 132 32</string>
+              <string>vstem 215 72</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>c36ef13ef8500258ee5f5dcd38bcf634d9c73db11e66ef3340716d6116b0d1804f8a948425a53f245bfc8b8b61cf8db589c3a518429e811e9719e13dffe0a171</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

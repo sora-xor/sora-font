@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhungarumlaut.salt" format="2">
+  <advance width="615"/>
+  <anchor x="308" y="0" name="bottom"/>
+  <anchor x="411" y="13" name="ogonek"/>
+  <anchor x="364" y="804" name="top"/>
+  <anchor x="597" y="528" name="topright"/>
+  <outline>
+    <component base="u.salt"/>
+    <component base="hungarumlautcomb" xOffset="199"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

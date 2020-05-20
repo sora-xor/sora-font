@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="801"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="382" y="344" type="line" name="hintSet0000"/>
+      <point x="382" y="387" type="line"/>
+      <point x="173" y="387" type="line"/>
+      <point x="173" y="688" type="line"/>
+      <point x="374" y="688" type="line"/>
+      <point x="591" y="688"/>
+      <point x="696" y="540"/>
+      <point x="696" y="366" type="curve"/>
+      <point x="696" y="198"/>
+      <point x="595" y="42"/>
+      <point x="374" y="42" type="curve"/>
+      <point x="173" y="42" type="line"/>
+      <point x="173" y="344" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="-3" type="line"/>
+      <point x="368" y="-3" type="line"/>
+      <point x="632" y="-3"/>
+      <point x="745" y="183"/>
+      <point x="745" y="359" type="curve"/>
+      <point x="745" y="374" type="line"/>
+      <point x="745" y="555"/>
+      <point x="626" y="733"/>
+      <point x="368" y="733" type="curve"/>
+      <point x="124" y="733" type="line"/>
+      <point x="124" y="387" type="line"/>
+      <point x="30" y="387" type="line"/>
+      <point x="30" y="344" type="line"/>
+      <point x="124" y="344" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -3 45</string>
+              <string>hstem 344 43</string>
+              <string>hstem 688 45</string>
+              <string>vstem 124 49</string>
+              <string>vstem 696 49</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>faac3b558841be0e3d10e64f79bd36822eec7fdf4e2dfc5f148e179b94231b50e491a16ab24a6433312bff864656c43af098f7d0037554bc000cefac224fd851</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

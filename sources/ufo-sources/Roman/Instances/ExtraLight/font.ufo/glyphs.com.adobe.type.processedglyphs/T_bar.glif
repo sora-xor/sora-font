@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tbar" format="2">
+  <advance width="581"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="31" y="686" type="line" name="hintSet0000"/>
+      <point x="266" y="686" type="line"/>
+      <point x="266" y="393" type="line"/>
+      <point x="98" y="393" type="line"/>
+      <point x="98" y="352" type="line"/>
+      <point x="266" y="352" type="line"/>
+      <point x="266" y="0" type="line"/>
+      <point x="315" y="0" type="line"/>
+      <point x="315" y="352" type="line"/>
+      <point x="483" y="352" type="line"/>
+      <point x="483" y="393" type="line"/>
+      <point x="315" y="393" type="line"/>
+      <point x="315" y="686" type="line"/>
+      <point x="550" y="686" type="line"/>
+      <point x="550" y="730" type="line"/>
+      <point x="31" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 352 41</string>
+              <string>hstem 686 44</string>
+              <string>vstem 266 49</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w581l31686l266686l266393l98393l98352l266352l2660l3150l315352l483352l483393l315393l315686l550686l550730l31730</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

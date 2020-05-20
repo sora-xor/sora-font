@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetleft.case" format="2">
+  <advance width="649"/>
+  <outline>
+    <contour>
+      <point x="153" y="141" type="line" name="hintSet0000"/>
+      <point x="337" y="141" type="line"/>
+      <point x="191" y="349" type="line"/>
+      <point x="191" y="383" type="line"/>
+      <point x="337" y="591" type="line"/>
+      <point x="159" y="591" type="line"/>
+      <point x="18" y="388" type="line"/>
+      <point x="18" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="141" type="line"/>
+      <point x="624" y="141" type="line"/>
+      <point x="478" y="349" type="line"/>
+      <point x="478" y="383" type="line"/>
+      <point x="624" y="591" type="line"/>
+      <point x="446" y="591" type="line"/>
+      <point x="305" y="388" type="line"/>
+      <point x="305" y="340" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 141 450</string>
+              <string>vstem 18 173</string>
+              <string>vstem 305 173</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w649l153141l337141l191349l191383l337591l159591l18388l18340l440141l624141l478349l478383l624591l446591l305388l305340</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>guillemetleft</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

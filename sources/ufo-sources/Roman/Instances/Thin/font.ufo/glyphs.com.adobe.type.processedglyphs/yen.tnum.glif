@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen.tnum" format="2">
+  <advance width="626"/>
+  <outline>
+    <contour>
+      <point x="90" y="174" type="line" name="hintSet0000"/>
+      <point x="302" y="174" type="line"/>
+      <point x="302" y="0" type="line"/>
+      <point x="332" y="0" type="line"/>
+      <point x="332" y="174" type="line"/>
+      <point x="544" y="174" type="line"/>
+      <point x="544" y="202" type="line"/>
+      <point x="332" y="202" type="line"/>
+      <point x="332" y="312" type="line"/>
+      <point x="544" y="312" type="line"/>
+      <point x="544" y="340" type="line"/>
+      <point x="360" y="340" type="line"/>
+      <point x="566" y="730" type="line"/>
+      <point x="533" y="730" type="line"/>
+      <point x="329" y="340" type="line"/>
+      <point x="308" y="340" type="line"/>
+      <point x="94" y="730" type="line"/>
+      <point x="60" y="730" type="line"/>
+      <point x="275" y="340" type="line"/>
+      <point x="90" y="340" type="line"/>
+      <point x="90" y="312" type="line"/>
+      <point x="302" y="312" type="line"/>
+      <point x="302" y="202" type="line"/>
+      <point x="90" y="202" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 174 28</string>
+              <string>hstem 312 28</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 302 30</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>f304f15bc252b919114ce378bc936b49726ffd569fd90fd67a3ae4a60acc84ebb256ad0e55d8bbdd194c786d9cc99e9178793ee8b620303dba17910e25264454</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

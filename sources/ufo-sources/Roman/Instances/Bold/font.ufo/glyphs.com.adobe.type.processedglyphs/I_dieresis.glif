@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresis" format="2">
+  <advance width="332"/>
+  <unicode hex="00CF"/>
+  <anchor x="166" y="0" name="bottom"/>
+  <anchor x="237" y="10" name="ogonek"/>
+  <anchor x="166" y="962" name="top"/>
+  <anchor x="-3" y="730" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line" name="hintSet0000"/>
+      <point x="248" y="0" type="line"/>
+      <point x="248" y="730" type="line"/>
+      <point x="84" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="54" y="796" type="curve" name="hintSet0004"/>
+      <point x="114" y="796"/>
+      <point x="142" y="830"/>
+      <point x="142" y="878" type="curve"/>
+      <point x="142" y="927"/>
+      <point x="114" y="961"/>
+      <point x="54" y="961" type="curve"/>
+      <point x="-6" y="961"/>
+      <point x="-34" y="927"/>
+      <point x="-34" y="878" type="curve"/>
+      <point x="-34" y="830"/>
+      <point x="-6" y="796"/>
+    </contour>
+    <contour>
+      <point x="278" y="796" type="curve"/>
+      <point x="338" y="796"/>
+      <point x="366" y="830"/>
+      <point x="366" y="878" type="curve"/>
+      <point x="366" y="927"/>
+      <point x="338" y="961"/>
+      <point x="278" y="961" type="curve"/>
+      <point x="218" y="961"/>
+      <point x="190" y="927"/>
+      <point x="190" y="878" type="curve"/>
+      <point x="190" y="830"/>
+      <point x="218" y="796"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 796 165</string>
+              <string>vstem 84 164</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0004</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 796 165</string>
+              <string>vstem -34 176</string>
+              <string>vstem 190 176</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>0c78b450aa035566d2dd901d844b3924e6064ab1f0749edbcb371a839ade518007b622b6aedff24830a9298c77ec6c265fbdb8bbf05dd04651d8faebafcbade0</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

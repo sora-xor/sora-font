@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute" format="2">
+  <advance width="259"/>
+  <unicode hex="013A"/>
+  <outline>
+    <contour>
+      <point x="63" y="799" type="line" name="hintSet0000"/>
+      <point x="111" y="799" type="line"/>
+      <point x="235" y="943" type="line"/>
+      <point x="179" y="943" type="line"/>
+    </contour>
+    <contour>
+      <point x="27" y="689" type="line"/>
+      <point x="107" y="689" type="line"/>
+      <point x="107" y="0" type="line"/>
+      <point x="155" y="0" type="line"/>
+      <point x="155" y="730" type="line"/>
+      <point x="27" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 689 41</string>
+              <string>hstem 799 144</string>
+              <string>vstem 107 48</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w259l63799l111799l235943l179943l27689l107689l1070l1550l155730l27730</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

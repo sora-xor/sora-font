@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sora.tnum" format="2">
+  <advance width="650"/>
+  <guideline x="325" y="540" angle="180"/>
+  <outline>
+    <contour>
+      <point x="92" y="-4" type="line"/>
+      <point x="322" y="392" type="line"/>
+      <point x="281" y="382" type="line"/>
+      <point x="364" y="382" type="line"/>
+      <point x="325" y="392" type="line"/>
+      <point x="553" y="-4" type="line"/>
+      <point x="634" y="41" type="line"/>
+      <point x="381" y="470" type="line"/>
+      <point x="270" y="470" type="line"/>
+      <point x="16" y="41" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="470" type="line"/>
+      <point x="610" y="470" type="line"/>
+      <point x="610" y="540" type="line"/>
+      <point x="40" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="520" type="line"/>
+      <point x="370" y="520" type="line"/>
+      <point x="370" y="674" type="line"/>
+      <point x="280" y="674" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="660" type="line"/>
+      <point x="610" y="660" type="line"/>
+      <point x="610" y="730" type="line"/>
+      <point x="40" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

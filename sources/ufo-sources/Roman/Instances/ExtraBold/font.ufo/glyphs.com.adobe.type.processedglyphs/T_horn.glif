@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="662"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="74" y="0" type="line" name="hintSet0000"/>
+      <point x="260" y="0" type="line"/>
+      <point x="260" y="104" type="line"/>
+      <point x="347" y="104" type="line"/>
+      <point x="532" y="104"/>
+      <point x="646" y="202"/>
+      <point x="646" y="363" type="curve"/>
+      <point x="646" y="379" type="line"/>
+      <point x="646" y="540"/>
+      <point x="532" y="638"/>
+      <point x="347" y="638" type="curve"/>
+      <point x="260" y="638" type="line"/>
+      <point x="260" y="730" type="line"/>
+      <point x="74" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="478" type="line"/>
+      <point x="417" y="478"/>
+      <point x="458" y="438"/>
+      <point x="458" y="371" type="curve"/>
+      <point x="458" y="304"/>
+      <point x="417" y="265"/>
+      <point x="352" y="265" type="curve"/>
+      <point x="260" y="265" type="line"/>
+      <point x="260" y="478" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 104 161</string>
+              <string>hstem 478 160</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 74 186</string>
+              <string>vstem 458 188</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>fe3f548e1a0c1754d73c0270208496ba6c6a1fd77f26644259d6974dea53c0f653a7e20f100add3275b050fb3184b1caf7713c7b448c7fe7e829619e529f408b</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

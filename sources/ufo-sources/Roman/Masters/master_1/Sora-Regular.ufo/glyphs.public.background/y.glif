@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y" format="2">
+  <outline>
+    <contour>
+      <point x="299" y="12" type="move"/>
+      <point x="116" y="534" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresis.salt" format="2">
+  <advance width="445"/>
+  <outline>
+    <contour>
+      <point x="108" y="0" type="line" name="hintSet0000"/>
+      <point x="338" y="0" type="line"/>
+      <point x="338" y="44" type="line"/>
+      <point x="247" y="44" type="line"/>
+      <point x="247" y="687" type="line"/>
+      <point x="338" y="687" type="line"/>
+      <point x="338" y="730" type="line"/>
+      <point x="108" y="730" type="line"/>
+      <point x="108" y="687" type="line"/>
+      <point x="198" y="687" type="line"/>
+      <point x="198" y="44" type="line"/>
+      <point x="108" y="44" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="827" type="curve"/>
+      <point x="146" y="827"/>
+      <point x="163" y="843"/>
+      <point x="163" y="869" type="curve"/>
+      <point x="163" y="893"/>
+      <point x="146" y="910"/>
+      <point x="119" y="910" type="curve"/>
+      <point x="92" y="910"/>
+      <point x="76" y="893"/>
+      <point x="76" y="869" type="curve"/>
+      <point x="76" y="843"/>
+      <point x="92" y="827"/>
+    </contour>
+    <contour>
+      <point x="327" y="827" type="curve"/>
+      <point x="354" y="827"/>
+      <point x="371" y="843"/>
+      <point x="371" y="869" type="curve"/>
+      <point x="371" y="893"/>
+      <point x="354" y="910"/>
+      <point x="327" y="910" type="curve"/>
+      <point x="300" y="910"/>
+      <point x="284" y="893"/>
+      <point x="284" y="869" type="curve"/>
+      <point x="284" y="843"/>
+      <point x="300" y="827"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 44</string>
+              <string>hstem 687 43</string>
+              <string>hstem 827 83</string>
+              <string>vstem 76 87</string>
+              <string>vstem 198 49</string>
+              <string>vstem 284 87</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>c3244a01a525154496da29c1d4d1df833071a79c863c7cfa44ab080c822303d426eae820aa8a47188c00e8f9d8a2f6fb3157bc13fcceb33136ec42164d7cb47d</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

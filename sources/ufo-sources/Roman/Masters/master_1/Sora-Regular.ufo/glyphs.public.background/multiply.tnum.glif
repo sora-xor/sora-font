@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="multiply.tnum" format="2">
+  <outline>
+    <contour>
+      <point x="495" y="114" type="line"/>
+      <point x="552" y="171" type="line"/>
+      <point x="155" y="567" type="line"/>
+      <point x="98" y="510" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="114" type="line"/>
+      <point x="552" y="514" type="line"/>
+      <point x="499" y="567" type="line"/>
+      <point x="98" y="167" type="line"/>
+    </contour>
+  </outline>
+</glyph>

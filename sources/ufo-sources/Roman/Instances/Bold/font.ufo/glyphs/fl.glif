@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fl" format="2">
+  <advance width="683"/>
+  <unicode hex="FB02"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="232" y="0" type="line"/>
+      <point x="232" y="554" type="line" smooth="yes"/>
+      <point x="232" y="590"/>
+      <point x="253" y="611"/>
+      <point x="289" y="611" type="curve" smooth="yes"/>
+      <point x="345" y="611" type="line"/>
+      <point x="345" y="730" type="line"/>
+      <point x="296" y="730" type="line" smooth="yes"/>
+      <point x="156" y="730"/>
+      <point x="84" y="669"/>
+      <point x="84" y="543" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="20" y="416" type="line"/>
+      <point x="349" y="416" type="line"/>
+      <point x="349" y="532" type="line"/>
+      <point x="20" y="532" type="line"/>
+    </contour>
+    <contour>
+      <point x="449" y="0" type="line"/>
+      <point x="609" y="0" type="line"/>
+      <point x="609" y="730" type="line"/>
+      <point x="449" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="612" type="line"/>
+      <point x="609" y="612" type="line"/>
+      <point x="609" y="730" type="line"/>
+      <point x="390" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

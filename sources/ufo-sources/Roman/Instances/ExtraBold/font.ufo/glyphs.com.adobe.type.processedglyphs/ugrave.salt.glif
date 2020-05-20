@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ugrave.salt" format="2">
+  <advance width="626"/>
+  <anchor x="313" y="0" name="bottom"/>
+  <anchor x="424" y="10" name="ogonek"/>
+  <anchor x="211" y="806" name="top"/>
+  <anchor x="596" y="534" name="topright"/>
+  <outline>
+    <contour>
+      <point x="313" y="-20" type="curve" name="hintSet0000"/>
+      <point x="487" y="-20"/>
+      <point x="578" y="66"/>
+      <point x="578" y="230" type="curve"/>
+      <point x="578" y="552" type="line"/>
+      <point x="396" y="552" type="line"/>
+      <point x="396" y="225" type="line"/>
+      <point x="396" y="175"/>
+      <point x="363" y="142"/>
+      <point x="313" y="142" type="curve"/>
+      <point x="263" y="142"/>
+      <point x="230" y="175"/>
+      <point x="230" y="225" type="curve"/>
+      <point x="230" y="552" type="line"/>
+      <point x="48" y="552" type="line"/>
+      <point x="48" y="230" type="line"/>
+      <point x="48" y="66"/>
+      <point x="139" y="-20"/>
+    </contour>
+    <contour>
+      <point x="231" y="594" type="line"/>
+      <point x="395" y="594" type="line"/>
+      <point x="307" y="806" type="line"/>
+      <point x="117" y="806" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -20 162</string>
+              <string>hstem 552 -20</string>
+              <string>hstem 594 212</string>
+              <string>vstem 48 182</string>
+              <string>vstem 396 182</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>39dd822267938d7594b911ab3e1853ad7010ac3ea34b17a3e7992a4b074951f3b5371330a095be1c0bec7918e6dee2318df413023dc2b9e1a0be17c18cdde743</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,256 @@
+@salt_uc_01 = [ I
+J
+P
+Q
+R ];
+
+@salt_uc_02 = [ I.salt
+J.salt
+P.salt
+Q.salt
+R.salt ];
+
+@salt_uc_03 = [ Iacute
+Ibreve
+Icircumflex
+Idieresis
+Idotaccent
+Igrave
+Imacron
+Iogonek
+Itilde
+Jcircumflex
+Racute
+Rcaron
+Rcommaaccent ];
+
+@salt_uc_04 = [ Iacute.salt
+Ibreve.salt
+Icircumflex.salt
+Idieresis.salt
+Idotaccent.salt
+Igrave.salt
+Imacron.salt
+Iogonek.salt
+Itilde.salt
+Jcircumflex.salt
+Racute.salt
+Rcaron.salt
+Rcommaaccent.salt ];
+
+@salt_lc_01 = [ f
+l
+r
+t
+u ];
+
+@salt_lc_02 = [ f.salt
+l.salt
+r.salt
+t.salt
+u.salt ];
+
+@salt_lc_03 = [ lacute
+lcaron
+lcommaaccent
+lslash
+racute
+rcaron
+rcommaaccent
+tbar
+tcaron
+tcedilla
+tcommaaccent
+uacute
+ubreve
+ucircumflex
+udieresis
+ugrave
+uhungarumlaut
+umacron
+uogonek
+uring
+utilde ];
+
+@salt_lc_04 = [ lacute.salt
+lcaron.salt
+lcommaaccent.salt
+lslash.salt
+racute.salt
+rcaron.salt
+rcommaaccent.salt
+tbar.salt
+tcaron.salt
+tcedilla.salt
+tcommaaccent.salt
+uacute.salt
+ubreve.salt
+ucircumflex.salt
+udieresis.salt
+ugrave.salt
+uhungarumlaut.salt
+umacron.salt
+uogonek.salt
+uring.salt
+utilde.salt ];
+
+# automatic
+@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar I Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent I.salt Iacute.salt Ibreve.salt Icircumflex.salt Idieresis.salt Idotaccent.salt Igrave.salt Imacron.salt Iogonek.salt Itilde.salt J.salt Jcircumflex.salt P.salt Q.salt R.salt Racute.salt Rcaron.salt Rcommaaccent.salt ];
+
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem cyrl dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn KAZ;
+languagesystem latn TRK;
+languagesystem latn CRT;
+languagesystem latn AZE;
+languagesystem cyrl TAT;
+
+
+feature aalt {
+feature locl;
+feature case;
+feature tnum;
+feature salt;
+feature ss01;
+
+} aalt;
+
+feature locl {
+# automatic
+script latn;
+language ROM;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language MOL;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language KAZ;
+sub i by idotaccent;
+language TRK;
+sub i by idotaccent;
+language CRT;
+sub i by idotaccent;
+language AZE;
+sub i by idotaccent;
+
+script cyrl;
+language TAT;
+sub i by idotaccent;
+
+} locl;
+
+feature case {
+sub exclamdown by exclamdown.case;
+sub questiondown by questiondown.case;
+sub periodcentered by periodcentered.case;
+sub parenleft by parenleft.case;
+sub parenright by parenright.case;
+sub braceleft by braceleft.case;
+sub braceright by braceright.case;
+sub bracketleft by bracketleft.case;
+sub bracketright by bracketright.case;
+sub hyphen by hyphen.case;
+sub endash by endash.case;
+sub emdash by emdash.case;
+sub guillemetleft by guillemetleft.case;
+sub guillemetright by guillemetright.case;
+sub guilsinglleft by guilsinglleft.case;
+sub guilsinglright by guilsinglright.case;
+} case;
+
+feature salt {
+sub @salt_uc_01 by @salt_uc_02;
+sub @salt_uc_03 by @salt_uc_04;
+sub @salt_lc_01 by @salt_lc_02;
+sub @salt_lc_03 by @salt_lc_04;
+sub seven by seven.salt;
+} salt;
+
+feature ss01 {
+sub @salt_uc_01 by @salt_uc_02;
+sub @salt_uc_03 by @salt_uc_04;
+sub @salt_lc_01 by @salt_lc_02;
+sub @salt_lc_03 by @salt_lc_04;
+sub seven by seven.salt;
+} ss01;
+
+feature tnum {
+sub zero by zero.tnum;
+sub one by one.tnum;
+sub two by two.tnum;
+sub three by three.tnum;
+sub four by four.tnum;
+sub five by five.tnum;
+sub six by six.tnum;
+sub seven by seven.tnum;
+sub eight by eight.tnum;
+sub nine by nine.tnum;
+sub seven.salt by seven.tnum.salt;
+sub cent by cent.tnum;
+sub currency by currency.tnum;
+sub dollar by dollar.tnum;
+sub euro by euro.tnum;
+sub riel-khmer by riel-khmer.tnum;
+sub sterling by sterling.tnum;
+sub yen by yen.tnum;
+sub plus by plus.tnum;
+sub minus by minus.tnum;
+sub multiply by multiply.tnum;
+sub divide by divide.tnum;
+sub equal by equal.tnum;
+sub sora by sora.tnum;
+} tnum;
+
+feature liga {
+sub f f by f_f;
+sub f f i by f_f_i;
+sub f f j by f_f_j;
+sub f f l by f_f_l;
+sub f j by f_j;
+sub f i by fi;
+sub f l by fl;
+sub f.salt f.salt by f_f.salt;
+sub f.salt f.salt i by f_f_i.salt;
+sub f.salt f.salt j by f_f_j.salt;
+sub f.salt f.salt l.salt by f_f_l.salt;
+sub f.salt j by f_j.salt;
+sub f.salt i by fi.salt;
+sub f.salt l.salt by fl.salt;
+} liga;
+
+feature ccmp {
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb ogonekcomb strokelongcomb strokeshortcomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb commaaccentcomb cedillacomb ogonekcomb];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+
+} ccmp;
+
+table GDEF {
+  # automatic
+  GlyphClassDef
+    [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar I Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash N Nacute Ncaron Ncommaaccent Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde W Wacute Wcircumflex Wdieresis Wgrave Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent I.salt Iacute.salt Ibreve.salt Icircumflex.salt Idieresis.salt Idotaccent.salt Igrave.salt Imacron.salt Iogonek.salt Itilde.salt J.salt Jcircumflex.salt Q.salt R.salt Racute.salt Rcaron.salt Rcommaaccent.salt a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek etilde g gbreve gcircumflex gcommaaccent gdotaccent h hbar i idotless iacute ibreve icircumflex idieresis idotaccent igrave imacron iogonek itilde jdotless jcircumflex k kcommaaccent l lacute lcaron lcommaaccent lslash n nacute ncaron ncommaaccent eng ntilde o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent t tbar tcaron tcedilla tcommaaccent u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring utilde w wacute wcircumflex wdieresis wgrave y yacute ycircumflex ydieresis ygrave z zacute zcaron zdotaccent l.salt lacute.salt lcaron.salt lcommaaccent.salt lslash.salt r.salt racute.salt rcaron.salt rcommaaccent.salt t.salt tbar.salt tcaron.salt tcedilla.salt tcommaaccent.salt u.salt uacute.salt ubreve.salt ucircumflex.salt udieresis.salt ugrave.salt uhungarumlaut.salt umacron.salt uogonek.salt uring.salt utilde.salt], # Base
+    , # Liga
+    [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb caroncomb.alt circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb commaturnedabovecomb commaaccentcomb cedillacomb ogonekcomb strokeshortcomb strokelongcomb dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case commaturnedabovecomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case], # Mark
+    ;
+} GDEF;

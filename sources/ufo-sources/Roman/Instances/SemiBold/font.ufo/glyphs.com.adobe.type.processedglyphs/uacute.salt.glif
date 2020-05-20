@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uacute.salt" format="2">
+  <advance width="622"/>
+  <anchor x="311" y="0" name="bottom"/>
+  <anchor x="415" y="10" name="ogonek"/>
+  <anchor x="397" y="809" name="top"/>
+  <anchor x="599" y="534" name="topright"/>
+  <outline>
+    <contour>
+      <point x="311" y="-19" type="curve" name="hintSet0000"/>
+      <point x="454" y="-19"/>
+      <point x="553" y="65"/>
+      <point x="553" y="226" type="curve"/>
+      <point x="553" y="540" type="line"/>
+      <point x="427" y="540" type="line"/>
+      <point x="427" y="213" type="line"/>
+      <point x="427" y="139"/>
+      <point x="381" y="95"/>
+      <point x="311" y="95" type="curve"/>
+      <point x="242" y="95"/>
+      <point x="195" y="139"/>
+      <point x="195" y="213" type="curve"/>
+      <point x="195" y="540" type="line"/>
+      <point x="69" y="540" type="line"/>
+      <point x="69" y="226" type="line"/>
+      <point x="69" y="65"/>
+      <point x="168" y="-19"/>
+    </contour>
+    <contour>
+      <point x="248" y="606" type="line"/>
+      <point x="355" y="606" type="line"/>
+      <point x="467" y="809" type="line"/>
+      <point x="337" y="809" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -19 114</string>
+              <string>hstem 540 -20</string>
+              <string>hstem 606 203</string>
+              <string>vstem 69 126</string>
+              <string>vstem 427 126</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>e48441d9080507c1378a85dbb3b15ca38659af3f1665493571421009b5b38110f152325093f19e5e71999252084fbcc8776662f99c956576964d7d3f3297fc9a</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="multiply.tnum" format="2">
+  <advance width="632"/>
+  <outline>
+    <contour>
+      <point x="503" y="132" type="line" name="hintSet0000"/>
+      <point x="531" y="161" type="line"/>
+      <point x="344" y="346" type="line"/>
+      <point x="531" y="531" type="line"/>
+      <point x="504" y="558" type="line"/>
+      <point x="317" y="374" type="line"/>
+      <point x="130" y="559" type="line"/>
+      <point x="101" y="531" type="line"/>
+      <point x="288" y="345" type="line"/>
+      <point x="101" y="161" type="line"/>
+      <point x="129" y="133" type="line"/>
+      <point x="316" y="318" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 531 -20</string>
+              <string>vstem 101 430</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w632l503132l531161l344346l531531l504558l317374l130559l101531l288345l101161l129133l316318</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

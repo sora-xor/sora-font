@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_j" format="2">
+  <advance width="664"/>
+  <outline>
+    <contour>
+      <point x="106" y="0" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="198" y="583" type="line" smooth="yes"/>
+      <point x="198" y="631"/>
+      <point x="225" y="660"/>
+      <point x="275" y="660" type="curve" smooth="yes"/>
+      <point x="344" y="660" type="line"/>
+      <point x="344" y="740" type="line"/>
+      <point x="291" y="740" type="line" smooth="yes"/>
+      <point x="170" y="740"/>
+      <point x="106" y="686"/>
+      <point x="106" y="567" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="343" y="-200" type="line"/>
+      <point x="387" y="-200" type="line" smooth="yes"/>
+      <point x="521" y="-200"/>
+      <point x="572" y="-155"/>
+      <point x="572" y="-21" type="curve" smooth="yes"/>
+      <point x="572" y="534" type="line"/>
+      <point x="480" y="534" type="line"/>
+      <point x="480" y="-35" type="line" smooth="yes"/>
+      <point x="480" y="-85"/>
+      <point x="451" y="-114"/>
+      <point x="401" y="-114" type="curve" smooth="yes"/>
+      <point x="343" y="-114" type="line"/>
+    </contour>
+    <contour>
+      <point x="32" y="462" type="line"/>
+      <point x="348" y="462" type="line"/>
+      <point x="348" y="534" type="line"/>
+      <point x="32" y="534" type="line"/>
+    </contour>
+    <contour>
+      <point x="402" y="458" type="line"/>
+      <point x="572" y="458" type="line"/>
+      <point x="572" y="534" type="line"/>
+      <point x="402" y="534" type="line"/>
+    </contour>
+    <contour>
+      <point x="503" y="628" type="curve" smooth="yes"/>
+      <point x="546" y="628"/>
+      <point x="566" y="653"/>
+      <point x="566" y="688" type="curve" smooth="yes"/>
+      <point x="566" y="723"/>
+      <point x="546" y="748"/>
+      <point x="503" y="748" type="curve" smooth="yes"/>
+      <point x="460" y="748"/>
+      <point x="440" y="723"/>
+      <point x="440" y="688" type="curve" smooth="yes"/>
+      <point x="440" y="653"/>
+      <point x="460" y="628"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>j</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

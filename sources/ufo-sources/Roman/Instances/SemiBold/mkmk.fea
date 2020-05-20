@@ -1,0 +1,39 @@
+lookup MKMK_MARK_bottom {
+	lookupflag MarkAttachmentType @MC_bottom;
+
+	pos mark commaaccentcomb <anchor 74 -300> mark @MC_bottom;
+	pos mark cedillacomb <anchor 121 -300> mark @MC_bottom;
+	pos mark commaaccentcomb.case <anchor 77 -300> mark @MC_bottom;
+	pos mark cedillacomb.case <anchor 83 -300> mark @MC_bottom;
+} MKMK_MARK_bottom;
+
+
+lookup MKMK_MARK_top {
+	lookupflag MarkAttachmentType @MC_top;
+
+	pos mark dieresiscomb <anchor 176 815> mark @MC_top;
+	pos mark dotaccentcomb <anchor 72 815> mark @MC_top;
+	pos mark gravecomb <anchor 70 815> mark @MC_top;
+	pos mark acutecomb <anchor 149 815> mark @MC_top;
+	pos mark hungarumlautcomb <anchor 197 815> mark @MC_top;
+	pos mark circumflexcomb <anchor 182 815> mark @MC_top;
+	pos mark caroncomb <anchor 179 815> mark @MC_top;
+	pos mark brevecomb <anchor 168 813> mark @MC_top;
+	pos mark ringcomb <anchor 119 815> mark @MC_top;
+	pos mark tildecomb <anchor 171 795> mark @MC_top;
+	pos mark macroncomb <anchor 153 799> mark @MC_top;
+	pos mark commaturnedabovecomb <anchor 74 795> mark @MC_top;
+	pos mark dieresiscomb.case <anchor 185 957> mark @MC_top;
+	pos mark dotaccentcomb.case <anchor 76 957> mark @MC_top;
+	pos mark gravecomb.case <anchor 76 958> mark @MC_top;
+	pos mark acutecomb.case <anchor 189 958> mark @MC_top;
+	pos mark hungarumlautcomb.case <anchor 229 958> mark @MC_top;
+	pos mark circumflexcomb.case <anchor 202 958> mark @MC_top;
+	pos mark caroncomb.case <anchor 206 958> mark @MC_top;
+	pos mark brevecomb.case <anchor 179 958> mark @MC_top;
+	pos mark ringcomb.case <anchor 124 961> mark @MC_top;
+	pos mark tildecomb.case <anchor 185 954> mark @MC_top;
+	pos mark macroncomb.case <anchor 180 954> mark @MC_top;
+	pos mark commaturnedabovecomb.case <anchor 81 916> mark @MC_top;
+} MKMK_MARK_top;
+

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="603"/>
+  <unicode hex="0045"/>
+  <anchor x="326" y="0" name="bottom"/>
+  <anchor x="536" y="10" name="ogonek"/>
+  <anchor x="323" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="116" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="730" type="line"/>
+      <point x="116" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="0" type="line"/>
+      <point x="536" y="0" type="line"/>
+      <point x="536" y="64" type="line"/>
+      <point x="169" y="64" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="339" type="line"/>
+      <point x="502" y="339" type="line"/>
+      <point x="502" y="403" type="line"/>
+      <point x="169" y="403" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="666" type="line"/>
+      <point x="525" y="666" type="line"/>
+      <point x="525" y="730" type="line"/>
+      <point x="169" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

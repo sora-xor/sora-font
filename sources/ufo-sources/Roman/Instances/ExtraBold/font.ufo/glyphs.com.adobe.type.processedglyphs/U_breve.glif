@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ubreve" format="2">
+  <advance width="771"/>
+  <unicode hex="016C"/>
+  <anchor x="386" y="0" name="bottom"/>
+  <anchor x="540" y="17" name="ogonek"/>
+  <anchor x="387" y="968" name="top"/>
+  <outline>
+    <contour>
+      <point x="386" y="-20" type="curve" name="hintSet0000"/>
+      <point x="596" y="-20"/>
+      <point x="711" y="103"/>
+      <point x="711" y="299" type="curve"/>
+      <point x="711" y="730" type="line"/>
+      <point x="525" y="730" type="line"/>
+      <point x="525" y="295" type="line"/>
+      <point x="525" y="207"/>
+      <point x="475" y="154"/>
+      <point x="386" y="154" type="curve"/>
+      <point x="296" y="154"/>
+      <point x="246" y="208"/>
+      <point x="246" y="295" type="curve"/>
+      <point x="246" y="730" type="line"/>
+      <point x="60" y="730" type="line"/>
+      <point x="60" y="299" type="line"/>
+      <point x="60" y="103"/>
+      <point x="176" y="-20"/>
+    </contour>
+    <contour>
+      <point x="386" y="772" type="curve" name="hintSet0011"/>
+      <point x="514" y="772"/>
+      <point x="581" y="847"/>
+      <point x="585" y="968" type="curve"/>
+      <point x="459" y="968" type="line"/>
+      <point x="457" y="920" name="hintSet0014"/>
+      <point x="434" y="894"/>
+      <point x="386" y="894" type="curve"/>
+      <point x="338" y="894" name="hintSet0015"/>
+      <point x="317" y="920"/>
+      <point x="315" y="968" type="curve"/>
+      <point x="185" y="968" type="line"/>
+      <point x="189" y="847" name="hintSet0017"/>
+      <point x="258" y="772"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -20 174</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 772 196</string>
+              <string>vstem 60 186</string>
+              <string>vstem 525 186</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0011</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -20 174</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 772 196</string>
+              <string>vstem 185 130</string>
+              <string>vstem 459 126</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0014</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -20 174</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 772 122</string>
+              <string>vstem 60 186</string>
+              <string>vstem 459 126</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0015</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -20 174</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 772 196</string>
+              <string>vstem 185 130</string>
+              <string>vstem 525 186</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0017</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -20 174</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 772 196</string>
+              <string>vstem 185 130</string>
+              <string>vstem 459 126</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>216078bcf245bd79286a773d501fe06387fbd05987fd930d3993a7460b38f56cd3e7cd62bc01d494be622c0096a75e5670815faecfb83c21cbe3fd2f34eb2520</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

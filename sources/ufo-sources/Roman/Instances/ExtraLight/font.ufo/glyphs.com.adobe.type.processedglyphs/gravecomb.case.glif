@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.case" format="2">
+  <anchor x="140" y="730" name="_top"/>
+  <anchor x="31" y="943" name="top"/>
+  <outline>
+    <contour>
+      <point x="123" y="799" type="line" name="hintSet0000"/>
+      <point x="172" y="799" type="line"/>
+      <point x="57" y="943" type="line"/>
+      <point x="0" y="943" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 799 144</string>
+              <string>vstem 0 172</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w0l123799l172799l57943l0943</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

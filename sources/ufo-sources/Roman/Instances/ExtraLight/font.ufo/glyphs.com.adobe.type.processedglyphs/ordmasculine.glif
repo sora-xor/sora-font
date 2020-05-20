@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="660"/>
+  <unicode hex="00BA"/>
+  <anchor x="330" y="0" name="bottom"/>
+  <anchor x="330" y="262" name="center"/>
+  <anchor x="443" y="9" name="ogonek"/>
+  <anchor x="330" y="524" name="top"/>
+  <outline>
+    <contour>
+      <point x="330" y="-16" type="curve" name="hintSet0000"/>
+      <point x="505" y="-16"/>
+      <point x="600" y="122"/>
+      <point x="600" y="257" type="curve"/>
+      <point x="600" y="266" type="line"/>
+      <point x="600" y="405"/>
+      <point x="500" y="540"/>
+      <point x="330" y="540" type="curve"/>
+      <point x="159" y="540"/>
+      <point x="60" y="405"/>
+      <point x="60" y="266" type="curve"/>
+      <point x="60" y="257" type="line"/>
+      <point x="60" y="122"/>
+      <point x="155" y="-16"/>
+    </contour>
+    <contour>
+      <point x="330" y="28" type="curve"/>
+      <point x="187" y="28"/>
+      <point x="108" y="138"/>
+      <point x="108" y="262" type="curve"/>
+      <point x="108" y="389"/>
+      <point x="190" y="496"/>
+      <point x="330" y="496" type="curve"/>
+      <point x="469" y="496"/>
+      <point x="552" y="389"/>
+      <point x="552" y="262" type="curve"/>
+      <point x="552" y="138"/>
+      <point x="473" y="28"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -16 44</string>
+              <string>hstem 496 44</string>
+              <string>vstem 60 48</string>
+              <string>vstem 552 48</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>0252227bbfe63d0c329b0d70b927f77dc782babad9050e3e04e425b4f44e9f60518acf0adcdb13e6affc719f155a35b4c713c071ff93f4a5f03af5dc96f829b4</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

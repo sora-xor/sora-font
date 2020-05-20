@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eogonek" format="2">
+  <advance width="608"/>
+  <unicode hex="0118"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line" name="hintSet0000"/>
+      <point x="495" y="0" type="line"/>
+      <point x="444" y="-42"/>
+      <point x="409" y="-88"/>
+      <point x="409" y="-148" type="curve"/>
+      <point x="409" y="-210"/>
+      <point x="451" y="-244"/>
+      <point x="504" y="-244" type="curve"/>
+      <point x="523" y="-244"/>
+      <point x="536" y="-241"/>
+      <point x="550" y="-235" type="curve"/>
+      <point x="550" y="-207" type="line"/>
+      <point x="534" y="-213"/>
+      <point x="519" y="-216"/>
+      <point x="504" y="-216" type="curve"/>
+      <point x="467" y="-216"/>
+      <point x="437" y="-196"/>
+      <point x="437" y="-148" type="curve"/>
+      <point x="437" y="-100"/>
+      <point x="463" y="-59"/>
+      <point x="511" y="-19" type="curve"/>
+      <point x="534" y="0" type="line"/>
+      <point x="534" y="30" type="line"/>
+      <point x="162" y="30" type="line"/>
+      <point x="162" y="356" type="line"/>
+      <point x="495" y="356" type="line"/>
+      <point x="495" y="386" type="line"/>
+      <point x="162" y="386" type="line"/>
+      <point x="162" y="700" type="line"/>
+      <point x="521" y="700" type="line"/>
+      <point x="521" y="730" type="line"/>
+      <point x="130" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -244 28</string>
+              <string>hstem 0 30</string>
+              <string>hstem 356 30</string>
+              <string>hstem 700 30</string>
+              <string>vstem 130 32</string>
+              <string>vstem 409 28</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>0c948b5d8f3d80e42d3372e80f4c09ac2b9c734a371c809d1c9d1750e5840d6676b1efdd980fd9e525e6821b4b5c07300fafe23f7359ad5dac4e23d18bfe06fb</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

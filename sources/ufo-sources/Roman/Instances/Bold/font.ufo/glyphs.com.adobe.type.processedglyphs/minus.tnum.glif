@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minus.tnum" format="2">
+  <advance width="669"/>
+  <outline>
+    <contour>
+      <point x="74" y="279" type="line" name="hintSet0000"/>
+      <point x="595" y="279" type="line"/>
+      <point x="595" y="409" type="line"/>
+      <point x="74" y="409" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 279 130</string>
+              <string>vstem 74 521</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w669l74279l595279l595409l74409</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

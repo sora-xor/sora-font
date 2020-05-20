@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ibreve" format="2">
+  <advance width="332"/>
+  <unicode hex="012C"/>
+  <anchor x="166" y="0" name="bottom"/>
+  <anchor x="237" y="10" name="ogonek"/>
+  <anchor x="167" y="964" name="top"/>
+  <anchor x="-3" y="730" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line" name="hintSet0000"/>
+      <point x="248" y="0" type="line"/>
+      <point x="248" y="730" type="line"/>
+      <point x="84" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="166" y="775" type="curve" name="hintSet0004"/>
+      <point x="290" y="775"/>
+      <point x="352" y="850"/>
+      <point x="357" y="964" type="curve"/>
+      <point x="247" y="964" type="line"/>
+      <point x="245" y="914"/>
+      <point x="220" y="882"/>
+      <point x="166" y="882" type="curve"/>
+      <point x="112" y="882"/>
+      <point x="90" y="914"/>
+      <point x="88" y="964" type="curve"/>
+      <point x="-26" y="964" type="line"/>
+      <point x="-22" y="850"/>
+      <point x="42" y="775"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 775 107</string>
+              <string>vstem 84 164</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0004</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 775 107</string>
+              <string>vstem -26 114</string>
+              <string>vstem 247 110</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w332l840l2480l248730l84730c166775290775352850c357964l247964245914220882c16688211288290914c88964l-26964-2285042775</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

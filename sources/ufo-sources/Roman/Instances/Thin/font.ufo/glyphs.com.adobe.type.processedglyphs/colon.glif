@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="250"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="101" y="0" type="line" name="hintSet0000"/>
+      <point x="149" y="0" type="line"/>
+      <point x="149" y="54" type="line"/>
+      <point x="101" y="54" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="390" type="line"/>
+      <point x="149" y="390" type="line"/>
+      <point x="149" y="444" type="line"/>
+      <point x="101" y="444" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 54</string>
+              <string>hstem 390 54</string>
+              <string>vstem 101 48</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w250l1010l1490l14954l10154l101390l149390l149444l101444</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>period</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>period</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

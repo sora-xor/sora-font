@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Imacron.salt" format="2">
+  <advance width="445"/>
+  <outline>
+    <contour>
+      <point x="81" y="851" type="line" name="hintSet0000"/>
+      <point x="365" y="851" type="line"/>
+      <point x="365" y="889" type="line"/>
+      <point x="81" y="889" type="line"/>
+    </contour>
+    <contour>
+      <point x="108" y="687" type="line"/>
+      <point x="198" y="687" type="line"/>
+      <point x="198" y="44" type="line"/>
+      <point x="108" y="44" type="line"/>
+      <point x="108" y="0" type="line"/>
+      <point x="338" y="0" type="line"/>
+      <point x="338" y="44" type="line"/>
+      <point x="247" y="44" type="line"/>
+      <point x="247" y="687" type="line"/>
+      <point x="338" y="687" type="line"/>
+      <point x="338" y="730" type="line"/>
+      <point x="108" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 44</string>
+              <string>hstem 687 43</string>
+              <string>hstem 851 38</string>
+              <string>vstem 198 49</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w445l81851l365851l365889l81889l108687l198687l19844l10844l1080l3380l33844l24744l247687l338687l338730l108730</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

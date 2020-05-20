@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE" format="2">
+  <advance width="1045"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="434" y="-21" type="curve" smooth="yes"/>
+      <point x="490" y="-21"/>
+      <point x="535" y="-13"/>
+      <point x="569" y="0" type="curve"/>
+      <point x="692" y="0" type="line"/>
+      <point x="692" y="730" type="line"/>
+      <point x="569" y="730" type="line"/>
+      <point x="533" y="743"/>
+      <point x="485" y="751"/>
+      <point x="434" y="751" type="curve" smooth="yes"/>
+      <point x="172" y="751"/>
+      <point x="43" y="558"/>
+      <point x="43" y="377" type="curve" smooth="yes"/>
+      <point x="43" y="355" type="line" smooth="yes"/>
+      <point x="43" y="191"/>
+      <point x="164" y="-21"/>
+    </contour>
+    <contour>
+      <point x="434" y="131" type="curve" smooth="yes"/>
+      <point x="295" y="131"/>
+      <point x="209" y="235"/>
+      <point x="209" y="365" type="curve" smooth="yes"/>
+      <point x="209" y="501"/>
+      <point x="295" y="599"/>
+      <point x="434" y="599" type="curve" smooth="yes"/>
+      <point x="477" y="599"/>
+      <point x="519" y="590"/>
+      <point x="550" y="575" type="curve"/>
+      <point x="533" y="599" type="line"/>
+      <point x="533" y="129" type="line"/>
+      <point x="550" y="156" type="line"/>
+      <point x="521" y="141"/>
+      <point x="475" y="131"/>
+    </contour>
+    <contour>
+      <point x="672" y="0" type="line"/>
+      <point x="992" y="0" type="line"/>
+      <point x="992" y="136" type="line"/>
+      <point x="672" y="136" type="line"/>
+    </contour>
+    <contour>
+      <point x="672" y="303" type="line"/>
+      <point x="969" y="303" type="line"/>
+      <point x="969" y="439" type="line"/>
+      <point x="672" y="439" type="line"/>
+    </contour>
+    <contour>
+      <point x="672" y="594" type="line"/>
+      <point x="985" y="594" type="line"/>
+      <point x="985" y="730" type="line"/>
+      <point x="672" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

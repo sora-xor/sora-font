@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft.case" format="2">
+  <advance width="392"/>
+  <outline>
+    <contour>
+      <point x="201" y="-118" type="curve" name="hintSet0000"/>
+      <point x="382" y="-118" type="line"/>
+      <point x="261" y="20"/>
+      <point x="210" y="164"/>
+      <point x="210" y="349" type="curve"/>
+      <point x="210" y="535"/>
+      <point x="284" y="674"/>
+      <point x="382" y="806" type="curve"/>
+      <point x="205" y="806" type="line"/>
+      <point x="113" y="690"/>
+      <point x="52" y="559"/>
+      <point x="52" y="349" type="curve"/>
+      <point x="52" y="139"/>
+      <point x="108" y="3"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -118 924</string>
+              <string>vstem 52 158</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w392c201-118l382-11826120210164c210349210535284674c382806l20580611369052559c52349521391083</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>bracketleft</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

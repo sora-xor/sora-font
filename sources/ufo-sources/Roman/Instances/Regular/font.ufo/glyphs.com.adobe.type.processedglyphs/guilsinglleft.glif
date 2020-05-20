@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft" format="2">
+  <advance width="322"/>
+  <unicode hex="2039"/>
+  <guideline x="6" y="261" angle="0"/>
+  <guideline x="6" y="483" angle="0"/>
+  <guideline x="6" y="39" angle="0"/>
+  <outline>
+    <contour>
+      <point x="170" y="39" type="line" name="hintSet0000"/>
+      <point x="266" y="39" type="line"/>
+      <point x="130" y="252" type="line"/>
+      <point x="130" y="270" type="line"/>
+      <point x="266" y="483" type="line"/>
+      <point x="176" y="483" type="line"/>
+      <point x="40" y="279" type="line"/>
+      <point x="40" y="237" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 39 444</string>
+              <string>vstem 40 90</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w322l17039l26639l130252l130270l266483l176483l40279l40237</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

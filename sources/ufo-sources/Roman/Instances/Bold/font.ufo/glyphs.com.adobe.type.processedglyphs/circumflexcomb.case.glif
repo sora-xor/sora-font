@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.case" format="2">
+  <anchor x="222" y="730" name="_top"/>
+  <anchor x="222" y="964" name="top"/>
+  <outline>
+    <contour>
+      <point x="0" y="785" type="line" name="hintSet0000"/>
+      <point x="143" y="785" type="line"/>
+      <point x="213" y="888" type="line" name="hintSet0002"/>
+      <point x="231" y="888" type="line"/>
+      <point x="304" y="785" type="line" name="hintSet0004"/>
+      <point x="450" y="785" type="line"/>
+      <point x="318" y="964" type="line"/>
+      <point x="129" y="964" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 785 179</string>
+              <string>vstem 0 450</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0002</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 888 76</string>
+              <string>vstem 0 450</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0004</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 785 179</string>
+              <string>vstem 0 450</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w0l0785l143785l213888l231888l304785l450785l318964l129964</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

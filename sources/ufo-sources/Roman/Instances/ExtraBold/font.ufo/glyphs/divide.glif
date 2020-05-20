@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="598"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="44" y="270" type="line"/>
+      <point x="554" y="270" type="line"/>
+      <point x="554" y="418" type="line"/>
+      <point x="44" y="418" type="line"/>
+    </contour>
+    <contour>
+      <point x="217" y="50" type="line"/>
+      <point x="381" y="50" type="line"/>
+      <point x="381" y="208" type="line"/>
+      <point x="217" y="208" type="line"/>
+    </contour>
+    <contour>
+      <point x="217" y="480" type="line"/>
+      <point x="381" y="480" type="line"/>
+      <point x="381" y="638" type="line"/>
+      <point x="217" y="638" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

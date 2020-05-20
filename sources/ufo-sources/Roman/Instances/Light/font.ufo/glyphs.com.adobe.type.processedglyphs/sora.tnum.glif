@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sora.tnum" format="2">
+  <advance width="640"/>
+  <outline>
+    <contour>
+      <point x="36" y="677" type="line" name="hintSet0000"/>
+      <point x="287" y="677" type="line"/>
+      <point x="287" y="542" type="line"/>
+      <point x="36" y="542" type="line"/>
+      <point x="36" y="489" type="line"/>
+      <point x="276" y="489" type="line"/>
+      <point x="14" y="27" type="line"/>
+      <point x="70" y="-6" type="line"/>
+      <point x="314" y="428" type="line"/>
+      <point x="325" y="428" type="line"/>
+      <point x="568" y="-6" type="line"/>
+      <point x="627" y="27" type="line"/>
+      <point x="365" y="489" type="line"/>
+      <point x="604" y="489" type="line"/>
+      <point x="604" y="542" type="line"/>
+      <point x="353" y="542" type="line"/>
+      <point x="353" y="677" type="line"/>
+      <point x="604" y="677" type="line"/>
+      <point x="604" y="730" type="line"/>
+      <point x="36" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 15 -21</string>
+              <string>hstem 489 53</string>
+              <string>hstem 677 53</string>
+              <string>vstem 287 66</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>21da5162b57fbd8f0e84a475674edccf53be7f2d21a4cf9c46b8fda358c9fb6e41cefd9fee5039f93927152278f2cc81cc3c99428bca825722f477f757ab999f</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

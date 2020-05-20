@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscore" format="2">
+  <advance width="589"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="0" y="-171" type="line" name="hintSet0000"/>
+      <point x="589" y="-171" type="line"/>
+      <point x="589" y="-51" type="line"/>
+      <point x="0" y="-51" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -171 120</string>
+              <string>vstem 0 589</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w589l0-171l589-171l589-51l0-51</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

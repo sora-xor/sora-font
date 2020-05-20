@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright.case" format="2">
+  <advance width="356"/>
+  <outline>
+    <contour>
+      <point x="66" y="-118" type="curve" name="hintSet0000"/>
+      <point x="30" y="-118" type="line"/>
+      <point x="149" y="21"/>
+      <point x="222" y="149"/>
+      <point x="222" y="347" type="curve"/>
+      <point x="222" y="543"/>
+      <point x="149" y="669"/>
+      <point x="30" y="806" type="curve"/>
+      <point x="66" y="806" type="line"/>
+      <point x="174" y="687"/>
+      <point x="254" y="550"/>
+      <point x="254" y="347" type="curve"/>
+      <point x="254" y="142"/>
+      <point x="174" y="3"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -118 924</string>
+              <string>vstem 30 224</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w356c66-118l30-11814921222149c222347222543149669c30806l66806174687254550c2543472541421743</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>parenleft.case</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>bracketleft</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

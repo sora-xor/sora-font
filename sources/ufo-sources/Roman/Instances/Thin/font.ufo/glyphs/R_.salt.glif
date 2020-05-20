@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R.salt" format="2">
+  <advance width="683"/>
+  <anchor x="373" y="0" name="bottom"/>
+  <anchor x="333" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="162" y="732" type="line"/>
+      <point x="130" y="732" type="line"/>
+    </contour>
+    <contour>
+      <point x="586" y="0" type="line"/>
+      <point x="621" y="0" type="line"/>
+      <point x="417" y="368" type="line"/>
+      <point x="382" y="368" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="358" type="line"/>
+      <point x="393" y="358" type="line" smooth="yes"/>
+      <point x="531" y="358"/>
+      <point x="591" y="433"/>
+      <point x="591" y="540" type="curve" smooth="yes"/>
+      <point x="591" y="550" type="line" smooth="yes"/>
+      <point x="591" y="657"/>
+      <point x="531" y="732"/>
+      <point x="393" y="732" type="curve" smooth="yes"/>
+      <point x="144" y="732" type="line"/>
+      <point x="144" y="702" type="line"/>
+      <point x="395" y="702" type="line" smooth="yes"/>
+      <point x="516" y="702"/>
+      <point x="559" y="636"/>
+      <point x="559" y="545" type="curve" smooth="yes"/>
+      <point x="559" y="454"/>
+      <point x="516" y="388"/>
+      <point x="395" y="388" type="curve" smooth="yes"/>
+      <point x="144" y="388" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

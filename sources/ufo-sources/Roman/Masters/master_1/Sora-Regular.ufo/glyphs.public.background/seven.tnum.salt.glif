@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.tnum.salt" format="2">
+  <outline>
+    <contour>
+      <point x="245" y="0" type="line"/>
+      <point x="337" y="0" type="line"/>
+      <point x="337" y="125" type="line" smooth="yes"/>
+      <point x="337" y="322"/>
+      <point x="408" y="471"/>
+      <point x="571" y="593" type="curve"/>
+      <point x="571" y="720" type="line"/>
+      <point x="72" y="720" type="line"/>
+      <point x="72" y="638" type="line"/>
+      <point x="471" y="638" type="line"/>
+      <point x="479" y="620" type="line"/>
+      <point x="334" y="512"/>
+      <point x="245" y="337"/>
+      <point x="245" y="125" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

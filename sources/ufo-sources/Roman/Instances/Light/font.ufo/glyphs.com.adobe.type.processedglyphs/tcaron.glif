@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron" format="2">
+  <advance width="420"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="287" y="-6" type="curve" name="hintSet0000"/>
+      <point x="371" y="-6" type="line"/>
+      <point x="371" y="58" type="line"/>
+      <point x="275" y="58" type="line"/>
+      <point x="214" y="58"/>
+      <point x="179" y="93"/>
+      <point x="179" y="154" type="curve"/>
+      <point x="179" y="474" type="line"/>
+      <point x="371" y="474" type="line"/>
+      <point x="371" y="528" type="line"/>
+      <point x="179" y="528" type="line"/>
+      <point x="179" y="696" type="line"/>
+      <point x="111" y="696" type="line"/>
+      <point x="111" y="528" type="line"/>
+      <point x="15" y="528" type="line"/>
+      <point x="15" y="474" type="line"/>
+      <point x="111" y="474" type="line"/>
+      <point x="111" y="165" type="line"/>
+      <point x="111" y="36"/>
+      <point x="180" y="-6"/>
+    </contour>
+    <contour>
+      <point x="266" y="622" type="line"/>
+      <point x="317" y="622" type="line"/>
+      <point x="325" y="855" type="line"/>
+      <point x="266" y="855" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -6 64</string>
+              <string>hstem 474 54</string>
+              <string>hstem 622 74</string>
+              <string>vstem 111 68</string>
+              <string>vstem 266 55</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>338428e1ae7a5b49c7ea2666505adcb864776941d5131c269e4a952133faeef39b148c1538def3de2d867e3845adf9a170e7cfa80149964c645f2a031eec2cf4</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

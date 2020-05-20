@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adieresis" format="2">
+  <advance width="790"/>
+  <unicode hex="00C4"/>
+  <outline>
+    <contour>
+      <point x="8" y="0" type="line" name="hintSet0000"/>
+      <point x="194" y="0" type="line"/>
+      <point x="246" y="169" type="line"/>
+      <point x="537" y="169" type="line"/>
+      <point x="590" y="0" type="line"/>
+      <point x="782" y="0" type="line"/>
+      <point x="540" y="730" type="line"/>
+      <point x="242" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="292" y="321" type="line"/>
+      <point x="371" y="580" type="line"/>
+      <point x="408" y="580" type="line"/>
+      <point x="489" y="321" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="790" type="curve"/>
+      <point x="343" y="790"/>
+      <point x="373" y="827"/>
+      <point x="373" y="880" type="curve"/>
+      <point x="373" y="933"/>
+      <point x="343" y="970"/>
+      <point x="277" y="970" type="curve"/>
+      <point x="211" y="970"/>
+      <point x="181" y="933"/>
+      <point x="181" y="880" type="curve"/>
+      <point x="181" y="827"/>
+      <point x="211" y="790"/>
+    </contour>
+    <contour>
+      <point x="505" y="790" type="curve"/>
+      <point x="571" y="790"/>
+      <point x="601" y="827"/>
+      <point x="601" y="880" type="curve"/>
+      <point x="601" y="933"/>
+      <point x="571" y="970"/>
+      <point x="505" y="970" type="curve"/>
+      <point x="439" y="970"/>
+      <point x="409" y="933"/>
+      <point x="409" y="880" type="curve"/>
+      <point x="409" y="827"/>
+      <point x="439" y="790"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 169 152</string>
+              <string>hstem 580 150</string>
+              <string>hstem 790 180</string>
+              <string>vstem 181 192</string>
+              <string>vstem 409 192</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>9fc6d614df059ae1b01eaddae6a7cea41c8d6289243f56820d02bc35de090fe5c6323c6db2452d035cf6a8d494d2596db2b455fcc14a1b9b3bc266ceff691f11</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

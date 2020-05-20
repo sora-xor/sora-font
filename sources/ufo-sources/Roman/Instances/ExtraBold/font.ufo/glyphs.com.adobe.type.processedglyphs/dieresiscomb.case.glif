@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.case" format="2">
+  <anchor x="210" y="730" name="_top"/>
+  <anchor x="210" y="966" name="top"/>
+  <outline>
+    <contour>
+      <point x="96" y="790" type="curve" name="hintSet0000"/>
+      <point x="162" y="790"/>
+      <point x="192" y="827"/>
+      <point x="192" y="880" type="curve"/>
+      <point x="192" y="933"/>
+      <point x="162" y="970"/>
+      <point x="96" y="970" type="curve"/>
+      <point x="30" y="970"/>
+      <point x="0" y="933"/>
+      <point x="0" y="880" type="curve"/>
+      <point x="0" y="827"/>
+      <point x="30" y="790"/>
+    </contour>
+    <contour>
+      <point x="324" y="790" type="curve"/>
+      <point x="390" y="790"/>
+      <point x="420" y="827"/>
+      <point x="420" y="880" type="curve"/>
+      <point x="420" y="933"/>
+      <point x="390" y="970"/>
+      <point x="324" y="970" type="curve"/>
+      <point x="258" y="970"/>
+      <point x="228" y="933"/>
+      <point x="228" y="880" type="curve"/>
+      <point x="228" y="827"/>
+      <point x="258" y="790"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 790 180</string>
+              <string>vstem 0 192</string>
+              <string>vstem 228 192</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>55270a5a7f1b9b303113cd8771a8c664103373cc5966b8e30d7f1913ca315068c8fd6f76821ddda49cfcbd0c6cf11837806fe13d3821d29fd756dc7097c1d4d7</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotaccentcomb.case</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

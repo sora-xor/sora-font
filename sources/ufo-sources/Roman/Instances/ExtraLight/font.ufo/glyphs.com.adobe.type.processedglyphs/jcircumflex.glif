@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jcircumflex" format="2">
+  <advance width="295"/>
+  <unicode hex="0135"/>
+  <outline>
+    <contour>
+      <point x="53" y="482" type="line" name="hintSet0000"/>
+      <point x="143" y="482" type="line"/>
+      <point x="143" y="-62" type="line"/>
+      <point x="143" y="-126"/>
+      <point x="115" y="-158"/>
+      <point x="61" y="-158" type="curve"/>
+      <point x="-5" y="-158" type="line"/>
+      <point x="-5" y="-202" type="line"/>
+      <point x="48" y="-202" type="line"/>
+      <point x="150" y="-202"/>
+      <point x="190" y="-160"/>
+      <point x="190" y="-48" type="curve"/>
+      <point x="190" y="524" type="line"/>
+      <point x="53" y="524" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="612" type="line"/>
+      <point x="32" y="612" type="line"/>
+      <point x="123" y="771" type="line"/>
+      <point x="131" y="771" type="line"/>
+      <point x="223" y="612" type="line"/>
+      <point x="266" y="612" type="line"/>
+      <point x="159" y="800" type="line"/>
+      <point x="95" y="800" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -202 44</string>
+              <string>hstem 482 42</string>
+              <string>hstem 771 29</string>
+              <string>vstem 143 47</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>cb4e150d37767da2edb9f88cc97e5f3731eb3035705bfd79824b02f1311fe0c47c50fbd061e7b065c9eada654314ee3c903a9bc7867f31dd1f969611081afb57</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

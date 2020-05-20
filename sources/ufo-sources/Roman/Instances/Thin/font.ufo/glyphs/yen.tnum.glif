@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen.tnum" format="2">
+  <advance width="626"/>
+  <outline>
+    <contour>
+      <point x="287" y="319" type="line"/>
+      <point x="349" y="319" type="line"/>
+      <point x="566" y="730" type="line"/>
+      <point x="533" y="730" type="line"/>
+      <point x="325" y="333" type="line"/>
+      <point x="347" y="340" type="line"/>
+      <point x="291" y="340" type="line"/>
+      <point x="312" y="333" type="line"/>
+      <point x="94" y="730" type="line"/>
+      <point x="60" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="302" y="0" type="line"/>
+      <point x="332" y="0" type="line"/>
+      <point x="332" y="326" type="line"/>
+      <point x="302" y="326" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="174" type="line"/>
+      <point x="544" y="174" type="line"/>
+      <point x="544" y="202" type="line"/>
+      <point x="90" y="202" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="312" type="line"/>
+      <point x="544" y="312" type="line"/>
+      <point x="544" y="340" type="line"/>
+      <point x="90" y="340" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

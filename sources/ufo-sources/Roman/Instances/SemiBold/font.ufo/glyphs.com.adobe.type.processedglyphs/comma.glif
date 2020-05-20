@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comma" format="2">
+  <advance width="267"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="116" y="-164" type="line" name="hintSet0000"/>
+      <point x="221" y="115" type="line"/>
+      <point x="116" y="154" type="line"/>
+      <point x="17" y="-126" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -164 318</string>
+              <string>vstem 17 204</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w267l116-164l221115l116154l17-126</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>period</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

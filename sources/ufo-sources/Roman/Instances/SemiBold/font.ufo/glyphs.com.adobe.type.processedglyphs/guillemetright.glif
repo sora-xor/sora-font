@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright" format="2">
+  <advance width="592"/>
+  <unicode hex="00BB"/>
+  <guideline x="78" y="261" angle="0.0"/>
+  <guideline x="78" y="483" angle="0.0"/>
+  <guideline x="78" y="39" angle="0.0"/>
+  <outline>
+    <contour>
+      <point x="431" y="483" type="line" name="hintSet0000"/>
+      <point x="294" y="483" type="line"/>
+      <point x="433" y="273" type="line"/>
+      <point x="433" y="249" type="line"/>
+      <point x="294" y="39" type="line"/>
+      <point x="425" y="39" type="line"/>
+      <point x="562" y="241" type="line"/>
+      <point x="562" y="286" type="line"/>
+    </contour>
+    <contour>
+      <point x="180" y="483" type="line"/>
+      <point x="43" y="483" type="line"/>
+      <point x="182" y="273" type="line"/>
+      <point x="182" y="249" type="line"/>
+      <point x="43" y="39" type="line"/>
+      <point x="174" y="39" type="line"/>
+      <point x="311" y="241" type="line"/>
+      <point x="311" y="286" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 39 444</string>
+              <string>vstem 182 129</string>
+              <string>vstem 433 129</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w592l431483l294483l433273l433249l29439l42539l562241l562286l180483l43483l182273l182249l4339l17439l311241l311286</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>guilsinglright</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>guilsinglright</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

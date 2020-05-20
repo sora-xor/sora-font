@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Agrave" format="2">
+  <advance width="734"/>
+  <unicode hex="00C0"/>
+  <outline>
+    <contour>
+      <point x="42" y="0" type="line" name="hintSet0000"/>
+      <point x="74" y="0" type="line"/>
+      <point x="174" y="260" type="line"/>
+      <point x="555" y="260" type="line"/>
+      <point x="659" y="0" type="line"/>
+      <point x="692" y="0" type="line"/>
+      <point x="401" y="730" type="line"/>
+      <point x="323" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="185" y="290" type="line"/>
+      <point x="342" y="700" type="line"/>
+      <point x="380" y="700" type="line"/>
+      <point x="543" y="290" type="line"/>
+    </contour>
+    <contour>
+      <point x="354" y="802" type="line"/>
+      <point x="390" y="802" type="line"/>
+      <point x="278" y="940" type="line"/>
+      <point x="240" y="940" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 260 30</string>
+              <string>hstem 700 30</string>
+              <string>vstem 42 650</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w734l420l740l174260l555260l6590l6920l401730l323730l185290l342700l380700l543290l354802l390802l278940l240940</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

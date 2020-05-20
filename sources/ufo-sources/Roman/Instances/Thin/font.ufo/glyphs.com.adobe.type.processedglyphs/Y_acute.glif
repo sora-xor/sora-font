@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yacute" format="2">
+  <advance width="644"/>
+  <unicode hex="00DD"/>
+  <outline>
+    <contour>
+      <point x="271" y="289" type="line" name="hintSet0000"/>
+      <point x="309" y="289" type="line"/>
+      <point x="309" y="0" type="line"/>
+      <point x="341" y="0" type="line"/>
+      <point x="341" y="289" type="line"/>
+      <point x="379" y="289" type="line"/>
+      <point x="608" y="730" type="line"/>
+      <point x="575" y="730" type="line"/>
+      <point x="363" y="319" type="line"/>
+      <point x="288" y="319" type="line"/>
+      <point x="66" y="730" type="line"/>
+      <point x="32" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="295" y="802" type="line"/>
+      <point x="330" y="802" type="line"/>
+      <point x="444" y="940" type="line"/>
+      <point x="407" y="940" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 289 30</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 309 32</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w644l271289l309289l3090l3410l341289l379289l608730l575730l363319l288319l66730l32730l295802l330802l444940l407940</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

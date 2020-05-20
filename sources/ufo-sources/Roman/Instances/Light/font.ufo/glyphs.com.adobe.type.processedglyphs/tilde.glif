@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde" format="2">
+  <advance width="300"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="218" y="646" type="curve" name="hintSet0000"/>
+      <point x="255" y="646"/>
+      <point x="286" y="665"/>
+      <point x="306" y="695" type="curve"/>
+      <point x="288" y="740" type="line"/>
+      <point x="270" y="714"/>
+      <point x="247" y="699"/>
+      <point x="220" y="699" type="curve"/>
+      <point x="172" y="699" name="hintSet0004"/>
+      <point x="151" y="750"/>
+      <point x="87" y="750" type="curve"/>
+      <point x="51" y="750"/>
+      <point x="20" y="731"/>
+      <point x="0" y="701" type="curve"/>
+      <point x="18" y="656" type="line"/>
+      <point x="37" y="682"/>
+      <point x="58" y="697"/>
+      <point x="85" y="697" type="curve"/>
+      <point x="135" y="697" name="hintSet0008"/>
+      <point x="156" y="646"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 646 53</string>
+              <string>hstem 740 -20</string>
+              <string>vstem 0 306</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0004</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 697 53</string>
+              <string>vstem 0 306</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0008</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 646 53</string>
+              <string>hstem 740 -20</string>
+              <string>vstem 0 306</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w300c218646255646286665c306695l288740270714247699c220699172699151750c877505175020731c0701l186563768258697c85697135697156646</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

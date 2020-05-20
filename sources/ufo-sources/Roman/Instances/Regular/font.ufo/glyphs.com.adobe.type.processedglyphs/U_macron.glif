@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Umacron" format="2">
+  <advance width="789"/>
+  <unicode hex="016A"/>
+  <anchor x="395" y="0" name="bottom"/>
+  <anchor x="520" y="10" name="ogonek"/>
+  <anchor x="395" y="946" name="top"/>
+  <outline>
+    <contour>
+      <point x="395" y="-18" type="curve" name="hintSet0000"/>
+      <point x="594" y="-18"/>
+      <point x="697" y="106"/>
+      <point x="697" y="290" type="curve"/>
+      <point x="697" y="730" type="line"/>
+      <point x="599" y="730" type="line"/>
+      <point x="599" y="278" type="line"/>
+      <point x="599" y="154"/>
+      <point x="526" y="72"/>
+      <point x="395" y="72" type="curve"/>
+      <point x="263" y="72"/>
+      <point x="190" y="155"/>
+      <point x="190" y="278" type="curve"/>
+      <point x="190" y="730" type="line"/>
+      <point x="92" y="730" type="line"/>
+      <point x="92" y="290" type="line"/>
+      <point x="92" y="106"/>
+      <point x="196" y="-18"/>
+    </contour>
+    <contour>
+      <point x="229" y="834" type="line"/>
+      <point x="561" y="834" type="line"/>
+      <point x="561" y="903" type="line"/>
+      <point x="229" y="903" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -18 90</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 834 69</string>
+              <string>vstem 92 98</string>
+              <string>vstem 599 98</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>62e0d4634168346fada4009e7f9330e65a79c6a1de0b219debbd931693266d16e135916ed0291179f8e5ccac986c57d787862d63c86bc2c82e17be13dd4fd6bf</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

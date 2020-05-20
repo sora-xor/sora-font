@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ibreve.salt" format="2">
+  <advance width="457"/>
+  <outline>
+    <contour>
+      <point x="66" y="606" type="line" name="hintSet0000"/>
+      <point x="147" y="606" type="line"/>
+      <point x="147" y="124" type="line"/>
+      <point x="66" y="124" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="391" y="0" type="line"/>
+      <point x="391" y="124" type="line"/>
+      <point x="310" y="124" type="line"/>
+      <point x="310" y="606" type="line"/>
+      <point x="391" y="606" type="line"/>
+      <point x="391" y="730" type="line"/>
+      <point x="66" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="229" y="775" type="curve" name="hintSet0012"/>
+      <point x="353" y="775"/>
+      <point x="415" y="850"/>
+      <point x="420" y="964" type="curve"/>
+      <point x="310" y="964" type="line"/>
+      <point x="308" y="914"/>
+      <point x="283" y="882"/>
+      <point x="229" y="882" type="curve"/>
+      <point x="175" y="882"/>
+      <point x="153" y="914"/>
+      <point x="151" y="964" type="curve"/>
+      <point x="37" y="964" type="line"/>
+      <point x="41" y="850"/>
+      <point x="105" y="775"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 124</string>
+              <string>hstem 606 124</string>
+              <string>hstem 775 107</string>
+              <string>vstem 147 163</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0012</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 124</string>
+              <string>hstem 606 124</string>
+              <string>hstem 775 107</string>
+              <string>vstem 37 114</string>
+              <string>vstem 310 110</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>cc2b87a81e2b53806c5596ab9e603994c3b8bcb912c5f29e9282e6d9a5e857c9ea3a6c6b67414f7ec741cd152fb1f096c35edb7a7a0149aae65476066b995f42</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

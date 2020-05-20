@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ibreve" format="2">
+  <advance width="314"/>
+  <unicode hex="012C"/>
+  <anchor x="157" y="0" name="bottom"/>
+  <anchor x="204" y="10" name="ogonek"/>
+  <anchor x="157" y="952" name="top"/>
+  <anchor x="21" y="730" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="108" y="0" type="line" name="hintSet0000"/>
+      <point x="206" y="0" type="line"/>
+      <point x="206" y="730" type="line"/>
+      <point x="108" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="782" type="curve"/>
+      <point x="271" y="782"/>
+      <point x="318" y="858"/>
+      <point x="323" y="952" type="curve"/>
+      <point x="261" y="952" type="line"/>
+      <point x="258" y="895"/>
+      <point x="227" y="846"/>
+      <point x="157" y="846" type="curve"/>
+      <point x="87" y="846"/>
+      <point x="62" y="895"/>
+      <point x="59" y="952" type="curve"/>
+      <point x="-9" y="952" type="line"/>
+      <point x="-4" y="858"/>
+      <point x="43" y="782"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 782 64</string>
+              <string>vstem -9 68</string>
+              <string>vstem 108 98</string>
+              <string>vstem 261 62</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w314l1080l2060l206730l108730c157782271782318858c323952l261952258895227846c1578468784662895c59952l-9952-485843782</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

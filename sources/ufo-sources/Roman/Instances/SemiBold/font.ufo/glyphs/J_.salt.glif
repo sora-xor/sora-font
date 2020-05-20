@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J.salt" format="2">
+  <advance width="595"/>
+  <anchor x="278" y="0" name="bottom"/>
+  <anchor x="444" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="276" y="-21" type="curve" smooth="yes"/>
+      <point x="418" y="-21"/>
+      <point x="508" y="63"/>
+      <point x="508" y="221" type="curve" smooth="yes"/>
+      <point x="508" y="730" type="line"/>
+      <point x="380" y="730" type="line"/>
+      <point x="380" y="202" type="line" smooth="yes"/>
+      <point x="380" y="137"/>
+      <point x="339" y="99"/>
+      <point x="276" y="99" type="curve" smooth="yes"/>
+      <point x="213" y="99"/>
+      <point x="173" y="137"/>
+      <point x="173" y="202" type="curve" smooth="yes"/>
+      <point x="173" y="324" type="line"/>
+      <point x="44" y="324" type="line"/>
+      <point x="44" y="221" type="line" smooth="yes"/>
+      <point x="44" y="63"/>
+      <point x="133" y="-21"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=H-8</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

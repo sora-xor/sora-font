@@ -1,0 +1,6 @@
+table OS/2 {
+	include (../os2.fea);
+} OS/2;
+
+include (../../../familyGSUB.fea);
+include (../../../familyGPOS.fea);

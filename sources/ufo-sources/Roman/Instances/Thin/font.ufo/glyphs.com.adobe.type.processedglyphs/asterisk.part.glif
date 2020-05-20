@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk.part" format="2">
+  <advance width="185"/>
+  <outline>
+    <contour>
+      <point x="161" y="332" type="line" name="hintSet0000"/>
+      <point x="178" y="362" type="line"/>
+      <point x="30" y="446" type="line"/>
+      <point x="30" y="494" type="line"/>
+      <point x="178" y="578" type="line"/>
+      <point x="161" y="608" type="line"/>
+      <point x="0" y="509" type="line"/>
+      <point x="0" y="431" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 332 276</string>
+              <string>vstem 0 30</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w185l161332l178362l30446l30494l178578l161608l0509l0431</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

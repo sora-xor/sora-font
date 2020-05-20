@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_l.salt" format="2">
+  <outline>
+    <contour>
+      <point x="454" y="0" type="line"/>
+      <point x="622" y="0" type="line"/>
+      <point x="622" y="596" type="line" smooth="yes"/>
+      <point x="622" y="612"/>
+      <point x="629" y="625"/>
+      <point x="645" y="625" type="curve" smooth="yes"/>
+      <point x="661" y="625"/>
+      <point x="668" y="612"/>
+      <point x="668" y="596" type="curve"/>
+      <point x="802" y="596" type="line"/>
+      <point x="802" y="693"/>
+      <point x="733" y="752"/>
+      <point x="628" y="752" type="curve" smooth="yes"/>
+      <point x="517" y="752"/>
+      <point x="454" y="688"/>
+      <point x="454" y="586" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1020" y="-6" type="curve" smooth="yes"/>
+      <point x="1086" y="-6" type="line"/>
+      <point x="1086" y="150" type="line"/>
+      <point x="1039" y="150" type="line" smooth="yes"/>
+      <point x="1017" y="150"/>
+      <point x="1006" y="161"/>
+      <point x="1006" y="183" type="curve" smooth="yes"/>
+      <point x="1006" y="730" type="line"/>
+      <point x="824" y="730" type="line"/>
+      <point x="824" y="183" type="line" smooth="yes"/>
+      <point x="824" y="51"/>
+      <point x="868" y="-6"/>
+    </contour>
+    <contour>
+      <point x="394" y="408" type="line"/>
+      <point x="752" y="408" type="line"/>
+      <point x="752" y="540" type="line"/>
+      <point x="394" y="540" type="line"/>
+    </contour>
+  </outline>
+</glyph>

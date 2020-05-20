@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright" format="2">
+  <advance width="542"/>
+  <unicode hex="00BB"/>
+  <guideline x="28" y="261" angle="0"/>
+  <guideline x="28" y="483" angle="0"/>
+  <guideline x="28" y="39" angle="0"/>
+  <outline>
+    <contour>
+      <point x="372" y="483" type="line" name="hintSet0000"/>
+      <point x="276" y="483" type="line"/>
+      <point x="412" y="270" type="line"/>
+      <point x="412" y="252" type="line"/>
+      <point x="276" y="39" type="line"/>
+      <point x="366" y="39" type="line"/>
+      <point x="502" y="243" type="line"/>
+      <point x="502" y="285" type="line"/>
+    </contour>
+    <contour>
+      <point x="152" y="483" type="line"/>
+      <point x="56" y="483" type="line"/>
+      <point x="192" y="270" type="line"/>
+      <point x="192" y="252" type="line"/>
+      <point x="56" y="39" type="line"/>
+      <point x="146" y="39" type="line"/>
+      <point x="282" y="243" type="line"/>
+      <point x="282" y="285" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 39 444</string>
+              <string>vstem 192 90</string>
+              <string>vstem 412 90</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w542l372483l276483l412270l412252l27639l36639l502243l502285l152483l56483l192270l192252l5639l14639l282243l282285</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>guilsinglright</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>guilsinglright</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

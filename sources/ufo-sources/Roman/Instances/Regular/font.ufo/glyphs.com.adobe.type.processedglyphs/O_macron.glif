@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omacron" format="2">
+  <advance width="866"/>
+  <unicode hex="014C"/>
+  <anchor x="433" y="0" name="bottom"/>
+  <anchor x="433" y="365" name="center"/>
+  <anchor x="563" y="10" name="ogonek"/>
+  <anchor x="433" y="946" name="top"/>
+  <outline>
+    <contour>
+      <point x="433" y="-18" type="curve" name="hintSet0000"/>
+      <point x="694" y="-18"/>
+      <point x="810" y="196"/>
+      <point x="810" y="356" type="curve"/>
+      <point x="810" y="378" type="line"/>
+      <point x="810" y="552"/>
+      <point x="688" y="750"/>
+      <point x="433" y="750" type="curve"/>
+      <point x="178" y="750"/>
+      <point x="56" y="552"/>
+      <point x="56" y="378" type="curve"/>
+      <point x="56" y="356" type="line"/>
+      <point x="56" y="196"/>
+      <point x="172" y="-18"/>
+    </contour>
+    <contour>
+      <point x="433" y="72" type="curve"/>
+      <point x="262" y="72"/>
+      <point x="156" y="212"/>
+      <point x="156" y="366" type="curve"/>
+      <point x="156" y="528"/>
+      <point x="262" y="660"/>
+      <point x="433" y="660" type="curve"/>
+      <point x="604" y="660"/>
+      <point x="710" y="528"/>
+      <point x="710" y="366" type="curve"/>
+      <point x="710" y="212"/>
+      <point x="604" y="72"/>
+    </contour>
+    <contour>
+      <point x="267" y="834" type="line"/>
+      <point x="599" y="834" type="line"/>
+      <point x="599" y="903" type="line"/>
+      <point x="267" y="903" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -18 90</string>
+              <string>hstem 660 90</string>
+              <string>hstem 834 69</string>
+              <string>vstem 56 100</string>
+              <string>vstem 710 100</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>cd14e48ee7194d5cf8cb59a4232f5725d6549a4c85ac797854223356c52be8b8571249bf677f37ca709b96fe5d3aba1b73bfa413d5c5a78502b028b2ef5b67e0</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

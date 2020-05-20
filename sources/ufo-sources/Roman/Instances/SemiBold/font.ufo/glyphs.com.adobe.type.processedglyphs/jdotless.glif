@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless" format="2">
+  <advance width="327"/>
+  <unicode hex="0237"/>
+  <outline>
+    <contour>
+      <point x="44" y="445" type="line" name="hintSet0000"/>
+      <point x="124" y="445" type="line"/>
+      <point x="124" y="-18" type="line"/>
+      <point x="124" y="-68"/>
+      <point x="96" y="-96"/>
+      <point x="47" y="-96" type="curve"/>
+      <point x="1" y="-96" type="line"/>
+      <point x="1" y="-205" type="line"/>
+      <point x="37" y="-205" type="line"/>
+      <point x="185" y="-205"/>
+      <point x="246" y="-154"/>
+      <point x="246" y="-9" type="curve"/>
+      <point x="246" y="540" type="line"/>
+      <point x="44" y="540" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -205 109</string>
+              <string>hstem 445 95</string>
+              <string>vstem 124 122</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w327l44445l124445l124-18124-6896-96c47-96l1-96l1-205l37-205185-205246-154c246-9l246540l44540</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

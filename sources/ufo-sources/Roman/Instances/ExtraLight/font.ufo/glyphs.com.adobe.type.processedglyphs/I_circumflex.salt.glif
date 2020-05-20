@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Icircumflex.salt" format="2">
+  <advance width="445"/>
+  <outline>
+    <contour>
+      <point x="108" y="687" type="line" name="hintSet0000"/>
+      <point x="198" y="687" type="line"/>
+      <point x="198" y="44" type="line"/>
+      <point x="108" y="44" type="line"/>
+      <point x="108" y="0" type="line"/>
+      <point x="338" y="0" type="line"/>
+      <point x="338" y="44" type="line"/>
+      <point x="247" y="44" type="line"/>
+      <point x="247" y="687" type="line"/>
+      <point x="338" y="687" type="line"/>
+      <point x="338" y="730" type="line"/>
+      <point x="108" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="74" y="799" type="line"/>
+      <point x="121" y="799" type="line"/>
+      <point x="213" y="915" type="line"/>
+      <point x="232" y="915" type="line"/>
+      <point x="325" y="799" type="line"/>
+      <point x="372" y="799" type="line"/>
+      <point x="257" y="943" type="line"/>
+      <point x="189" y="943" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 44</string>
+              <string>hstem 687 43</string>
+              <string>hstem 915 28</string>
+              <string>vstem 198 49</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>d89664677f6043280199206701e1d06a65a1b6468aca545f34780940a53d697cd83505fd1e2bb2586bd10092b0263e5cf9f2829a4a25e6dd8e387ab18facab9c</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

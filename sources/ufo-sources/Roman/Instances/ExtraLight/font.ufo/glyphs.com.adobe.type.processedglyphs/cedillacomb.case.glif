@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb.case" format="2">
+  <outline>
+    <contour>
+      <point x="73" y="-236" type="curve" name="hintSet0000"/>
+      <point x="144" y="-236"/>
+      <point x="187" y="-201"/>
+      <point x="187" y="-147" type="curve"/>
+      <point x="187" y="-99"/>
+      <point x="147" y="-66"/>
+      <point x="86" y="-64" type="curve"/>
+      <point x="86" y="10" type="line"/>
+      <point x="50" y="10" type="line"/>
+      <point x="50" y="-99" type="line"/>
+      <point x="80" y="-99" type="line"/>
+      <point x="123" y="-99"/>
+      <point x="147" y="-118"/>
+      <point x="147" y="-147" type="curve"/>
+      <point x="147" y="-182"/>
+      <point x="120" y="-198"/>
+      <point x="73" y="-198" type="curve"/>
+      <point x="48" y="-198"/>
+      <point x="20" y="-194"/>
+      <point x="0" y="-188" type="curve"/>
+      <point x="0" y="-226" type="line"/>
+      <point x="18" y="-232"/>
+      <point x="45" y="-236"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -236 38</string>
+              <string>hstem -99 35</string>
+              <string>vstem 50 36</string>
+              <string>vstem 147 40</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>8215c0b63467aba8bf9d29cbdb171ff15d53b7b1818104bd84fbec851c05eee6f242ae9b18281fd60d93ae589a069efbfd3c448c5be468205d7e5c69a838023b</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

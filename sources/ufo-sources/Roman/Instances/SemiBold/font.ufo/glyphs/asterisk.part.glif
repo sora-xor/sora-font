@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk.part" format="2">
+  <advance width="204"/>
+  <guideline x="0" y="470" angle="90.0"/>
+  <guideline x="0" y="470" angle="44.99999999999999"/>
+  <guideline x="0" y="470" angle="135.0"/>
+  <outline>
+    <contour>
+      <point x="152" y="308" type="line"/>
+      <point x="204" y="400" type="line"/>
+      <point x="77" y="453" type="line"/>
+      <point x="77" y="487" type="line"/>
+      <point x="204" y="540" type="line"/>
+      <point x="152" y="632" type="line"/>
+      <point x="0" y="522" type="line"/>
+      <point x="0" y="418" type="line"/>
+    </contour>
+  </outline>
+</glyph>

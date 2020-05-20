@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obreve" format="2">
+  <advance width="864"/>
+  <unicode hex="014E"/>
+  <anchor x="432" y="0" name="bottom"/>
+  <anchor x="432" y="352" name="center"/>
+  <anchor x="562" y="10" name="ogonek"/>
+  <anchor x="433" y="968" name="top"/>
+  <outline>
+    <contour>
+      <point x="432" y="-20" type="curve" name="hintSet0000"/>
+      <point x="697" y="-20"/>
+      <point x="826" y="190"/>
+      <point x="826" y="356" type="curve"/>
+      <point x="826" y="378" type="line"/>
+      <point x="826" y="561"/>
+      <point x="688" y="752"/>
+      <point x="432" y="752" type="curve"/>
+      <point x="174" y="752"/>
+      <point x="38" y="561"/>
+      <point x="38" y="378" type="curve"/>
+      <point x="38" y="356" type="line"/>
+      <point x="38" y="190"/>
+      <point x="166" y="-20"/>
+    </contour>
+    <contour>
+      <point x="432" y="154" type="curve"/>
+      <point x="304" y="154"/>
+      <point x="226" y="246"/>
+      <point x="226" y="366" type="curve"/>
+      <point x="226" y="493"/>
+      <point x="305" y="578"/>
+      <point x="432" y="578" type="curve"/>
+      <point x="558" y="578"/>
+      <point x="638" y="493"/>
+      <point x="638" y="366" type="curve"/>
+      <point x="638" y="246"/>
+      <point x="559" y="154"/>
+    </contour>
+    <contour>
+      <point x="432" y="772" type="curve" name="hintSet0012"/>
+      <point x="560" y="772"/>
+      <point x="627" y="847"/>
+      <point x="631" y="968" type="curve"/>
+      <point x="505" y="968" type="line"/>
+      <point x="503" y="920" name="hintSet0015"/>
+      <point x="480" y="894"/>
+      <point x="432" y="894" type="curve"/>
+      <point x="384" y="894" name="hintSet0016"/>
+      <point x="363" y="920"/>
+      <point x="361" y="968" type="curve"/>
+      <point x="231" y="968" type="line"/>
+      <point x="235" y="847" name="hintSet0018"/>
+      <point x="304" y="772"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -20 174</string>
+              <string>hstem 578 174</string>
+              <string>vstem 38 188</string>
+              <string>vstem 638 188</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0012</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -20 174</string>
+              <string>hstem 578 174</string>
+              <string>hstem 772 196</string>
+              <string>vstem 231 130</string>
+              <string>vstem 505 126</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0015</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -20 174</string>
+              <string>hstem 578 174</string>
+              <string>hstem 772 122</string>
+              <string>vstem 38 188</string>
+              <string>vstem 505 126</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0016</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -20 174</string>
+              <string>hstem 578 174</string>
+              <string>hstem 772 196</string>
+              <string>vstem 231 130</string>
+              <string>vstem 638 188</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0018</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -20 174</string>
+              <string>hstem 578 174</string>
+              <string>hstem 772 196</string>
+              <string>vstem 231 130</string>
+              <string>vstem 505 126</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>e6b1ebe04aa66d8497d6129e310d6638f31915c2d2020dd50625ea9582e6e8886fbffaba8013707924fe271d0227fdf60d8ff8f68da600cf405dd7dccc9fb53e</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

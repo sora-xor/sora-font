@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedbl" format="2">
+  <advance width="408"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="100" y="470" type="line" name="hintSet0000"/>
+      <point x="161" y="470" type="line"/>
+      <point x="161" y="730" type="line"/>
+      <point x="100" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="470" type="line"/>
+      <point x="309" y="470" type="line"/>
+      <point x="309" y="730" type="line"/>
+      <point x="248" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 470 260</string>
+              <string>vstem 100 61</string>
+              <string>vstem 248 61</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w408l100470l161470l161730l100730l248470l309470l309730l248730</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>quotesingle</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>quotesingle</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedbl" format="2">
+  <advance width="376"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="114" y="484" type="line" name="hintSet0000"/>
+      <point x="144" y="484" type="line"/>
+      <point x="144" y="730" type="line"/>
+      <point x="114" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="232" y="484" type="line"/>
+      <point x="262" y="484" type="line"/>
+      <point x="262" y="730" type="line"/>
+      <point x="232" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 730 -20</string>
+              <string>vstem 114 30</string>
+              <string>vstem 232 30</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w376l114484l144484l144730l114730l232484l262484l262730l232730</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>quotesingle</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>quotesingle</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>quotesingle</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>quotesingle</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

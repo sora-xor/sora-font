@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal.tnum" format="2">
+  <outline>
+    <contour>
+      <point x="96" y="377" type="line"/>
+      <point x="554" y="377" type="line"/>
+      <point x="554" y="453" type="line"/>
+      <point x="96" y="453" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="199" type="line"/>
+      <point x="554" y="199" type="line"/>
+      <point x="554" y="275" type="line"/>
+      <point x="96" y="275" type="line"/>
+    </contour>
+  </outline>
+</glyph>

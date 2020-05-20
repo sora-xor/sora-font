@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk.part" format="2">
+  <advance width="188"/>
+  <outline>
+    <contour>
+      <point x="159" y="328" type="line"/>
+      <point x="183" y="370" type="line"/>
+      <point x="39" y="447" type="line"/>
+      <point x="39" y="493" type="line"/>
+      <point x="183" y="571" type="line"/>
+      <point x="159" y="613" type="line"/>
+      <point x="0" y="511" type="line"/>
+      <point x="0" y="429" type="line"/>
+    </contour>
+  </outline>
+</glyph>

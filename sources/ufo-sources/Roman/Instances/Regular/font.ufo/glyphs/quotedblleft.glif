@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblleft" format="2">
+  <advance width="438"/>
+  <unicode hex="201C"/>
+  <guideline x="5" y="738" angle="0"/>
+  <guideline x="54" y="420" angle="0"/>
+  <outline>
+    <component base="quotedblright" xScale="-1" yScale="-1" xOffset="438" yOffset="1164"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>quoteleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>quoteleft</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

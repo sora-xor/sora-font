@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q.salt" format="2">
+  <advance width="865"/>
+  <guideline x="431" y="360" angle="90.0"/>
+  <anchor x="433" y="0" name="bottom"/>
+  <anchor x="433" y="360" name="center"/>
+  <anchor x="563" y="10" name="ogonek"/>
+  <anchor x="433" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="652" y="-74" type="line"/>
+      <point x="776" y="-74" type="line"/>
+      <point x="505" y="297" type="line"/>
+      <point x="382" y="297" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

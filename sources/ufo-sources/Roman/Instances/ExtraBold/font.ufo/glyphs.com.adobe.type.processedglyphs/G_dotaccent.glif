@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gdotaccent" format="2">
+  <advance width="833"/>
+  <unicode hex="0120"/>
+  <outline>
+    <contour>
+      <point x="427" y="-20" type="curve" name="hintSet0000"/>
+      <point x="575" y="-20"/>
+      <point x="692" y="39"/>
+      <point x="753" y="144" type="curve"/>
+      <point x="753" y="258" type="line"/>
+      <point x="813" y="258" type="line"/>
+      <point x="813" y="388" type="line"/>
+      <point x="407" y="388" type="line"/>
+      <point x="407" y="258" type="line"/>
+      <point x="583" y="258" type="line"/>
+      <point x="583" y="220" type="line"/>
+      <point x="553" y="177"/>
+      <point x="497" y="150"/>
+      <point x="427" y="150" type="curve"/>
+      <point x="295" y="150"/>
+      <point x="226" y="242"/>
+      <point x="226" y="366" type="curve"/>
+      <point x="226" y="489"/>
+      <point x="291" y="578"/>
+      <point x="411" y="578" type="curve"/>
+      <point x="505" y="578"/>
+      <point x="571" y="527"/>
+      <point x="583" y="461" type="curve"/>
+      <point x="769" y="461" type="line"/>
+      <point x="752" y="632"/>
+      <point x="612" y="752"/>
+      <point x="411" y="752" type="curve"/>
+      <point x="161" y="752"/>
+      <point x="38" y="560"/>
+      <point x="38" y="378" type="curve"/>
+      <point x="38" y="356" type="line"/>
+      <point x="38" y="187"/>
+      <point x="152" y="-20"/>
+    </contour>
+    <contour>
+      <point x="409" y="790" type="curve"/>
+      <point x="475" y="790"/>
+      <point x="505" y="827"/>
+      <point x="505" y="880" type="curve"/>
+      <point x="505" y="933"/>
+      <point x="475" y="970"/>
+      <point x="409" y="970" type="curve"/>
+      <point x="343" y="970"/>
+      <point x="313" y="933"/>
+      <point x="313" y="880" type="curve"/>
+      <point x="313" y="827"/>
+      <point x="343" y="790"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -20 170</string>
+              <string>hstem 258 130</string>
+              <string>hstem 578 174</string>
+              <string>hstem 790 180</string>
+              <string>vstem 38 188</string>
+              <string>vstem 313 192</string>
+              <string>vstem 583 170</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>010182e1a36c9f5894c6a37d3bdc8aec296ce338a527063c5743e09e7046957908ac58507433122d099d35cbfc917dad23247ce16fcb35db1474f0d1d88727f0</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

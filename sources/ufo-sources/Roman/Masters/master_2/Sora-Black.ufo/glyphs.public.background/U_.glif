@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U" format="2">
+  <anchor x="382" y="0" name="bottom"/>
+  <anchor x="535" y="17" name="ogonek"/>
+  <anchor x="382" y="720" name="top"/>
+  <outline>
+    <contour>
+      <point x="382" y="-22" type="curve" smooth="yes"/>
+      <point x="590" y="-22"/>
+      <point x="705" y="99"/>
+      <point x="705" y="293" type="curve" smooth="yes"/>
+      <point x="705" y="720" type="line"/>
+      <point x="519" y="720" type="line"/>
+      <point x="519" y="289" type="line" smooth="yes"/>
+      <point x="519" y="204"/>
+      <point x="470" y="152"/>
+      <point x="382" y="152" type="curve" smooth="yes"/>
+      <point x="294" y="152"/>
+      <point x="245" y="204"/>
+      <point x="245" y="289" type="curve" smooth="yes"/>
+      <point x="245" y="720" type="line"/>
+      <point x="59" y="720" type="line"/>
+      <point x="59" y="293" type="line" smooth="yes"/>
+      <point x="59" y="99"/>
+      <point x="174" y="-22"/>
+    </contour>
+  </outline>
+</glyph>

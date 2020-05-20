@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceleft" format="2">
+  <advance width="361"/>
+  <unicode hex="007B"/>
+  <outline>
+    <contour>
+      <point x="290" y="-182" type="curve" name="hintSet0000"/>
+      <point x="306" y="-182" type="line"/>
+      <point x="306" y="-142" type="line"/>
+      <point x="290" y="-142" type="line"/>
+      <point x="217" y="-142"/>
+      <point x="178" y="-103"/>
+      <point x="178" y="-10" type="curve"/>
+      <point x="178" y="184" type="line"/>
+      <point x="178" y="248" name="hintSet0006"/>
+      <point x="149" y="284"/>
+      <point x="101" y="294" type="curve"/>
+      <point x="101" y="302" type="line"/>
+      <point x="149" y="311" name="hintSet0008"/>
+      <point x="178" y="347"/>
+      <point x="178" y="411" type="curve"/>
+      <point x="178" y="604" type="line"/>
+      <point x="178" y="698"/>
+      <point x="217" y="736"/>
+      <point x="290" y="736" type="curve"/>
+      <point x="306" y="736" type="line"/>
+      <point x="306" y="776" type="line"/>
+      <point x="290" y="776" type="line"/>
+      <point x="194" y="776"/>
+      <point x="131" y="722"/>
+      <point x="131" y="600" type="curve"/>
+      <point x="131" y="400" type="line"/>
+      <point x="131" y="350" name="hintSet0016"/>
+      <point x="101" y="328"/>
+      <point x="68" y="328" type="curve"/>
+      <point x="68" y="267" type="line"/>
+      <point x="101" y="267" name="hintSet0018"/>
+      <point x="131" y="245"/>
+      <point x="131" y="195" type="curve"/>
+      <point x="131" y="-6" type="line"/>
+      <point x="131" y="-128" name="hintSet0020"/>
+      <point x="194" y="-182"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -182 40</string>
+              <string>hstem 736 40</string>
+              <string>vstem 131 47</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0006</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -182 40</string>
+              <string>hstem 736 40</string>
+              <string>vstem 68 33</string>
+              <string>vstem 131 47</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0008</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -182 40</string>
+              <string>hstem 267 61</string>
+              <string>hstem 736 40</string>
+              <string>vstem 131 47</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0016</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -182 40</string>
+              <string>hstem 267 61</string>
+              <string>hstem 736 40</string>
+              <string>vstem 68 33</string>
+              <string>vstem 131 47</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0018</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -182 40</string>
+              <string>hstem 267 61</string>
+              <string>hstem 736 40</string>
+              <string>vstem 131 47</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0020</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -182 40</string>
+              <string>hstem 736 40</string>
+              <string>vstem 131 47</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>e481024c9f57835fb0e6c1cce732521d06062ae1eb4c317bf516d65522634664a887ab36ffca0ea7286a0b791c950a9c6b23126dff7ccd328c9b7883a63dc5c2</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>bracketleft</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

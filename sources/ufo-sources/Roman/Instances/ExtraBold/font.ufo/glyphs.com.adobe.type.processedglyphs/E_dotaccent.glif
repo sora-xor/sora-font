@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edotaccent" format="2">
+  <advance width="592"/>
+  <unicode hex="0116"/>
+  <outline>
+    <contour>
+      <point x="74" y="0" type="line" name="hintSet0000"/>
+      <point x="542" y="0" type="line"/>
+      <point x="542" y="152" type="line"/>
+      <point x="254" y="152" type="line"/>
+      <point x="254" y="295" type="line"/>
+      <point x="521" y="295" type="line"/>
+      <point x="521" y="447" type="line"/>
+      <point x="254" y="447" type="line"/>
+      <point x="254" y="578" type="line"/>
+      <point x="536" y="578" type="line"/>
+      <point x="536" y="730" type="line"/>
+      <point x="74" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="790" type="curve" name="hintSet0012"/>
+      <point x="370" y="790"/>
+      <point x="400" y="827"/>
+      <point x="400" y="880" type="curve"/>
+      <point x="400" y="933"/>
+      <point x="370" y="970"/>
+      <point x="304" y="970" type="curve"/>
+      <point x="238" y="970"/>
+      <point x="208" y="933"/>
+      <point x="208" y="880" type="curve"/>
+      <point x="208" y="827"/>
+      <point x="238" y="790"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 152</string>
+              <string>hstem 295 152</string>
+              <string>hstem 578 152</string>
+              <string>vstem 74 180</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0012</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 152</string>
+              <string>hstem 295 152</string>
+              <string>hstem 578 152</string>
+              <string>hstem 790 180</string>
+              <string>vstem 208 192</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>58107620ddbfb423b057bc0a4b2cd6064a0c4261cc3452be0984b8ea01e72bb0da00521f3a6d4e8bc57ad45d622be3b11f94e15954461b671723bbff9344d3f7</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

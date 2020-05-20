@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="564"/>
+  <unicode hex="002A"/>
+  <outline>
+    <component base="asterisk.part" xOffset="322" yOffset="61"/>
+    <component base="asterisk.part" xScale="-0.5" xyScale="0.86603" yxScale="-0.86603" yScale="-0.5" xOffset="668" yOffset="803"/>
+    <component base="asterisk.part" xScale="-0.5" xyScale="-0.86603" yxScale="0.86603" yScale="-0.5" xOffset="-146" yOffset="729"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>asterisk.part</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>asterisk.part</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>asterisk.part</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex" format="2">
+  <advance width="300"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="0" y="612" type="line" name="hintSet0000"/>
+      <point x="150" y="612" type="line"/>
+      <point x="204" y="740" type="line" name="hintSet0002"/>
+      <point x="218" y="740" type="line"/>
+      <point x="274" y="612" type="line" name="hintSet0004"/>
+      <point x="428" y="612" type="line"/>
+      <point x="325" y="824" type="line"/>
+      <point x="101" y="824" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 612 212</string>
+              <string>vstem 0 428</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0002</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 740 84</string>
+              <string>vstem 0 428</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0004</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 612 212</string>
+              <string>vstem 0 428</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w300l0612l150612l204740l218740l274612l428612l325824l101824</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

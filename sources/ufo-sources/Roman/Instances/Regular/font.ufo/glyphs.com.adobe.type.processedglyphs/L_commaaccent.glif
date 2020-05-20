@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcommaaccent" format="2">
+  <advance width="544"/>
+  <unicode hex="013B"/>
+  <outline>
+    <contour>
+      <point x="106" y="0" type="line" name="hintSet0000"/>
+      <point x="518" y="0" type="line"/>
+      <point x="518" y="88" type="line"/>
+      <point x="204" y="88" type="line"/>
+      <point x="204" y="730" type="line"/>
+      <point x="106" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="-284" type="line"/>
+      <point x="252" y="-284" type="line"/>
+      <point x="329" y="-284"/>
+      <point x="381" y="-237"/>
+      <point x="381" y="-155" type="curve"/>
+      <point x="381" y="-149" type="line"/>
+      <point x="381" y="-82"/>
+      <point x="347" y="-50"/>
+      <point x="305" y="-50" type="curve"/>
+      <point x="275" y="-50"/>
+      <point x="247" y="-69"/>
+      <point x="247" y="-107" type="curve"/>
+      <point x="247" y="-143"/>
+      <point x="273" y="-161"/>
+      <point x="303" y="-161" type="curve"/>
+      <point x="312" y="-161"/>
+      <point x="320" y="-159"/>
+      <point x="327" y="-156" type="curve"/>
+      <point x="327" y="-157" type="line"/>
+      <point x="327" y="-203"/>
+      <point x="300" y="-236"/>
+      <point x="254" y="-236" type="curve"/>
+      <point x="245" y="-236" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -284 48</string>
+              <string>hstem -161 111</string>
+              <string>hstem 0 88</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 106 98</string>
+              <string>vstem 327 54</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>00a27b4fb4c3b2faa3b52ff172d42022fa6b21df50720a43e3137e17ba5d66a16326be66c8573cfcbbea802e2532fa079cbeec8757570f409010a0701cbfb8a6</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

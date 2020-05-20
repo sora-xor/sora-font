@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rcommaaccent.salt" format="2">
+  <outline>
+    <component base="R.salt"/>
+    <component base="commaaccentcomb.case" xOffset="226"/>
+  </outline>
+</glyph>

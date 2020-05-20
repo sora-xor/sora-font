@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceright" format="2">
+  <advance width="384"/>
+  <unicode hex="007D"/>
+  <guideline y="-182"/>
+  <outline>
+    <contour>
+      <point x="65" y="-182" type="curve" name="hintSet0000"/>
+      <point x="41" y="-182" type="line"/>
+      <point x="41" y="-79" type="line"/>
+      <point x="65" y="-79" type="line"/>
+      <point x="117" y="-79"/>
+      <point x="143" y="-49"/>
+      <point x="143" y="8" type="curve"/>
+      <point x="143" y="177" type="line"/>
+      <point x="143" y="251"/>
+      <point x="177" y="286"/>
+      <point x="241" y="294" type="curve"/>
+      <point x="241" y="304" type="line"/>
+      <point x="177" y="312"/>
+      <point x="143" y="347"/>
+      <point x="143" y="421" type="curve"/>
+      <point x="143" y="586" type="line"/>
+      <point x="143" y="643"/>
+      <point x="117" y="673"/>
+      <point x="65" y="673" type="curve"/>
+      <point x="41" y="673" type="line"/>
+      <point x="41" y="776" type="line"/>
+      <point x="65" y="776" type="line"/>
+      <point x="185" y="776"/>
+      <point x="263" y="712"/>
+      <point x="263" y="585" type="curve"/>
+      <point x="263" y="419" type="line"/>
+      <point x="263" y="378"/>
+      <point x="290" y="356"/>
+      <point x="334" y="356" type="curve"/>
+      <point x="334" y="242" type="line"/>
+      <point x="290" y="242"/>
+      <point x="263" y="220"/>
+      <point x="263" y="179" type="curve"/>
+      <point x="263" y="9" type="line"/>
+      <point x="263" y="-118"/>
+      <point x="185" y="-182"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -182 958</string>
+              <string>vstem 41 293</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>812fb46e25cbfbca7aab4c85bea8e6b52b19c7772d876c6250e11ce0a431167c6eedf7f4cbd32d5a034aee6afbd9e03b4341a859d04472ab7f9080979b4d7722</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>bracketleft</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

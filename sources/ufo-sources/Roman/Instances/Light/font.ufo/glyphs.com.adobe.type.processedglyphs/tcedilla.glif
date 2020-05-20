@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcedilla" format="2">
+  <advance width="420"/>
+  <unicode hex="0163"/>
+  <outline>
+    <contour>
+      <point x="287" y="-6" type="curve" name="hintSet0000"/>
+      <point x="371" y="-6" type="line"/>
+      <point x="371" y="58" type="line"/>
+      <point x="275" y="58" type="line"/>
+      <point x="214" y="58"/>
+      <point x="179" y="93"/>
+      <point x="179" y="154" type="curve"/>
+      <point x="179" y="474" type="line"/>
+      <point x="371" y="474" type="line"/>
+      <point x="371" y="528" type="line"/>
+      <point x="179" y="528" type="line"/>
+      <point x="179" y="696" type="line"/>
+      <point x="111" y="696" type="line"/>
+      <point x="111" y="528" type="line"/>
+      <point x="15" y="528" type="line"/>
+      <point x="15" y="474" type="line"/>
+      <point x="111" y="474" type="line"/>
+      <point x="111" y="165" type="line"/>
+      <point x="111" y="69"/>
+      <point x="149" y="22"/>
+      <point x="212" y="3" type="curve"/>
+      <point x="212" y="-100" type="line"/>
+      <point x="245" y="-100" type="line"/>
+      <point x="286" y="-100"/>
+      <point x="304" y="-117"/>
+      <point x="304" y="-141" type="curve"/>
+      <point x="304" y="-168"/>
+      <point x="282" y="-184"/>
+      <point x="238" y="-184" type="curve"/>
+      <point x="216" y="-184"/>
+      <point x="190" y="-181"/>
+      <point x="171" y="-176" type="curve"/>
+      <point x="171" y="-225" type="line"/>
+      <point x="189" y="-230"/>
+      <point x="213" y="-234"/>
+      <point x="238" y="-234" type="curve"/>
+      <point x="312" y="-234"/>
+      <point x="356" y="-195"/>
+      <point x="356" y="-140" type="curve"/>
+      <point x="356" y="-92"/>
+      <point x="318" y="-60"/>
+      <point x="257" y="-56" type="curve"/>
+      <point x="257" y="-5" type="line"/>
+      <point x="267" y="-6"/>
+      <point x="277" y="-6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -234 50</string>
+              <string>hstem -100 44</string>
+              <string>hstem -6 64</string>
+              <string>hstem 474 54</string>
+              <string>vstem 111 68</string>
+              <string>vstem 212 45</string>
+              <string>vstem 304 52</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>ccb57557ff64685f82750cb49d292969899700ec85c4c1ab1719b0a5ab3efba830105573639ed6698e89554bd658fabcb3beedd128cb139993cfeb90750702b8</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

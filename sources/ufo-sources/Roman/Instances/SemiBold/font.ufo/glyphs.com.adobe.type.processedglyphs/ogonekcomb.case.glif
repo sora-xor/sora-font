@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonekcomb.case" format="2">
+  <anchor x="230" y="10" name="_ogonek"/>
+  <outline>
+    <contour>
+      <point x="186" y="-255" type="curve" name="hintSet0000"/>
+      <point x="208" y="-255" name="hintSet0001"/>
+      <point x="232" y="-252"/>
+      <point x="246" y="-247" type="curve"/>
+      <point x="246" y="-155" type="line"/>
+      <point x="233" y="-161" name="hintSet0003"/>
+      <point x="214" y="-164"/>
+      <point x="198" y="-164" type="curve"/>
+      <point x="162" y="-164"/>
+      <point x="143" y="-141"/>
+      <point x="143" y="-113" type="curve"/>
+      <point x="143" y="-83"/>
+      <point x="164" y="-51"/>
+      <point x="199" y="-25" type="curve"/>
+      <point x="231" y="0" type="line"/>
+      <point x="182" y="58" type="line"/>
+      <point x="151" y="35" type="line"/>
+      <point x="88" y="-11"/>
+      <point x="50" y="-65"/>
+      <point x="50" y="-129" type="curve"/>
+      <point x="50" y="-202"/>
+      <point x="106" y="-255"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -255 91</string>
+              <string>hstem 21 -21</string>
+              <string>vstem 50 93</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0001</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -255 91</string>
+              <string>hstem 21 -21</string>
+              <string>vstem 50 196</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0003</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -255 91</string>
+              <string>hstem 21 -21</string>
+              <string>vstem 50 93</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>1f48105f7c0bfce448c6f220d541c755375c233970c39eb0dfb657f9c08485bc4c33e8b3300f68593a9665722eade7f822a142defade98a7224439dc22a679d5</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

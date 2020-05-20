@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.salt" format="2">
+  <advance width="287"/>
+  <anchor x="165" y="0" name="bottom"/>
+  <anchor x="134" y="480" name="center"/>
+  <anchor x="115" y="730" name="top"/>
+  <anchor x="141" y="533" name="topright"/>
+  <outline>
+    <contour>
+      <point x="188" y="-6" type="curve" name="hintSet0000"/>
+      <point x="243" y="-6" type="line" name="hintSet0001"/>
+      <point x="243" y="37" type="line"/>
+      <point x="184" y="37" type="line" name="hintSet0003"/>
+      <point x="153" y="37"/>
+      <point x="139" y="52"/>
+      <point x="139" y="89" type="curve"/>
+      <point x="139" y="730" type="line"/>
+      <point x="91" y="730" type="line"/>
+      <point x="91" y="93" type="line"/>
+      <point x="91" y="21"/>
+      <point x="130" y="-6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -6 43</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 91 48</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0001</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -6 43</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 91 152</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0003</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -6 43</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 91 48</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w287c188-6l243-6l24337l184371533713952c13989l139730l91730l91939121130-6</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slash" format="2">
+  <advance width="407"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="18" y="-60" type="line" name="hintSet0000"/>
+      <point x="181" y="-60" type="line"/>
+      <point x="388" y="780" type="line"/>
+      <point x="225" y="780" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -60 840</string>
+              <string>vstem 18 370</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w407l18-60l181-60l388780l225780</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

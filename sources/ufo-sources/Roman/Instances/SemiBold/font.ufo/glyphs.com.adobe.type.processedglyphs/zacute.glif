@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zacute" format="2">
+  <advance width="494"/>
+  <unicode hex="017A"/>
+  <outline>
+    <contour>
+      <point x="48" y="0" type="line" name="hintSet0000"/>
+      <point x="463" y="0" type="line"/>
+      <point x="463" y="98" type="line"/>
+      <point x="188" y="98" type="line"/>
+      <point x="181" y="108" type="line"/>
+      <point x="450" y="431" type="line"/>
+      <point x="450" y="540" type="line"/>
+      <point x="46" y="540" type="line"/>
+      <point x="46" y="443" type="line"/>
+      <point x="309" y="443" type="line"/>
+      <point x="317" y="432" type="line"/>
+      <point x="48" y="109" type="line"/>
+    </contour>
+    <contour>
+      <point x="182" y="612" type="line"/>
+      <point x="289" y="612" type="line"/>
+      <point x="401" y="815" type="line"/>
+      <point x="271" y="815" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 98</string>
+              <string>hstem 443 97</string>
+              <string>hstem 612 203</string>
+              <string>vstem 46 417</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w494l480l4630l46398l18898l181108l450431l450540l46540l46443l309443l317432l48109l182612l289612l401815l271815</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

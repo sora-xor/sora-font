@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="2">
+  <advance width="922"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="396" y="326" type="line" name="hintSet0000"/>
+      <point x="504" y="326" type="line"/>
+      <point x="504" y="599" type="line"/>
+      <point x="580" y="390" type="line"/>
+      <point x="694" y="390" type="line"/>
+      <point x="768" y="593" type="line"/>
+      <point x="768" y="326" type="line"/>
+      <point x="882" y="326" type="line"/>
+      <point x="882" y="730" type="line"/>
+      <point x="727" y="730" type="line"/>
+      <point x="641" y="492" type="line"/>
+      <point x="637" y="492" type="line"/>
+      <point x="551" y="730" type="line"/>
+      <point x="396" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="628" type="line"/>
+      <point x="120" y="628" type="line"/>
+      <point x="120" y="326" type="line"/>
+      <point x="240" y="326" type="line"/>
+      <point x="240" y="628" type="line"/>
+      <point x="350" y="628" type="line"/>
+      <point x="350" y="730" type="line"/>
+      <point x="10" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 390 102</string>
+              <string>hstem 628 102</string>
+              <string>vstem 120 120</string>
+              <string>vstem 396 108</string>
+              <string>vstem 768 114</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>41a06fb1e33073a55981355b47b957cb96e8ba004dfc9495d1d036f3a39670501c9cf71c8cc3d224df49ec7c0921c164a7655ea418a9fe1f23298057ed69d329</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Jcircumflex" format="2">
+  <advance width="643"/>
+  <unicode hex="0134"/>
+  <outline>
+    <contour>
+      <point x="119" y="587" type="line" name="hintSet0000"/>
+      <point x="409" y="587" type="line"/>
+      <point x="409" y="241" type="line"/>
+      <point x="409" y="175"/>
+      <point x="368" y="133"/>
+      <point x="302" y="133" type="curve"/>
+      <point x="237" y="133"/>
+      <point x="196" y="175"/>
+      <point x="196" y="241" type="curve"/>
+      <point x="196" y="286" type="line"/>
+      <point x="34" y="286" type="line"/>
+      <point x="34" y="250" type="line"/>
+      <point x="34" y="77"/>
+      <point x="137" y="-19"/>
+      <point x="303" y="-19" type="curve"/>
+      <point x="470" y="-19"/>
+      <point x="573" y="77"/>
+      <point x="573" y="250" type="curve"/>
+      <point x="573" y="730" type="line"/>
+      <point x="119" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="785" type="line"/>
+      <point x="267" y="785" type="line"/>
+      <point x="337" y="888" type="line" name="hintSet0014"/>
+      <point x="355" y="888" type="line"/>
+      <point x="428" y="785" type="line" name="hintSet0016"/>
+      <point x="574" y="785" type="line"/>
+      <point x="442" y="964" type="line"/>
+      <point x="253" y="964" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -19 152</string>
+              <string>hstem 587 143</string>
+              <string>hstem 785 179</string>
+              <string>vstem 34 162</string>
+              <string>vstem 409 164</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0014</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -19 152</string>
+              <string>hstem 587 143</string>
+              <string>hstem 888 76</string>
+              <string>vstem 34 162</string>
+              <string>vstem 409 164</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0016</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -19 152</string>
+              <string>hstem 587 143</string>
+              <string>hstem 785 179</string>
+              <string>vstem 34 162</string>
+              <string>vstem 409 164</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>29440ce6058569fdaf9577e901a6b88778076b59a32802cb20fd9f7ef19f685e77046955cfd76848672aa10a92eb1f11d546cd2768ef9fc851b3f0e55aa32b1e</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abreve" format="2">
+  <advance width="584"/>
+  <unicode hex="0103"/>
+  <anchor x="507" y="10" name="ogonek"/>
+  <anchor x="286" y="813" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="brevecomb" xOffset="117"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

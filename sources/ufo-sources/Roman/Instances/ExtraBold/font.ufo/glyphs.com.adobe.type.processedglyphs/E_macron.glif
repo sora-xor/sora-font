@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Emacron" format="2">
+  <advance width="592"/>
+  <unicode hex="0112"/>
+  <outline>
+    <contour>
+      <point x="74" y="0" type="line" name="hintSet0000"/>
+      <point x="542" y="0" type="line"/>
+      <point x="542" y="152" type="line"/>
+      <point x="254" y="152" type="line"/>
+      <point x="254" y="295" type="line"/>
+      <point x="521" y="295" type="line"/>
+      <point x="521" y="447" type="line"/>
+      <point x="254" y="447" type="line"/>
+      <point x="254" y="578" type="line"/>
+      <point x="536" y="578" type="line"/>
+      <point x="536" y="730" type="line"/>
+      <point x="74" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="99" y="802" type="line"/>
+      <point x="509" y="802" type="line"/>
+      <point x="509" y="928" type="line"/>
+      <point x="99" y="928" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 152</string>
+              <string>hstem 295 152</string>
+              <string>hstem 578 152</string>
+              <string>hstem 802 126</string>
+              <string>vstem 74 180</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w592l740l5420l542152l254152l254295l521295l521447l254447l254578l536578l536730l74730l99802l509802l509928l99928</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

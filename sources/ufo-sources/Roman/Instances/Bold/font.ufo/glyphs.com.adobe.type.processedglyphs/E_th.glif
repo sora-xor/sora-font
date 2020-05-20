@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="782"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="400" y="298" type="line" name="hintSet0000"/>
+      <point x="400" y="432" type="line"/>
+      <point x="246" y="432" type="line"/>
+      <point x="246" y="583" type="line"/>
+      <point x="362" y="583" type="line"/>
+      <point x="500" y="583"/>
+      <point x="583" y="504"/>
+      <point x="583" y="367" type="curve"/>
+      <point x="583" y="236"/>
+      <point x="500" y="149"/>
+      <point x="362" y="149" type="curve"/>
+      <point x="246" y="149" type="line"/>
+      <point x="246" y="298" type="line"/>
+    </contour>
+    <contour>
+      <point x="82" y="-4" type="line"/>
+      <point x="353" y="-4" type="line"/>
+      <point x="616" y="-4"/>
+      <point x="749" y="178"/>
+      <point x="749" y="356" type="curve"/>
+      <point x="749" y="378" type="line"/>
+      <point x="749" y="568"/>
+      <point x="616" y="735"/>
+      <point x="353" y="735" type="curve"/>
+      <point x="82" y="735" type="line"/>
+      <point x="82" y="432" type="line"/>
+      <point x="14" y="432" type="line"/>
+      <point x="14" y="298" type="line"/>
+      <point x="82" y="298" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -4 153</string>
+              <string>hstem 298 134</string>
+              <string>hstem 583 152</string>
+              <string>vstem 82 164</string>
+              <string>vstem 583 166</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>21099b3053860179f41fb3456e78aac04f5298bbe95d5c73405b0c4563d4545798263835284b30b363b16241bf4944c6611bc42a4404300db66e71d38dce3887</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

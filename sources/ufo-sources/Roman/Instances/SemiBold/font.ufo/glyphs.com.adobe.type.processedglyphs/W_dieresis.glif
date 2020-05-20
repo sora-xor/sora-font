@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wdieresis" format="2">
+  <advance width="1056"/>
+  <unicode hex="1E84"/>
+  <outline>
+    <contour>
+      <point x="652" y="0" type="line" name="hintSet0000"/>
+      <point x="860" y="0" type="line"/>
+      <point x="1030" y="730" type="line"/>
+      <point x="903" y="730" type="line"/>
+      <point x="769" y="109" type="line"/>
+      <point x="741" y="109" type="line"/>
+      <point x="604" y="701" type="line"/>
+      <point x="459" y="701" type="line"/>
+      <point x="339" y="109" type="line"/>
+      <point x="310" y="109" type="line"/>
+      <point x="159" y="730" type="line"/>
+      <point x="26" y="730" type="line"/>
+      <point x="215" y="0" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="531" y="515" type="line"/>
+    </contour>
+    <contour>
+      <point x="421" y="804" type="curve"/>
+      <point x="471" y="804"/>
+      <point x="497" y="834"/>
+      <point x="497" y="875" type="curve"/>
+      <point x="497" y="917"/>
+      <point x="471" y="947"/>
+      <point x="421" y="947" type="curve"/>
+      <point x="370" y="947"/>
+      <point x="345" y="917"/>
+      <point x="345" y="875" type="curve"/>
+      <point x="345" y="834"/>
+      <point x="370" y="804"/>
+    </contour>
+    <contour>
+      <point x="639" y="804" type="curve"/>
+      <point x="689" y="804"/>
+      <point x="715" y="834"/>
+      <point x="715" y="875" type="curve"/>
+      <point x="715" y="917"/>
+      <point x="689" y="947"/>
+      <point x="639" y="947" type="curve"/>
+      <point x="588" y="947"/>
+      <point x="563" y="917"/>
+      <point x="563" y="875" type="curve"/>
+      <point x="563" y="834"/>
+      <point x="588" y="804"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 109</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 804 143</string>
+              <string>vstem 345 152</string>
+              <string>vstem 563 152</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>ecb770510ba3f1032bd531cefa3ef9ccbbc983eb758612d894e5199fd118df58fbe4244e5160daff72e80cb45de00a0b71dfe6c83dae1e0a26163732acbc156f</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

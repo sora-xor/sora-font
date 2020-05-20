@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wgrave" format="2">
+  <advance width="1056"/>
+  <unicode hex="1E80"/>
+  <outline>
+    <contour>
+      <point x="652" y="0" type="line" name="hintSet0000"/>
+      <point x="860" y="0" type="line"/>
+      <point x="1030" y="730" type="line"/>
+      <point x="903" y="730" type="line"/>
+      <point x="769" y="109" type="line"/>
+      <point x="741" y="109" type="line"/>
+      <point x="604" y="701" type="line"/>
+      <point x="459" y="701" type="line"/>
+      <point x="339" y="109" type="line"/>
+      <point x="310" y="109" type="line"/>
+      <point x="159" y="730" type="line"/>
+      <point x="26" y="730" type="line"/>
+      <point x="215" y="0" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="531" y="515" type="line"/>
+    </contour>
+    <contour>
+      <point x="471" y="787" type="line"/>
+      <point x="591" y="787" type="line"/>
+      <point x="474" y="958" type="line"/>
+      <point x="332" y="958" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 109</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 787 171</string>
+              <string>vstem 26 1004</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>bdcdf465414617ebd9860b604316c54cd8fd333c7f2cb30c518ae81d0eed6ea7f255e7c164617a82854274df8f5cf7e8e7ca949614d6ddbadf656eea8f499438</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

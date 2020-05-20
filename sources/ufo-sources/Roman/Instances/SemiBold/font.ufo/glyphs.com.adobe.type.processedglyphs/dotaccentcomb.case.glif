@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb.case" format="2">
+  <anchor x="76" y="730" name="_top"/>
+  <anchor x="76" y="957" name="top"/>
+  <outline>
+    <contour>
+      <point x="76" y="804" type="curve" name="hintSet0000"/>
+      <point x="126" y="804"/>
+      <point x="152" y="834"/>
+      <point x="152" y="875" type="curve"/>
+      <point x="152" y="917"/>
+      <point x="126" y="947"/>
+      <point x="76" y="947" type="curve"/>
+      <point x="25" y="947"/>
+      <point x="0" y="917"/>
+      <point x="0" y="875" type="curve"/>
+      <point x="0" y="834"/>
+      <point x="25" y="804"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 804 143</string>
+              <string>vstem 0 152</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w0c76804126804152834c152875152917126947c76947259470917c0875083425804</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

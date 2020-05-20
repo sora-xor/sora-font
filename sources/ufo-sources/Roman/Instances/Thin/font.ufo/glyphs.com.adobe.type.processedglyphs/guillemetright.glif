@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright" format="2">
+  <advance width="442"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="254" y="483" type="line" name="hintSet0000"/>
+      <point x="222" y="483" type="line"/>
+      <point x="351" y="270" type="line"/>
+      <point x="351" y="254" type="line"/>
+      <point x="224" y="39" type="line"/>
+      <point x="255" y="39" type="line"/>
+      <point x="378" y="248" type="line"/>
+      <point x="378" y="278" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="483" type="line"/>
+      <point x="58" y="483" type="line"/>
+      <point x="187" y="270" type="line"/>
+      <point x="187" y="254" type="line"/>
+      <point x="60" y="39" type="line"/>
+      <point x="91" y="39" type="line"/>
+      <point x="214" y="248" type="line"/>
+      <point x="214" y="278" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 39 444</string>
+              <string>vstem 187 27</string>
+              <string>vstem 351 27</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w442l254483l222483l351270l351254l22439l25539l378248l378278l90483l58483l187270l187254l6039l9139l214248l214278</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>guillemetleft</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>guilsinglright</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>guilsinglright</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

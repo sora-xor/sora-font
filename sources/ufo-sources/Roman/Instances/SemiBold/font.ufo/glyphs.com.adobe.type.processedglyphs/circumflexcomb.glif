@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb" format="2">
+  <unicode hex="0302"/>
+  <anchor x="181" y="540" name="_top"/>
+  <anchor x="182" y="815" name="top"/>
+  <outline>
+    <contour>
+      <point x="0" y="612" type="line" name="hintSet0000"/>
+      <point x="103" y="612" type="line"/>
+      <point x="175" y="754" type="line" name="hintSet0002"/>
+      <point x="185" y="754" type="line"/>
+      <point x="257" y="612" type="line" name="hintSet0004"/>
+      <point x="362" y="612" type="line"/>
+      <point x="255" y="815" type="line" name="hintSet0006"/>
+      <point x="107" y="815" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 612 203</string>
+              <string>vstem 0 362</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0002</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 754 61</string>
+              <string>vstem 0 362</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0004</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 612 203</string>
+              <string>vstem 0 362</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0006</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 754 61</string>
+              <string>vstem 0 362</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w0l0612l103612l175754l185754l257612l362612l255815l107815</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

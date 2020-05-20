@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.case" format="2">
+  <anchor x="206" y="730" name="_top"/>
+  <anchor x="206" y="958" name="top"/>
+  <outline>
+    <contour>
+      <point x="131" y="787" type="line" name="hintSet0000"/>
+      <point x="279" y="787" type="line"/>
+      <point x="403" y="958" type="line" name="hintSet0002"/>
+      <point x="290" y="958" type="line"/>
+      <point x="215" y="848" type="line" name="hintSet0004"/>
+      <point x="198" y="848" type="line"/>
+      <point x="116" y="958" type="line" name="hintSet0006"/>
+      <point x="0" y="958" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 787 61</string>
+              <string>vstem 0 403</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0002</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 787 171</string>
+              <string>vstem 0 403</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0004</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 787 61</string>
+              <string>vstem 0 403</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0006</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 787 171</string>
+              <string>vstem 0 403</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w0l131787l279787l403958l290958l215848l198848l116958l0958</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

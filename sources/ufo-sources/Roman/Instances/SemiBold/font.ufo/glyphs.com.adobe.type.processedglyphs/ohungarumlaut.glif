@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohungarumlaut" format="2">
+  <advance width="678"/>
+  <unicode hex="0151"/>
+  <anchor x="339" y="0" name="bottom"/>
+  <anchor x="339" y="267" name="center"/>
+  <anchor x="455" y="11" name="ogonek"/>
+  <anchor x="401" y="815" name="top"/>
+  <outline>
+    <contour>
+      <point x="339" y="-19" type="curve" name="hintSet0000"/>
+      <point x="528" y="-19"/>
+      <point x="632" y="118"/>
+      <point x="632" y="259" type="curve"/>
+      <point x="632" y="279" type="line"/>
+      <point x="632" y="425"/>
+      <point x="522" y="559"/>
+      <point x="339" y="559" type="curve"/>
+      <point x="156" y="559"/>
+      <point x="46" y="425"/>
+      <point x="46" y="279" type="curve"/>
+      <point x="46" y="259" type="line"/>
+      <point x="46" y="118"/>
+      <point x="150" y="-19"/>
+    </contour>
+    <contour>
+      <point x="339" y="90" type="curve"/>
+      <point x="232" y="90"/>
+      <point x="172" y="168"/>
+      <point x="172" y="269" type="curve"/>
+      <point x="172" y="373"/>
+      <point x="235" y="450"/>
+      <point x="339" y="450" type="curve"/>
+      <point x="443" y="450"/>
+      <point x="506" y="373"/>
+      <point x="506" y="269" type="curve"/>
+      <point x="506" y="168"/>
+      <point x="446" y="90"/>
+    </contour>
+    <contour>
+      <point x="374" y="612" type="line"/>
+      <point x="468" y="612" type="line"/>
+      <point x="557" y="815" type="line"/>
+      <point x="450" y="815" type="line"/>
+    </contour>
+    <contour>
+      <point x="203" y="612" type="line"/>
+      <point x="297" y="612" type="line"/>
+      <point x="386" y="815" type="line"/>
+      <point x="279" y="815" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -19 109</string>
+              <string>hstem 450 109</string>
+              <string>hstem 612 203</string>
+              <string>vstem 46 126</string>
+              <string>vstem 506 126</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>f177860f35a247e352aa64e035c7261ed73188852c31347ac3090b53d71446e3e5eb7fd06d7dd9770753832144f5b833845de9a9c85921b8f57f24216141a194</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

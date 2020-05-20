@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash.salt" format="2">
+  <advance width="282"/>
+  <anchor x="163" y="0" name="bottom"/>
+  <anchor x="128" y="480" name="center"/>
+  <anchor x="112" y="730" name="top"/>
+  <anchor x="130" y="532" name="topright"/>
+  <outline>
+    <contour>
+      <point x="24" y="263" type="line"/>
+      <point x="102" y="310" type="line"/>
+      <point x="102" y="341" type="line"/>
+      <point x="24" y="294" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="322" type="line"/>
+      <point x="197" y="367" type="line"/>
+      <point x="197" y="398" type="line"/>
+      <point x="122" y="353" type="line"/>
+    </contour>
+    <component base="l.salt"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

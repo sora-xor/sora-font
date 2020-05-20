@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ellipsis" format="2">
+  <advance width="766"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="107" y="0" type="line" name="hintSet0000"/>
+      <point x="172" y="0" type="line"/>
+      <point x="172" y="71" type="line"/>
+      <point x="107" y="71" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="0" type="line"/>
+      <point x="415" y="0" type="line"/>
+      <point x="415" y="71" type="line"/>
+      <point x="350" y="71" type="line"/>
+    </contour>
+    <contour>
+      <point x="594" y="0" type="line"/>
+      <point x="659" y="0" type="line"/>
+      <point x="659" y="71" type="line"/>
+      <point x="594" y="71" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 71</string>
+              <string>vstem 107 65</string>
+              <string>vstem 350 65</string>
+              <string>vstem 594 65</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w766l1070l1720l17271l10771l3500l4150l41571l35071l5940l6590l65971l59471</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

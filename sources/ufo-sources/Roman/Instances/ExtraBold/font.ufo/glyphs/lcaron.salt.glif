@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron.salt" format="2">
+  <advance width="336"/>
+  <anchor x="179" y="0" name="bottom"/>
+  <anchor x="183" y="480" name="center"/>
+  <anchor x="143" y="730" name="top"/>
+  <anchor x="218" y="534" name="topright"/>
+  <outline>
+    <component base="l.salt"/>
+    <component base="caroncomb.alt" xOffset="218" yOffset="-18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

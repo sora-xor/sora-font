@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U" format="2">
+  <advance width="789"/>
+  <unicode hex="0055"/>
+  <anchor x="395" y="0" name="bottom"/>
+  <anchor x="520" y="10" name="ogonek"/>
+  <anchor x="395" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="395" y="-18" type="curve" name="hintSet0000"/>
+      <point x="594" y="-18"/>
+      <point x="697" y="106"/>
+      <point x="697" y="290" type="curve"/>
+      <point x="697" y="730" type="line"/>
+      <point x="599" y="730" type="line"/>
+      <point x="599" y="278" type="line"/>
+      <point x="599" y="154"/>
+      <point x="526" y="72"/>
+      <point x="395" y="72" type="curve"/>
+      <point x="263" y="72"/>
+      <point x="190" y="155"/>
+      <point x="190" y="278" type="curve"/>
+      <point x="190" y="730" type="line"/>
+      <point x="92" y="730" type="line"/>
+      <point x="92" y="290" type="line"/>
+      <point x="92" y="106"/>
+      <point x="196" y="-18"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -18 90</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 92 98</string>
+              <string>vstem 599 98</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w789c395-18594-18697106c697290l697730l599730l59927859915452672c3957226372190155c190278l190730l92730l9229092106196-18</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=H-14</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=H-14</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

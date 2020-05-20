@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="654"/>
+  <unicode hex="00BA"/>
+  <anchor x="327" y="0" name="bottom"/>
+  <anchor x="327" y="260" name="center"/>
+  <anchor x="440" y="9" name="ogonek"/>
+  <anchor x="327" y="520" name="top"/>
+  <outline>
+    <component base="o"/>
+  </outline>
+</glyph>

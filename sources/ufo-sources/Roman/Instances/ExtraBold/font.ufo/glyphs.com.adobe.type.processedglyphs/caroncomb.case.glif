@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.case" format="2">
+  <anchor x="241" y="730" name="_top"/>
+  <anchor x="241" y="968" name="top"/>
+  <outline>
+    <contour>
+      <point x="132" y="784" type="line" name="hintSet0000"/>
+      <point x="346" y="784" type="line"/>
+      <point x="476" y="968" type="line"/>
+      <point x="314" y="968" type="line"/>
+      <point x="250" y="870" type="line" name="hintSet0004"/>
+      <point x="232" y="870" type="line"/>
+      <point x="166" y="968" type="line" name="hintSet0006"/>
+      <point x="0" y="968" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 784 184</string>
+              <string>vstem 0 476</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0004</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 784 86</string>
+              <string>vstem 0 476</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0006</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 784 184</string>
+              <string>vstem 0 476</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w0l132784l346784l476968l314968l250870l232870l166968l0968</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

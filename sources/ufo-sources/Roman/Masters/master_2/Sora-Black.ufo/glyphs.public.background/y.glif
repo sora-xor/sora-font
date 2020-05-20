@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y" format="2">
+  <outline>
+    <contour>
+      <point x="167" y="0" type="line"/>
+      <point x="340" y="0" type="line"/>
+      <point x="191" y="552" type="line"/>
+      <point x="7" y="552" type="line"/>
+    </contour>
+    <contour>
+      <point x="220" y="0" type="line"/>
+      <point x="397" y="0" type="line"/>
+      <point x="397" y="154" type="line"/>
+      <point x="220" y="154" type="line"/>
+    </contour>
+    <contour>
+      <point x="281" y="0" type="line"/>
+      <point x="444" y="0" type="line"/>
+      <point x="580" y="552" type="line"/>
+      <point x="406" y="552" type="line"/>
+    </contour>
+  </outline>
+</glyph>

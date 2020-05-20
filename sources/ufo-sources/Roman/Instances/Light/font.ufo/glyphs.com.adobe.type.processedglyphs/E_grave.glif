@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Egrave" format="2">
+  <advance width="603"/>
+  <unicode hex="00C8"/>
+  <outline>
+    <contour>
+      <point x="116" y="0" type="line" name="hintSet0000"/>
+      <point x="536" y="0" type="line"/>
+      <point x="536" y="64" type="line"/>
+      <point x="187" y="64" type="line"/>
+      <point x="187" y="339" type="line"/>
+      <point x="502" y="339" type="line"/>
+      <point x="502" y="403" type="line"/>
+      <point x="187" y="403" type="line"/>
+      <point x="187" y="666" type="line"/>
+      <point x="525" y="666" type="line"/>
+      <point x="525" y="730" type="line"/>
+      <point x="116" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="794" type="line"/>
+      <point x="362" y="794" type="line"/>
+      <point x="243" y="947" type="line"/>
+      <point x="160" y="947" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 64</string>
+              <string>hstem 339 64</string>
+              <string>hstem 666 64</string>
+              <string>hstem 794 153</string>
+              <string>vstem 116 71</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w603l1160l5360l53664l18764l187339l502339l502403l187403l187666l525666l525730l116730l294794l362794l243947l160947</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

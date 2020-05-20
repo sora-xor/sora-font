@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="602"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="216" y="182" type="line" name="hintSet0000"/>
+      <point x="386" y="182" type="line"/>
+      <point x="386" y="348" type="line"/>
+      <point x="216" y="348" type="line"/>
+    </contour>
+    <contour>
+      <point x="36" y="-16" type="line"/>
+      <point x="216" y="-16" type="line"/>
+      <point x="216" y="-200" type="line"/>
+      <point x="386" y="-200" type="line"/>
+      <point x="386" y="-16" type="line"/>
+      <point x="566" y="-16" type="line"/>
+      <point x="566" y="122" type="line"/>
+      <point x="36" y="122" type="line"/>
+    </contour>
+    <contour>
+      <point x="36" y="408" type="line"/>
+      <point x="566" y="408" type="line"/>
+      <point x="566" y="546" type="line"/>
+      <point x="386" y="546" type="line"/>
+      <point x="386" y="730" type="line"/>
+      <point x="216" y="730" type="line"/>
+      <point x="216" y="546" type="line"/>
+      <point x="36" y="546" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -179 -21</string>
+              <string>hstem -16 138</string>
+              <string>hstem 182 166</string>
+              <string>hstem 408 138</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 216 170</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>e71c0c666cf1395adf142a469e1777030448c88bed220863d77d4505b0b47519b31f78adea6cdac044e692592b5fdd81f2cb4c0a7dbe8cdae72b75d871d67ffc</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

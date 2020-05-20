@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb" format="2">
+  <unicode hex="030C"/>
+  <anchor x="222" y="552" name="_top"/>
+  <anchor x="217" y="824" name="top"/>
+  <outline>
+    <contour>
+      <point x="101" y="612" type="line" name="hintSet0000"/>
+      <point x="329" y="612" type="line"/>
+      <point x="424" y="824" type="line"/>
+      <point x="274" y="824" type="line"/>
+      <point x="224" y="696" type="line" name="hintSet0004"/>
+      <point x="210" y="696" type="line"/>
+      <point x="154" y="824" type="line" name="hintSet0006"/>
+      <point x="0" y="824" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 612 212</string>
+              <string>vstem 0 424</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0004</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 612 84</string>
+              <string>vstem 0 424</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0006</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 612 212</string>
+              <string>vstem 0 424</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w0l101612l329612l424824l274824l224696l210696l154824l0824</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute" format="2">
+  <advance width="265"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="47" y="442" type="line" name="hintSet0000"/>
+      <point x="159" y="442" type="line"/>
+      <point x="217" y="730" type="line"/>
+      <point x="106" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 730 -20</string>
+              <string>vstem 47 170</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w265l47442l159442l217730l106730</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

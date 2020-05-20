@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglright.case" format="2">
+  <advance width="341"/>
+  <outline>
+    <contour>
+      <point x="178" y="591" type="line" name="hintSet0000"/>
+      <point x="40" y="591" type="line"/>
+      <point x="182" y="379" type="line"/>
+      <point x="182" y="353" type="line"/>
+      <point x="40" y="141" type="line"/>
+      <point x="172" y="141" type="line"/>
+      <point x="311" y="346" type="line"/>
+      <point x="311" y="392" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 141 450</string>
+              <string>vstem 182 129</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w341l178591l40591l182379l182353l40141l172141l311346l311392</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>guilsinglleft</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

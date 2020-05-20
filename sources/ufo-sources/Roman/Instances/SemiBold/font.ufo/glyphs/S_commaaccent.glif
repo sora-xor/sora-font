@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scommaaccent" format="2">
+  <advance width="679"/>
+  <unicode hex="0218"/>
+  <anchor x="342" y="-300" name="bottom"/>
+  <anchor x="335" y="730" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="commaaccentcomb.case" xOffset="265"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

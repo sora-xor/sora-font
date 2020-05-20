@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sora.tnum" format="2">
+  <advance width="626"/>
+  <outline>
+    <contour>
+      <point x="37" y="-8" type="line"/>
+      <point x="312" y="501" type="line"/>
+      <point x="290" y="496" type="line"/>
+      <point x="340" y="496" type="line"/>
+      <point x="316" y="501" type="line"/>
+      <point x="589" y="-8" type="line"/>
+      <point x="616" y="7" type="line"/>
+      <point x="342" y="516" type="line"/>
+      <point x="285" y="516" type="line"/>
+      <point x="10" y="7" type="line"/>
+    </contour>
+    <contour>
+      <point x="31" y="516" type="line"/>
+      <point x="595" y="516" type="line"/>
+      <point x="595" y="544" type="line"/>
+      <point x="31" y="544" type="line"/>
+    </contour>
+    <contour>
+      <point x="298" y="534" type="line"/>
+      <point x="328" y="534" type="line"/>
+      <point x="328" y="712" type="line"/>
+      <point x="298" y="712" type="line"/>
+    </contour>
+    <contour>
+      <point x="31" y="702" type="line"/>
+      <point x="595" y="702" type="line"/>
+      <point x="595" y="730" type="line"/>
+      <point x="31" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Jcircumflex.salt" format="2">
+  <advance width="575"/>
+  <anchor x="265" y="0" name="bottom"/>
+  <anchor x="437" y="940" name="top"/>
+  <outline>
+    <contour>
+      <point x="264" y="-19" type="curve" name="hintSet0000"/>
+      <point x="380" y="-19"/>
+      <point x="453" y="49"/>
+      <point x="453" y="173" type="curve"/>
+      <point x="453" y="730" type="line"/>
+      <point x="421" y="730" type="line"/>
+      <point x="421" y="169" type="line"/>
+      <point x="421" y="57"/>
+      <point x="354" y="11"/>
+      <point x="264" y="11" type="curve"/>
+      <point x="174" y="11"/>
+      <point x="106" y="57"/>
+      <point x="106" y="169" type="curve"/>
+      <point x="106" y="305" type="line"/>
+      <point x="74" y="305" type="line"/>
+      <point x="74" y="173" type="line"/>
+      <point x="74" y="49"/>
+      <point x="148" y="-19"/>
+    </contour>
+    <contour>
+      <point x="300" y="802" type="line"/>
+      <point x="333" y="802" type="line"/>
+      <point x="426" y="918" type="line"/>
+      <point x="446" y="918" type="line"/>
+      <point x="539" y="802" type="line"/>
+      <point x="573" y="802" type="line"/>
+      <point x="462" y="940" type="line"/>
+      <point x="411" y="940" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -19 30</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 918 22</string>
+              <string>vstem 74 32</string>
+              <string>vstem 421 32</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>7727cdd669588e64d2adf3364aae43f3d84923a48c27050dad5589ec6ba1f3beea3a9d6566f055ab165a4b8bcb72432e412562e972b679ff92042c74122aa944</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

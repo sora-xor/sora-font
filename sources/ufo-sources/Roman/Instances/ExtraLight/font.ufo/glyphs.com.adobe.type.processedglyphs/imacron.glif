@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="imacron" format="2">
+  <advance width="287"/>
+  <unicode hex="012B"/>
+  <outline>
+    <contour>
+      <point x="-1" y="677" type="line" name="hintSet0000"/>
+      <point x="238" y="677" type="line"/>
+      <point x="238" y="715" type="line"/>
+      <point x="-1" y="715" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="482" type="line"/>
+      <point x="133" y="482" type="line"/>
+      <point x="133" y="0" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="181" y="524" type="line"/>
+      <point x="45" y="524" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 482 42</string>
+              <string>hstem 677 38</string>
+              <string>vstem 133 48</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w287l-1677l238677l238715l-1715l45482l133482l1330l1810l181524l45524</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

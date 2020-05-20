@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="32" maximum="182" default="96"/>
+  </axes>
+  <sources>
+    <source filename="master_0/Sora-Thin.ufo" name="Sora Thin" familyname="Sora" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="master_1/Sora-Regular.ufo" name="Sora Regular" familyname="Sora" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="96"/>
+      </location>
+    </source>
+    <source filename="master_2/Sora-Black.ufo" name="Sora Black" familyname="Sora" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="182"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Sora Thin" familyname="Sora" stylename="Thin" filename="../instance_ufo/Sora-Thin.ufo" stylemapfamilyname="Sora Thin" stylemapstylename="regular" postscriptfontname="Sora-Thin">
+      <location>
+        <dimension name="Weight" xvalue="32"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Sora ExtraLight" familyname="Sora" stylename="ExtraLight" filename="../instance_ufo/Sora-ExtraLight.ufo" stylemapfamilyname="Sora ExtraLight" stylemapstylename="regular" postscriptfontname="Sora-ExtraLight">
+      <location>
+        <dimension name="Weight" xvalue="48"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Sora Light" familyname="Sora" stylename="Light" filename="../instance_ufo/Sora-Light.ufo" stylemapfamilyname="Sora Light" stylemapstylename="regular" postscriptfontname="Sora-Light">
+      <location>
+        <dimension name="Weight" xvalue="70"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Sora Regular" familyname="Sora" stylename="Regular" filename="../instance_ufo/Sora-Regular.ufo" stylemapfamilyname="Sora ExtraLight" stylemapstylename="bold" postscriptfontname="Sora-Regular">
+      <location>
+        <dimension name="Weight" xvalue="96"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Sora SemiBold" familyname="Sora" stylename="SemiBold" filename="../instance_ufo/Sora-SemiBold.ufo" stylemapfamilyname="Sora Light" stylemapstylename="bold" postscriptfontname="Sora-SemiBold">
+      <location>
+        <dimension name="Weight" xvalue="126"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Sora Bold" familyname="Sora" stylename="Bold" filename="../instance_ufo/Sora-Bold.ufo" stylemapfamilyname="Sora" stylemapstylename="bold" postscriptfontname="Sora-Bold">
+      <location>
+        <dimension name="Weight" xvalue="160"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Sora ExtraBold" familyname="Sora" stylename="ExtraBold" filename="../instance_ufo/Sora-ExtraBold.ufo" stylemapfamilyname="Sora SemiBold" stylemapstylename="bold" postscriptfontname="Sora-ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="190"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>CR</string>
+        <string>NULL</string>
+        <string>acute</string>
+        <string>asciicircum</string>
+        <string>asciitilde</string>
+        <string>asterisk.part</string>
+        <string>cedilla</string>
+        <string>circumflex</string>
+        <string>dieresis</string>
+        <string>divisionslash</string>
+        <string>foursuperior</string>
+        <string>fraction</string>
+        <string>grave</string>
+        <string>logicalnot</string>
+        <string>macron</string>
+        <string>micro</string>
+        <string>nbspace</string>
+        <string>onehalf</string>
+        <string>onequarter</string>
+        <string>onesuperior</string>
+        <string>ordfeminine</string>
+        <string>ordmasculine</string>
+        <string>plusminus</string>
+        <string>ring</string>
+        <string>section</string>
+        <string>softhyphen</string>
+        <string>threequarters</string>
+        <string>threesuperior</string>
+        <string>tilde</string>
+        <string>twosuperior</string>
+      </array>
+    </dict>
+  </lib>
+</designspace>

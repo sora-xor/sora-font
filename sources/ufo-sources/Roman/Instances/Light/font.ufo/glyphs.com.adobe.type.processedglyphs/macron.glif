@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron" format="2">
+  <advance width="300"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="0" y="672" type="line" name="hintSet0000"/>
+      <point x="257" y="672" type="line"/>
+      <point x="257" y="724" type="line"/>
+      <point x="0" y="724" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 672 52</string>
+              <string>vstem 0 257</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w300l0672l257672l257724l0724</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rcaron.salt" format="2">
+  <advance width="699"/>
+  <outline>
+    <contour>
+      <point x="116" y="0" type="line" name="hintSet0000"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="331" type="line"/>
+      <point x="392" y="331" type="line"/>
+      <point x="396" y="331"/>
+      <point x="400" y="331"/>
+      <point x="403" y="331" type="curve"/>
+      <point x="565" y="0" type="line"/>
+      <point x="644" y="0" type="line"/>
+      <point x="475" y="340" type="line"/>
+      <point x="571" y="364"/>
+      <point x="617" y="431"/>
+      <point x="617" y="526" type="curve"/>
+      <point x="617" y="539" type="line"/>
+      <point x="617" y="658"/>
+      <point x="543" y="733"/>
+      <point x="392" y="733" type="curve"/>
+      <point x="116" y="733" type="line"/>
+    </contour>
+    <contour>
+      <point x="404" y="670" type="line"/>
+      <point x="502" y="670"/>
+      <point x="544" y="615"/>
+      <point x="544" y="533" type="curve"/>
+      <point x="544" y="450"/>
+      <point x="504" y="395"/>
+      <point x="404" y="395" type="curve"/>
+      <point x="187" y="395" type="line"/>
+      <point x="187" y="670" type="line"/>
+    </contour>
+    <contour>
+      <point x="292" y="794" type="line"/>
+      <point x="379" y="794" type="line"/>
+      <point x="494" y="947" type="line"/>
+      <point x="429" y="947" type="line"/>
+      <point x="345" y="831" type="line"/>
+      <point x="327" y="831" type="line"/>
+      <point x="238" y="947" type="line"/>
+      <point x="171" y="947" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 331 64</string>
+              <string>hstem 670 63</string>
+              <string>hstem 794 37</string>
+              <string>vstem 116 71</string>
+              <string>vstem 544 73</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>064297dbaaf73ca5866f2cbb8ad2917f70cfd978c9e907b7a52daf6024d734b7542723ea1375b2ca637267cb079c96a79cd8de83df965dc36fb556f9f664da02</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="umacron.salt" format="2">
+  <advance width="611"/>
+  <anchor x="306" y="0" name="bottom"/>
+  <anchor x="412" y="15" name="ogonek"/>
+  <anchor x="306" y="820" name="top"/>
+  <anchor x="594" y="524" name="topright"/>
+  <outline>
+    <component base="u.salt"/>
+    <component base="macroncomb" xOffset="186"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute.salt" format="2">
+  <advance width="296"/>
+  <anchor x="168" y="0" name="bottom"/>
+  <anchor x="142" y="480" name="center"/>
+  <anchor x="231" y="947" name="top"/>
+  <anchor x="155" y="533" name="topright"/>
+  <outline>
+    <contour>
+      <point x="202" y="-6" type="curve" name="hintSet0000"/>
+      <point x="254" y="-6" type="line"/>
+      <point x="254" y="55" type="line"/>
+      <point x="197" y="55" type="line"/>
+      <point x="168" y="55"/>
+      <point x="154" y="69"/>
+      <point x="154" y="101" type="curve"/>
+      <point x="154" y="730" type="line"/>
+      <point x="84" y="730" type="line"/>
+      <point x="84" y="105" type="line"/>
+      <point x="84" y="24"/>
+      <point x="130" y="-6"/>
+    </contour>
+    <contour>
+      <point x="75" y="794" type="line"/>
+      <point x="141" y="794" type="line"/>
+      <point x="277" y="947" type="line"/>
+      <point x="196" y="947" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -6 61</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 794 153</string>
+              <string>vstem 84 70</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w296c202-6l254-6l25455l197551685515469c154101l154730l84730l841058424130-6l75794l141794l277947l196947</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

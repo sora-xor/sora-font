@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fl" format="2">
+  <advance width="618"/>
+  <unicode hex="FB02"/>
+  <outline>
+    <contour>
+      <point x="124" y="0" type="line" name="hintSet0000"/>
+      <point x="156" y="0" type="line"/>
+      <point x="156" y="490" type="line"/>
+      <point x="340" y="490" type="line"/>
+      <point x="340" y="518" type="line"/>
+      <point x="156" y="518" type="line"/>
+      <point x="156" y="600" type="line"/>
+      <point x="156" y="664"/>
+      <point x="192" y="700"/>
+      <point x="260" y="700" type="curve"/>
+      <point x="334" y="700" type="line"/>
+      <point x="334" y="730" type="line"/>
+      <point x="270" y="730" type="line"/>
+      <point x="170" y="730"/>
+      <point x="124" y="684"/>
+      <point x="124" y="588" type="curve"/>
+      <point x="124" y="518" type="line"/>
+      <point x="40" y="518" type="line"/>
+      <point x="40" y="490" type="line"/>
+      <point x="124" y="490" type="line"/>
+    </contour>
+    <contour>
+      <point x="402" y="700" type="line"/>
+      <point x="478" y="700" type="line"/>
+      <point x="478" y="0" type="line"/>
+      <point x="510" y="0" type="line"/>
+      <point x="510" y="730" type="line"/>
+      <point x="402" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 490 28</string>
+              <string>hstem 700 30</string>
+              <string>vstem 124 32</string>
+              <string>vstem 478 32</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>61a0d25acecc2056cac3e2e9b25b8670905a4c267ce24d6358612cee154b12967e413c6ec2b74584ee9755542e89d9fa6e572a05977478bd04aaedfbfbbdcb80</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright" format="2">
+  <advance width="361"/>
+  <unicode hex="005D"/>
+  <outline>
+    <contour>
+      <point x="231" y="-182" type="line" name="hintSet0000"/>
+      <point x="231" y="776" type="line"/>
+      <point x="66" y="776" type="line" name="hintSet0002"/>
+      <point x="66" y="736" type="line"/>
+      <point x="184" y="736" type="line" name="hintSet0004"/>
+      <point x="184" y="-142" type="line"/>
+      <point x="66" y="-142" type="line" name="hintSet0006"/>
+      <point x="66" y="-182" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -182 40</string>
+              <string>hstem 736 40</string>
+              <string>vstem 184 47</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0002</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -182 40</string>
+              <string>hstem 736 40</string>
+              <string>vstem 66 165</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0004</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -182 40</string>
+              <string>hstem 736 40</string>
+              <string>vstem 184 47</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0006</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -182 40</string>
+              <string>hstem 736 40</string>
+              <string>vstem 66 165</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w361l231-182l231776l66776l66736l184736l184-142l66-142l66-182</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

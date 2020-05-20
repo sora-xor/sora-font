@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursuperior" format="2">
+  <advance width="629"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="52" y="184" type="line" name="hintSet0000"/>
+      <point x="433" y="184" type="line"/>
+      <point x="433" y="0" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="500" y="184" type="line"/>
+      <point x="600" y="184" type="line"/>
+      <point x="600" y="240" type="line"/>
+      <point x="500" y="240" type="line"/>
+      <point x="500" y="513" type="line"/>
+      <point x="433" y="513" type="line"/>
+      <point x="433" y="240" type="line"/>
+      <point x="123" y="240" type="line"/>
+      <point x="115" y="255" type="line"/>
+      <point x="412" y="704" type="line"/>
+      <point x="364" y="743" type="line"/>
+      <point x="52" y="273" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 184 56</string>
+              <string>hstem 743 -20</string>
+              <string>vstem 52 63</string>
+              <string>vstem 433 67</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w629l52184l433184l4330l5000l500184l600184l600240l500240l500513l433513l433240l123240l115255l412704l364743l52273</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uring" format="2">
+  <advance width="806"/>
+  <unicode hex="016E"/>
+  <anchor x="403" y="0" name="bottom"/>
+  <anchor x="497" y="5" name="ogonek"/>
+  <anchor x="403" y="942" name="top"/>
+  <outline>
+    <contour>
+      <point x="403" y="-16" type="curve" name="hintSet0000"/>
+      <point x="604" y="-16"/>
+      <point x="690" y="109"/>
+      <point x="690" y="275" type="curve"/>
+      <point x="690" y="730" type="line"/>
+      <point x="658" y="730" type="line"/>
+      <point x="658" y="271" type="line"/>
+      <point x="658" y="117"/>
+      <point x="580" y="14"/>
+      <point x="403" y="14" type="curve"/>
+      <point x="227" y="14"/>
+      <point x="148" y="117"/>
+      <point x="148" y="271" type="curve"/>
+      <point x="148" y="730" type="line"/>
+      <point x="116" y="730" type="line"/>
+      <point x="116" y="275" type="line"/>
+      <point x="116" y="109"/>
+      <point x="202" y="-16"/>
+    </contour>
+    <contour>
+      <point x="403" y="780" type="curve"/>
+      <point x="471" y="780"/>
+      <point x="508" y="829"/>
+      <point x="508" y="880" type="curve"/>
+      <point x="508" y="932"/>
+      <point x="471" y="980"/>
+      <point x="403" y="980" type="curve"/>
+      <point x="335" y="980"/>
+      <point x="298" y="932"/>
+      <point x="298" y="880" type="curve"/>
+      <point x="298" y="829"/>
+      <point x="335" y="780"/>
+    </contour>
+    <contour>
+      <point x="403" y="806" type="curve"/>
+      <point x="351" y="806"/>
+      <point x="326" y="841"/>
+      <point x="326" y="880" type="curve"/>
+      <point x="326" y="920"/>
+      <point x="351" y="954"/>
+      <point x="403" y="954" type="curve"/>
+      <point x="455" y="954"/>
+      <point x="480" y="920"/>
+      <point x="480" y="880" type="curve"/>
+      <point x="480" y="841"/>
+      <point x="455" y="806"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -16 30</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 780 26</string>
+              <string>hstem 954 26</string>
+              <string>vstem 116 32</string>
+              <string>vstem 298 28</string>
+              <string>vstem 480 28</string>
+              <string>vstem 658 32</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>9065c57af8ad4bf58ddac8494553379e06be45ad829fb098d41fef43089219c7c97e20432203c8412054e5ad157a2e77ceedb903621341e5fbb63984e33c03b8</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

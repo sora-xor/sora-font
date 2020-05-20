@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenbar" format="2">
+  <advance width="372"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="155" y="359" type="line" name="hintSet0000"/>
+      <point x="218" y="359" type="line"/>
+      <point x="218" y="730" type="line"/>
+      <point x="155" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="-200" type="line"/>
+      <point x="218" y="-200" type="line"/>
+      <point x="218" y="157" type="line"/>
+      <point x="155" y="157" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -179 -21</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 155 63</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w372l155359l218359l218730l155730l155-200l218-200l218157l155157</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>bar</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

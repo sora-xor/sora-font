@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rcaron.salt" format="2">
+  <advance width="683"/>
+  <anchor x="373" y="0" name="bottom"/>
+  <anchor x="333" y="940" name="top"/>
+  <outline>
+    <component base="R.salt"/>
+    <component base="caroncomb.case" xOffset="201"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

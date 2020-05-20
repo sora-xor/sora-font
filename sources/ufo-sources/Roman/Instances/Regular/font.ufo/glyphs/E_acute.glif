@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eacute" format="2">
+  <advance width="600"/>
+  <unicode hex="00C9"/>
+  <anchor x="322" y="0" name="bottom"/>
+  <anchor x="538" y="10" name="ogonek"/>
+  <anchor x="440" y="952" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="acutecomb.case" xOffset="265"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

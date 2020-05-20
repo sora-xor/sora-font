@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.salt" format="2">
+  <advance width="457"/>
+  <outline>
+    <contour>
+      <point x="66" y="606" type="line" name="hintSet0000"/>
+      <point x="147" y="606" type="line"/>
+      <point x="147" y="124" type="line"/>
+      <point x="66" y="124" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="391" y="0" type="line"/>
+      <point x="391" y="124" type="line"/>
+      <point x="310" y="124" type="line"/>
+      <point x="310" y="606" type="line"/>
+      <point x="391" y="606" type="line"/>
+      <point x="391" y="730" type="line"/>
+      <point x="66" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 124</string>
+              <string>hstem 606 124</string>
+              <string>vstem 147 163</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w457l66606l147606l147124l66124l660l3910l391124l310124l310606l391606l391730l66730</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

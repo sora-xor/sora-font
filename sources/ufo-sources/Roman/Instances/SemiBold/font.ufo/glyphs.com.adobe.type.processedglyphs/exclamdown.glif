@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown" format="2">
+  <advance width="306"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="89" y="309" type="line" name="hintSet0000"/>
+      <point x="217" y="309" type="line"/>
+      <point x="217" y="-190" type="line"/>
+      <point x="89" y="-190" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="540" type="line"/>
+      <point x="228" y="540" type="line"/>
+      <point x="228" y="400" type="line"/>
+      <point x="78" y="400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 309 91</string>
+              <string>vstem 78 150</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w306l89309l217309l217-190l89-190l78540l228540l228400l78400</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>exclam</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

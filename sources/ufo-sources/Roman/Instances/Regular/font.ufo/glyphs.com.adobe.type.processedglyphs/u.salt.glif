@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u.salt" format="2">
+  <advance width="620"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="410" y="10" name="ogonek"/>
+  <anchor x="310" y="534" name="top"/>
+  <anchor x="600" y="534" name="topright"/>
+  <outline>
+    <contour>
+      <point x="310" y="-18" type="curve" name="hintSet0000"/>
+      <point x="437" y="-18"/>
+      <point x="540" y="65"/>
+      <point x="540" y="224" type="curve"/>
+      <point x="540" y="534" type="line"/>
+      <point x="444" y="534" type="line"/>
+      <point x="444" y="206" type="line"/>
+      <point x="444" y="120"/>
+      <point x="390" y="70"/>
+      <point x="310" y="70" type="curve"/>
+      <point x="230" y="70"/>
+      <point x="176" y="120"/>
+      <point x="176" y="206" type="curve"/>
+      <point x="176" y="534" type="line"/>
+      <point x="80" y="534" type="line"/>
+      <point x="80" y="224" type="line"/>
+      <point x="80" y="65"/>
+      <point x="183" y="-18"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -18 88</string>
+              <string>hstem 534 -20</string>
+              <string>vstem 80 96</string>
+              <string>vstem 444 96</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w620c310-18437-1854065c540224l540534l444534l44420644412039070c3107023070176120c176206l176534l80534l802248065183-18</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

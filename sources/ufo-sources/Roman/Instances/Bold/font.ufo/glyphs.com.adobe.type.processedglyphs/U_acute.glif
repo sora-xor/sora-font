@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uacute" format="2">
+  <advance width="776"/>
+  <unicode hex="00DA"/>
+  <anchor x="388" y="0" name="bottom"/>
+  <anchor x="535" y="15" name="ogonek"/>
+  <anchor x="508" y="964" name="top"/>
+  <outline>
+    <contour>
+      <point x="388" y="-19" type="curve" name="hintSet0000"/>
+      <point x="595" y="-19"/>
+      <point x="707" y="104"/>
+      <point x="707" y="297" type="curve"/>
+      <point x="707" y="730" type="line"/>
+      <point x="544" y="730" type="line"/>
+      <point x="544" y="291" type="line"/>
+      <point x="544" y="193"/>
+      <point x="488" y="133"/>
+      <point x="388" y="133" type="curve"/>
+      <point x="288" y="133"/>
+      <point x="232" y="194"/>
+      <point x="232" y="291" type="curve"/>
+      <point x="232" y="730" type="line"/>
+      <point x="68" y="730" type="line"/>
+      <point x="68" y="297" type="line"/>
+      <point x="68" y="104"/>
+      <point x="181" y="-19"/>
+    </contour>
+    <contour>
+      <point x="303" y="785" type="line"/>
+      <point x="455" y="785" type="line"/>
+      <point x="599" y="964" type="line"/>
+      <point x="428" y="964" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -19 152</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 785 179</string>
+              <string>vstem 68 164</string>
+              <string>vstem 544 163</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>b64c2003dc2222db289465f5b31e32af1d06359785468d599079f1ff0f5e5b189ec6bd34905a5878e37f433774d380d6b39791cc9fe91620f8a5ff7bca34aa19</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

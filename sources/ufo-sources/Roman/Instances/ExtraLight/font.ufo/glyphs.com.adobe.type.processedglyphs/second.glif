@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="second" format="2">
+  <advance width="390"/>
+  <unicode hex="2033"/>
+  <outline>
+    <contour>
+      <point x="84" y="478" type="line" name="hintSet0000"/>
+      <point x="127" y="478" type="line"/>
+      <point x="175" y="730" type="line"/>
+      <point x="132" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="215" y="478" type="line"/>
+      <point x="258" y="478" type="line"/>
+      <point x="306" y="730" type="line"/>
+      <point x="263" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 730 -20</string>
+              <string>vstem 84 222</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w390l84478l127478l175730l132730l215478l258478l306730l263730</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>minute</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>minute</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

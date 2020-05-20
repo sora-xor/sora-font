@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde" format="2">
+  <advance width="300"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="263" y="624" type="curve" name="hintSet0000"/>
+      <point x="313" y="624"/>
+      <point x="347" y="645"/>
+      <point x="370" y="669" type="curve"/>
+      <point x="346" y="778" type="line"/>
+      <point x="326" y="757"/>
+      <point x="299" y="742"/>
+      <point x="264" y="742" type="curve"/>
+      <point x="203" y="742" name="hintSet0004"/>
+      <point x="185" y="793"/>
+      <point x="105" y="793" type="curve"/>
+      <point x="56" y="793"/>
+      <point x="23" y="772"/>
+      <point x="0" y="748" type="curve"/>
+      <point x="23" y="639" type="line"/>
+      <point x="43" y="660"/>
+      <point x="69" y="675"/>
+      <point x="105" y="675" type="curve"/>
+      <point x="166" y="675" name="hintSet0008"/>
+      <point x="184" y="624"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 624 118</string>
+              <string>vstem 0 370</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0004</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 675 118</string>
+              <string>vstem 0 370</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0008</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 624 118</string>
+              <string>vstem 0 370</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w300c263624313624347645c370669l346778326757299742c264742203742185793c1057935679323772c0748l236394366069675c105675166675184624</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r.salt" format="2">
+  <advance width="444"/>
+  <note>
+r / design an alternative version with a round hook. Look at lettera (based on Olivetti Candia)
+</note>
+  <anchor x="140" y="0" name="bottom"/>
+  <anchor x="262" y="552" name="top"/>
+  <outline>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="248" y="321" type="line" smooth="yes"/>
+      <point x="248" y="375"/>
+      <point x="277" y="404"/>
+      <point x="331" y="404" type="curve" smooth="yes"/>
+      <point x="440" y="404" type="line"/>
+      <point x="440" y="560" type="line"/>
+      <point x="364" y="560" type="line" smooth="yes"/>
+      <point x="274" y="560"/>
+      <point x="202" y="506"/>
+      <point x="202" y="312" type="curve"/>
+      <point x="204" y="312" type="line"/>
+      <point x="204" y="552" type="line"/>
+      <point x="66" y="552" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

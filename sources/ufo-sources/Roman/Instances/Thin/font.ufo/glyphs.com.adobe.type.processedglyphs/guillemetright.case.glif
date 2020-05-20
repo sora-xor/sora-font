@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright.case" format="2">
+  <advance width="442"/>
+  <outline>
+    <contour>
+      <point x="252" y="591" type="line" name="hintSet0000"/>
+      <point x="220" y="591" type="line"/>
+      <point x="351" y="375" type="line"/>
+      <point x="351" y="359" type="line"/>
+      <point x="222" y="141" type="line"/>
+      <point x="253" y="141" type="line"/>
+      <point x="378" y="353" type="line"/>
+      <point x="378" y="383" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="591" type="line"/>
+      <point x="56" y="591" type="line"/>
+      <point x="187" y="375" type="line"/>
+      <point x="187" y="359" type="line"/>
+      <point x="58" y="141" type="line"/>
+      <point x="89" y="141" type="line"/>
+      <point x="214" y="353" type="line"/>
+      <point x="214" y="383" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 141 450</string>
+              <string>vstem 187 27</string>
+              <string>vstem 351 27</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w442l252591l220591l351375l351359l222141l253141l378353l378383l88591l56591l187375l187359l58141l89141l214353l214383</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>guillemetleft.case</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>guillemetright</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

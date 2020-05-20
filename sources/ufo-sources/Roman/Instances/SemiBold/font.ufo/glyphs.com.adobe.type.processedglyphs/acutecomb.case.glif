@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.case" format="2">
+  <anchor x="71" y="730" name="_top"/>
+  <anchor x="189" y="958" name="top"/>
+  <outline>
+    <contour>
+      <point x="0" y="787" type="line" name="hintSet0000"/>
+      <point x="118" y="787" type="line"/>
+      <point x="266" y="958" type="line"/>
+      <point x="126" y="958" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 787 171</string>
+              <string>vstem 0 266</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w0l0787l118787l266958l126958</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

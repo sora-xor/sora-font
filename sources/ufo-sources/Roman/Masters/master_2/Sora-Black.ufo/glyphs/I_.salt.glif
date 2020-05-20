@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.salt" format="2">
+  <advance width="460"/>
+  <anchor x="231" y="0" name="bottom"/>
+  <anchor x="305" y="10" name="ogonek"/>
+  <anchor x="231" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="137" y="118" type="line"/>
+      <point x="323" y="118" type="line"/>
+      <point x="323" y="612" type="line"/>
+      <point x="137" y="612" type="line"/>
+    </contour>
+    <contour>
+      <point x="58" y="0" type="line"/>
+      <point x="402" y="0" type="line"/>
+      <point x="402" y="138" type="line"/>
+      <point x="58" y="138" type="line"/>
+    </contour>
+    <contour>
+      <point x="58" y="592" type="line"/>
+      <point x="402" y="592" type="line"/>
+      <point x="402" y="730" type="line"/>
+      <point x="58" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

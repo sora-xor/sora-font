@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fl.salt" format="2">
+  <advance width="670"/>
+  <outline>
+    <contour>
+      <point x="106" y="0" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="198" y="617" type="line" smooth="yes"/>
+      <point x="198" y="647"/>
+      <point x="214" y="672"/>
+      <point x="247" y="672" type="curve" smooth="yes"/>
+      <point x="280" y="672"/>
+      <point x="298" y="647"/>
+      <point x="298" y="617" type="curve"/>
+      <point x="374" y="617" type="line"/>
+      <point x="374" y="693"/>
+      <point x="332" y="746"/>
+      <point x="245" y="746" type="curve" smooth="yes"/>
+      <point x="158" y="746"/>
+      <point x="106" y="693"/>
+      <point x="106" y="617" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="32" y="452" type="line"/>
+      <point x="352" y="452" type="line"/>
+      <point x="352" y="524" type="line"/>
+      <point x="32" y="524" type="line"/>
+    </contour>
+    <contour>
+      <point x="582" y="-6" type="curve" smooth="yes"/>
+      <point x="632" y="-6" type="line"/>
+      <point x="632" y="76" type="line"/>
+      <point x="576" y="76" type="line" smooth="yes"/>
+      <point x="550" y="76"/>
+      <point x="536" y="90"/>
+      <point x="536" y="116" type="curve" smooth="yes"/>
+      <point x="536" y="730" type="line"/>
+      <point x="440" y="730" type="line"/>
+      <point x="440" y="120" type="line" smooth="yes"/>
+      <point x="440" y="28"/>
+      <point x="494" y="-6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f.salt</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l.salt</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

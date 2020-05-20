@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute" format="2">
+  <advance width="320"/>
+  <unicode hex="00ED"/>
+  <outline>
+    <contour>
+      <point x="80" y="612" type="line" name="hintSet0000"/>
+      <point x="187" y="612" type="line"/>
+      <point x="299" y="815" type="line"/>
+      <point x="169" y="815" type="line"/>
+    </contour>
+    <contour>
+      <point x="31" y="445" type="line"/>
+      <point x="109" y="445" type="line"/>
+      <point x="109" y="0" type="line"/>
+      <point x="235" y="0" type="line"/>
+      <point x="235" y="540" type="line"/>
+      <point x="31" y="540" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 445 95</string>
+              <string>hstem 612 203</string>
+              <string>vstem 109 126</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w320l80612l187612l299815l169815l31445l109445l1090l2350l235540l31540</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odieresis" format="2">
+  <advance width="865"/>
+  <unicode hex="00D6"/>
+  <anchor x="433" y="0" name="bottom"/>
+  <anchor x="433" y="360" name="center"/>
+  <anchor x="563" y="10" name="ogonek"/>
+  <anchor x="433" y="957" name="top"/>
+  <outline>
+    <contour>
+      <point x="433" y="-19" type="curve" name="hintSet0000"/>
+      <point x="695" y="-19"/>
+      <point x="816" y="194"/>
+      <point x="816" y="356" type="curve"/>
+      <point x="816" y="378" type="line"/>
+      <point x="816" y="555"/>
+      <point x="688" y="751"/>
+      <point x="433" y="751" type="curve"/>
+      <point x="177" y="751"/>
+      <point x="50" y="555"/>
+      <point x="50" y="378" type="curve"/>
+      <point x="50" y="356" type="line"/>
+      <point x="50" y="194"/>
+      <point x="170" y="-19"/>
+    </contour>
+    <contour>
+      <point x="433" y="101" type="curve"/>
+      <point x="277" y="101"/>
+      <point x="180" y="224"/>
+      <point x="180" y="366" type="curve"/>
+      <point x="180" y="516"/>
+      <point x="277" y="631"/>
+      <point x="433" y="631" type="curve"/>
+      <point x="588" y="631"/>
+      <point x="685" y="516"/>
+      <point x="685" y="366" type="curve"/>
+      <point x="685" y="224"/>
+      <point x="588" y="101"/>
+    </contour>
+    <contour>
+      <point x="324" y="804" type="curve"/>
+      <point x="374" y="804"/>
+      <point x="400" y="834"/>
+      <point x="400" y="875" type="curve"/>
+      <point x="400" y="917"/>
+      <point x="374" y="947"/>
+      <point x="324" y="947" type="curve"/>
+      <point x="273" y="947"/>
+      <point x="248" y="917"/>
+      <point x="248" y="875" type="curve"/>
+      <point x="248" y="834"/>
+      <point x="273" y="804"/>
+    </contour>
+    <contour>
+      <point x="542" y="804" type="curve"/>
+      <point x="592" y="804"/>
+      <point x="618" y="834"/>
+      <point x="618" y="875" type="curve"/>
+      <point x="618" y="917"/>
+      <point x="592" y="947"/>
+      <point x="542" y="947" type="curve"/>
+      <point x="491" y="947"/>
+      <point x="466" y="917"/>
+      <point x="466" y="875" type="curve"/>
+      <point x="466" y="834"/>
+      <point x="491" y="804"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -19 120</string>
+              <string>hstem 631 120</string>
+              <string>hstem 804 143</string>
+              <string>vstem 50 130</string>
+              <string>vstem 248 152</string>
+              <string>vstem 466 152</string>
+              <string>vstem 685 131</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>55ea9396a5d2e1d446d2ad0b0710c949a98ea5bcbce6be5b736605c06188fe714670ce4e5091f5658207a409d159d8ab98fe2f08b9a6160880fcfd3a8fd0e540</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

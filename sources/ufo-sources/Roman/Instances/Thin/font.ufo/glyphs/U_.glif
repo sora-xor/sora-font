@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U" format="2">
+  <advance width="806"/>
+  <unicode hex="0055"/>
+  <anchor x="403" y="0" name="bottom"/>
+  <anchor x="497" y="5" name="ogonek"/>
+  <anchor x="403" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="403" y="-16" type="curve" smooth="yes"/>
+      <point x="604" y="-16"/>
+      <point x="690" y="109"/>
+      <point x="690" y="275" type="curve" smooth="yes"/>
+      <point x="690" y="730" type="line"/>
+      <point x="658" y="730" type="line"/>
+      <point x="658" y="271" type="line" smooth="yes"/>
+      <point x="658" y="117"/>
+      <point x="580" y="14"/>
+      <point x="403" y="14" type="curve" smooth="yes"/>
+      <point x="227" y="14"/>
+      <point x="148" y="117"/>
+      <point x="148" y="271" type="curve" smooth="yes"/>
+      <point x="148" y="730" type="line"/>
+      <point x="116" y="730" type="line"/>
+      <point x="116" y="275" type="line" smooth="yes"/>
+      <point x="116" y="109"/>
+      <point x="202" y="-16"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=H-14</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=H-14</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

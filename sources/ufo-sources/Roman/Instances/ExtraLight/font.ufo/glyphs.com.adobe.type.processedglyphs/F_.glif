@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F" format="2">
+  <advance width="560"/>
+  <unicode hex="0046"/>
+  <outline>
+    <contour>
+      <point x="124" y="0" type="line" name="hintSet0000"/>
+      <point x="173" y="0" type="line"/>
+      <point x="173" y="351" type="line"/>
+      <point x="489" y="353" type="line"/>
+      <point x="489" y="398" type="line"/>
+      <point x="173" y="397" type="line"/>
+      <point x="173" y="686" type="line"/>
+      <point x="510" y="686" type="line"/>
+      <point x="510" y="731" type="line"/>
+      <point x="153" y="730" type="line"/>
+      <point x="124" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 352 45.5</string>
+              <string>hstem 686 44</string>
+              <string>vstem 124 49</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w560l1240l1730l173351l489353l489398l173397l173686l510686l510731l153730l124730</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

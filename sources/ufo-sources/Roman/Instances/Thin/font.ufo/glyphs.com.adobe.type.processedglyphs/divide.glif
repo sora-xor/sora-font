@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="584"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="86" y="331" type="line" name="hintSet0000"/>
+      <point x="498" y="331" type="line"/>
+      <point x="498" y="359" type="line"/>
+      <point x="86" y="359" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="127" type="line"/>
+      <point x="318" y="127" type="line"/>
+      <point x="318" y="185" type="line"/>
+      <point x="266" y="185" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="505" type="line"/>
+      <point x="318" y="505" type="line"/>
+      <point x="318" y="563" type="line"/>
+      <point x="266" y="563" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem3 127 58 331 28 505 58</string>
+              <string>vstem 266 52</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w584l86331l498331l498359l86359l266127l318127l318185l266185l266505l318505l318563l266563</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

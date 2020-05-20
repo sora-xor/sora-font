@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb" format="2">
+  <unicode hex="0306"/>
+  <anchor x="167" y="540" name="_top"/>
+  <anchor x="168" y="813" name="top"/>
+  <outline>
+    <contour>
+      <point x="168" y="606" type="curve" name="hintSet0000"/>
+      <point x="275" y="606"/>
+      <point x="329" y="678"/>
+      <point x="333" y="815" type="curve"/>
+      <point x="247" y="815" type="line" name="hintSet0002"/>
+      <point x="244" y="732" name="hintSet0003"/>
+      <point x="217" y="692"/>
+      <point x="168" y="692" type="curve"/>
+      <point x="119" y="692"/>
+      <point x="94" y="732"/>
+      <point x="90" y="815" type="curve"/>
+      <point x="1" y="815" type="line" name="hintSet0005"/>
+      <point x="5" y="678" name="hintSet0006"/>
+      <point x="61" y="606"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 606 86</string>
+              <string>vstem 1 89</string>
+              <string>vstem 247 86</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0002</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 606 209</string>
+              <string>vstem 1 89</string>
+              <string>vstem 247 86</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0003</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 606 86</string>
+              <string>vstem 1 89</string>
+              <string>vstem 247 86</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0005</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 606 209</string>
+              <string>vstem 1 89</string>
+              <string>vstem 247 86</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0006</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 606 86</string>
+              <string>vstem 1 89</string>
+              <string>vstem 247 86</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w0c168606275606329678c333815l247815244732217692c16869211969294732c90815l1815567861606</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Imacron" format="2">
+  <advance width="307"/>
+  <unicode hex="012A"/>
+  <anchor x="153" y="0" name="bottom"/>
+  <anchor x="188" y="10" name="ogonek"/>
+  <anchor x="153" y="940" name="top"/>
+  <anchor x="31" y="730" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="118" y="0" type="line" name="hintSet0000"/>
+      <point x="189" y="0" type="line"/>
+      <point x="189" y="730" type="line"/>
+      <point x="118" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="843" type="line"/>
+      <point x="306" y="843" type="line"/>
+      <point x="306" y="895" type="line"/>
+      <point x="0" y="895" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 843 52</string>
+              <string>vstem 118 71</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w307l1180l1890l189730l118730l0843l306843l306895l0895</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

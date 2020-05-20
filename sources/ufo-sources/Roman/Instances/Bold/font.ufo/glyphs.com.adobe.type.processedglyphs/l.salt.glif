@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.salt" format="2">
+  <advance width="328"/>
+  <anchor x="177" y="0" name="bottom"/>
+  <anchor x="175" y="480" name="center"/>
+  <anchor x="138" y="730" name="top"/>
+  <anchor x="206" y="534" name="topright"/>
+  <outline>
+    <contour>
+      <point x="240" y="-6" type="curve" name="hintSet0000"/>
+      <point x="302" y="-6" type="line"/>
+      <point x="302" y="131" type="line"/>
+      <point x="253" y="131" type="line"/>
+      <point x="230" y="131"/>
+      <point x="218" y="143"/>
+      <point x="218" y="166" type="curve"/>
+      <point x="218" y="730" type="line"/>
+      <point x="58" y="730" type="line"/>
+      <point x="58" y="167" type="line"/>
+      <point x="58" y="45"/>
+      <point x="105" y="-6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -6 137</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 58 160</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w328c240-6l302-6l302131l253131230131218143c218166l218730l58730l581675845105-6</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

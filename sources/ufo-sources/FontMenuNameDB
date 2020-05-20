@@ -1,0 +1,51 @@
+# [PostScriptName]
+# 	f=FamilyName
+# 	s=StyleName
+# 	l=Windows_Compatible_MenuName
+# 	m=1,Macintosh_Compatible_MenuName
+
+
+# ====================================================================
+# Instance fonts
+
+[Sora-Thin]
+	f=Sora
+	s=Thin
+	l=Sora Thin
+	m=1,Sora Thin
+
+[Sora-ExtraLight]
+	f=Sora
+	s=ExtraLight
+	l=Sora ExtraLight
+	m=1,Sora ExtraLight
+
+[Sora-Light]
+	f=Sora
+	s=Light
+	l=Sora Light
+	m=1,Sora Light
+
+[Sora-Regular]
+	f=Sora
+	s=Regular
+	l=Sora
+	m=1,Sora
+
+[Sora-SemiBold]
+	f=Sora
+	s=SemiBold
+	l=Sora SemiBold
+	m=1,Sora SemiBold
+
+[Sora-Bold]
+	f=Sora
+	s=Bold
+	l=Sora
+	m=1,Sora Bold
+
+[Sora-ExtraBold]
+	f=Sora
+	s=ExtraBold
+	l=Sora ExtraBold
+	m=1,Sora ExtraBold

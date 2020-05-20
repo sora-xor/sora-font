@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.case" format="2">
+  <anchor x="202" y="730" name="_top"/>
+  <anchor x="202" y="962" name="top"/>
+  <outline>
+    <contour>
+      <point x="291" y="786" type="curve" name="hintSet0000"/>
+      <point x="347" y="786"/>
+      <point x="386" y="808"/>
+      <point x="409" y="836" type="curve"/>
+      <point x="385" y="944" type="line"/>
+      <point x="366" y="922"/>
+      <point x="334" y="904"/>
+      <point x="291" y="904" type="curve"/>
+      <point x="224" y="904" name="hintSet0004"/>
+      <point x="202" y="957"/>
+      <point x="117" y="957" type="curve"/>
+      <point x="60" y="957"/>
+      <point x="23" y="935"/>
+      <point x="0" y="907" type="curve"/>
+      <point x="24" y="799" type="line"/>
+      <point x="43" y="821"/>
+      <point x="73" y="839"/>
+      <point x="117" y="839" type="curve"/>
+      <point x="184" y="839" name="hintSet0008"/>
+      <point x="206" y="786"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 786 118</string>
+              <string>vstem 0 409</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0004</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 839 118</string>
+              <string>vstem 0 409</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0008</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 786 118</string>
+              <string>vstem 0 409</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w0c291786347786386808c409836l385944366922334904c291904224904202957c1179576095723935c0907l247994382173839c117839184839206786</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

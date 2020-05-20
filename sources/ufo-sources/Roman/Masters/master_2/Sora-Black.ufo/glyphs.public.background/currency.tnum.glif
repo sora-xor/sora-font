@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="currency.tnum" format="2">
+  <outline>
+    <contour>
+      <point x="145" y="458" type="line"/>
+      <point x="243" y="556" type="line"/>
+      <point x="140" y="659" type="line"/>
+      <point x="42" y="561" type="line"/>
+    </contour>
+  </outline>
+</glyph>

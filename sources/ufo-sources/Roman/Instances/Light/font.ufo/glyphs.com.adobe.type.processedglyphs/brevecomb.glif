@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb" format="2">
+  <unicode hex="0306"/>
+  <anchor x="143" y="528" name="_top"/>
+  <anchor x="144" y="803" name="top"/>
+  <outline>
+    <contour>
+      <point x="144" y="607" type="curve" name="hintSet0000"/>
+      <point x="237" y="607"/>
+      <point x="283" y="678"/>
+      <point x="287" y="804" type="curve"/>
+      <point x="238" y="804" type="line"/>
+      <point x="232" y="709"/>
+      <point x="205" y="655"/>
+      <point x="144" y="655" type="curve"/>
+      <point x="84" y="655"/>
+      <point x="57" y="709"/>
+      <point x="51" y="804" type="curve"/>
+      <point x="0" y="804" type="line"/>
+      <point x="4" y="678"/>
+      <point x="50" y="607"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 607 48</string>
+              <string>vstem 0 51</string>
+              <string>vstem 238 49</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w0c144607237607283678c287804l238804232709205655c1446558465557709c51804l0804467850607</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

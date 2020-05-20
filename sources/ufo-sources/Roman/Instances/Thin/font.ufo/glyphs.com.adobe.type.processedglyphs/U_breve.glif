@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ubreve" format="2">
+  <advance width="806"/>
+  <unicode hex="016C"/>
+  <anchor x="403" y="0" name="bottom"/>
+  <anchor x="497" y="5" name="ogonek"/>
+  <anchor x="403" y="940" name="top"/>
+  <outline>
+    <contour>
+      <point x="403" y="-16" type="curve" name="hintSet0000"/>
+      <point x="604" y="-16"/>
+      <point x="690" y="109"/>
+      <point x="690" y="275" type="curve"/>
+      <point x="690" y="730" type="line"/>
+      <point x="658" y="730" type="line"/>
+      <point x="658" y="271" type="line"/>
+      <point x="658" y="117"/>
+      <point x="580" y="14"/>
+      <point x="403" y="14" type="curve"/>
+      <point x="227" y="14"/>
+      <point x="148" y="117"/>
+      <point x="148" y="271" type="curve"/>
+      <point x="148" y="730" type="line"/>
+      <point x="116" y="730" type="line"/>
+      <point x="116" y="275" type="line"/>
+      <point x="116" y="109"/>
+      <point x="202" y="-16"/>
+    </contour>
+    <contour>
+      <point x="403" y="794" type="curve"/>
+      <point x="499" y="794"/>
+      <point x="538" y="856"/>
+      <point x="544" y="940" type="curve"/>
+      <point x="516" y="940" type="line"/>
+      <point x="510" y="869"/>
+      <point x="480" y="820"/>
+      <point x="403" y="820" type="curve"/>
+      <point x="326" y="820"/>
+      <point x="296" y="869"/>
+      <point x="290" y="940" type="curve"/>
+      <point x="262" y="940" type="line"/>
+      <point x="268" y="856"/>
+      <point x="307" y="794"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -16 30</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 794 26</string>
+              <string>vstem 116 32</string>
+              <string>vstem 262 28</string>
+              <string>vstem 516 28</string>
+              <string>vstem 658 32</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>86667a8af9676e92957ae0867c00fc53894784ccd8938d5e9c6445e8e41ca9f8576e83aa4ad8f8dbef81b671d33d0ad899f432f0472d4358e31896cd7325e804</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

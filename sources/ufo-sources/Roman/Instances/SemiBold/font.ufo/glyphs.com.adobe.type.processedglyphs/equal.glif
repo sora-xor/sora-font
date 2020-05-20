@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal" format="2">
+  <advance width="590"/>
+  <unicode hex="003D"/>
+  <outline>
+    <contour>
+      <point x="58" y="377" type="line" name="hintSet0000"/>
+      <point x="532" y="377" type="line"/>
+      <point x="532" y="478" type="line"/>
+      <point x="58" y="478" type="line"/>
+    </contour>
+    <contour>
+      <point x="58" y="182" type="line"/>
+      <point x="532" y="182" type="line"/>
+      <point x="532" y="283" type="line"/>
+      <point x="58" y="283" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 182 101</string>
+              <string>hstem 377 101</string>
+              <string>vstem 58 474</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w590l58377l532377l532478l58478l58182l532182l532283l58283</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

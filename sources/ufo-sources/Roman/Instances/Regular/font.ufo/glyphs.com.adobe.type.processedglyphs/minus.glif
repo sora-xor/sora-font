@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minus" format="2">
+  <advance width="590"/>
+  <unicode hex="2212"/>
+  <outline>
+    <contour>
+      <point x="66" y="306" type="line" name="hintSet0000"/>
+      <point x="524" y="306" type="line"/>
+      <point x="524" y="382" type="line"/>
+      <point x="66" y="382" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 306 76</string>
+              <string>vstem 66 458</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w590l66306l524306l524382l66382</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

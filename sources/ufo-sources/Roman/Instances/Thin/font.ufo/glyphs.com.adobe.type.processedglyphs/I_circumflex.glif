@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Icircumflex" format="2">
+  <advance width="296"/>
+  <unicode hex="00CE"/>
+  <anchor x="148" y="0" name="bottom"/>
+  <anchor x="164" y="10" name="ogonek"/>
+  <anchor x="148" y="940" name="top"/>
+  <anchor x="46" y="730" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="132" y="0" type="line" name="hintSet0000"/>
+      <point x="164" y="0" type="line"/>
+      <point x="164" y="730" type="line"/>
+      <point x="132" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="11" y="802" type="line"/>
+      <point x="44" y="802" type="line"/>
+      <point x="137" y="918" type="line"/>
+      <point x="157" y="918" type="line"/>
+      <point x="250" y="802" type="line"/>
+      <point x="284" y="802" type="line"/>
+      <point x="173" y="940" type="line"/>
+      <point x="122" y="940" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 918 22</string>
+              <string>vstem 132 32</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w296l1320l1640l164730l132730l11802l44802l137918l157918l250802l284802l173940l122940</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

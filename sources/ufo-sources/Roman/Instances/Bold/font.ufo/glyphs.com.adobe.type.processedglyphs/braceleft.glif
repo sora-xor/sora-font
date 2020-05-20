@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceleft" format="2">
+  <advance width="392"/>
+  <unicode hex="007B"/>
+  <guideline x="10" y="297" angle="0.0"/>
+  <guideline y="-182"/>
+  <outline>
+    <contour>
+      <point x="332" y="-182" type="curve" name="hintSet0000"/>
+      <point x="357" y="-182" type="line"/>
+      <point x="357" y="-49" type="line"/>
+      <point x="332" y="-49" type="line"/>
+      <point x="288" y="-49"/>
+      <point x="270" y="-27"/>
+      <point x="270" y="14" type="curve"/>
+      <point x="270" y="173" type="line"/>
+      <point x="270" y="251"/>
+      <point x="235" y="286"/>
+      <point x="167" y="292" type="curve"/>
+      <point x="167" y="306" type="line" name="hintSet0007"/>
+      <point x="235" y="312" name="hintSet0008"/>
+      <point x="270" y="347"/>
+      <point x="270" y="425" type="curve"/>
+      <point x="270" y="580" type="line"/>
+      <point x="270" y="621"/>
+      <point x="288" y="643"/>
+      <point x="332" y="643" type="curve"/>
+      <point x="357" y="643" type="line"/>
+      <point x="357" y="776" type="line"/>
+      <point x="332" y="776" type="line"/>
+      <point x="201" y="776"/>
+      <point x="118" y="717"/>
+      <point x="118" y="581" type="curve"/>
+      <point x="118" y="431" type="line"/>
+      <point x="118" y="390"/>
+      <point x="92" y="370"/>
+      <point x="43" y="370" type="curve"/>
+      <point x="43" y="228" type="line" name="hintSet0017"/>
+      <point x="92" y="228" name="hintSet0018"/>
+      <point x="118" y="208"/>
+      <point x="118" y="167" type="curve"/>
+      <point x="118" y="13" type="line"/>
+      <point x="118" y="-123"/>
+      <point x="201" y="-182"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -182 133</string>
+              <string>hstem 228 142</string>
+              <string>hstem 643 133</string>
+              <string>vstem 118 152</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0007</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -182 133</string>
+              <string>hstem 228 142</string>
+              <string>hstem 643 133</string>
+              <string>vstem 43 124</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0008</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -182 133</string>
+              <string>hstem 228 142</string>
+              <string>hstem 643 133</string>
+              <string>vstem 118 152</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0017</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -182 133</string>
+              <string>hstem 228 142</string>
+              <string>hstem 643 133</string>
+              <string>vstem 43 124</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0018</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -182 133</string>
+              <string>hstem 228 142</string>
+              <string>hstem 643 133</string>
+              <string>vstem 118 152</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>94f69530a02ea45baf244d8645a8e6eec3f4f267821b26f902825ed41656c23d9f0c136fcf94c9ece96a86c8e8e11c170103dc2ef868636bd5124dc92ac38639</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>bracketleft</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

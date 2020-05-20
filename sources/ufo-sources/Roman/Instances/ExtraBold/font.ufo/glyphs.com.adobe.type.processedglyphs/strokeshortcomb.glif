@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokeshortcomb" format="2">
+  <unicode hex="0335"/>
+  <anchor x="150" y="267" name="_center"/>
+  <outline>
+    <contour>
+      <point x="-36" y="220" type="line" name="hintSet0000"/>
+      <point x="336" y="220" type="line"/>
+      <point x="336" y="314" type="line"/>
+      <point x="-36" y="314" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 220 94</string>
+              <string>vstem -36 372</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w0l-36220l336220l336314l-36314</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

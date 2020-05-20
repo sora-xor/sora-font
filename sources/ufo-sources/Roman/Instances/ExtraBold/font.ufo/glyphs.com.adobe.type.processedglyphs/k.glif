@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k" format="2">
+  <advance width="661"/>
+  <unicode hex="006B"/>
+  <outline>
+    <contour>
+      <point x="66" y="0" type="line" name="hintSet0000"/>
+      <point x="248" y="0" type="line"/>
+      <point x="248" y="258" type="line"/>
+      <point x="295" y="258" type="line"/>
+      <point x="458" y="0" type="line"/>
+      <point x="661" y="0" type="line"/>
+      <point x="453" y="316" type="line"/>
+      <point x="627" y="552" type="line"/>
+      <point x="437" y="552" type="line"/>
+      <point x="248" y="295" type="line"/>
+      <point x="248" y="730" type="line"/>
+      <point x="66" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 258 37</string>
+              <string>hstem 552 -20</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 66 182</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w661l660l2480l248258l295258l4580l6610l453316l627552l437552l248295l248730l66730</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

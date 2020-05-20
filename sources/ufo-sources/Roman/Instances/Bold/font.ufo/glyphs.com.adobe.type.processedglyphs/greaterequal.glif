@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greaterequal" format="2">
+  <advance width="596"/>
+  <unicode hex="2265"/>
+  <outline>
+    <contour>
+      <point x="70" y="25" type="line" name="hintSet0000"/>
+      <point x="526" y="25" type="line"/>
+      <point x="526" y="150" type="line"/>
+      <point x="70" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="204" type="line"/>
+      <point x="526" y="327" type="line"/>
+      <point x="526" y="509" type="line"/>
+      <point x="70" y="632" type="line"/>
+      <point x="70" y="501" type="line"/>
+      <point x="401" y="423" type="line"/>
+      <point x="401" y="411" type="line"/>
+      <point x="70" y="332" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 25 125</string>
+              <string>vstem 401 125</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w596l7025l52625l526150l70150l70204l526327l526509l70632l70501l401423l401411l70332</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="550"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="95" y="0" type="line" name="hintSet0000"/>
+      <point x="524" y="0" type="line"/>
+      <point x="524" y="114" type="line"/>
+      <point x="224" y="114" type="line"/>
+      <point x="224" y="323" type="line"/>
+      <point x="385" y="417" type="line"/>
+      <point x="385" y="522" type="line"/>
+      <point x="224" y="429" type="line"/>
+      <point x="224" y="730" type="line"/>
+      <point x="95" y="730" type="line"/>
+      <point x="95" y="358" type="line"/>
+      <point x="26" y="318" type="line"/>
+      <point x="26" y="213" type="line"/>
+      <point x="95" y="253" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 114</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 95 129</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w550l950l5240l524114l224114l224323l385417l385522l224429l224730l95730l95358l26318l26213l95253</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

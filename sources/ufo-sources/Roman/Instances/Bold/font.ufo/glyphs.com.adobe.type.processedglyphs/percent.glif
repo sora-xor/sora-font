@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent" format="2">
+  <advance width="890"/>
+  <unicode hex="0025"/>
+  <outline>
+    <contour>
+      <point x="247" y="0" type="line" name="hintSet0000"/>
+      <point x="381" y="0" type="line"/>
+      <point x="647" y="730" type="line"/>
+      <point x="513" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="329" type="curve" name="hintSet0004"/>
+      <point x="316" y="329"/>
+      <point x="374" y="416"/>
+      <point x="374" y="525" type="curve"/>
+      <point x="374" y="551" type="line"/>
+      <point x="374" y="665"/>
+      <point x="312" y="746"/>
+      <point x="197" y="746" type="curve"/>
+      <point x="82" y="746"/>
+      <point x="20" y="665"/>
+      <point x="20" y="551" type="curve"/>
+      <point x="20" y="525" type="line"/>
+      <point x="20" y="416"/>
+      <point x="78" y="329"/>
+    </contour>
+    <contour>
+      <point x="197" y="435" type="curve"/>
+      <point x="156" y="435"/>
+      <point x="137" y="462"/>
+      <point x="137" y="538" type="curve"/>
+      <point x="137" y="616"/>
+      <point x="157" y="640"/>
+      <point x="197" y="640" type="curve"/>
+      <point x="237" y="640"/>
+      <point x="257" y="616"/>
+      <point x="257" y="537" type="curve"/>
+      <point x="257" y="462"/>
+      <point x="238" y="435"/>
+    </contour>
+    <contour>
+      <point x="693" y="-17" type="curve" name="hintSet0016"/>
+      <point x="813" y="-17"/>
+      <point x="870" y="70"/>
+      <point x="870" y="178" type="curve"/>
+      <point x="870" y="204" type="line"/>
+      <point x="870" y="318"/>
+      <point x="809" y="399"/>
+      <point x="693" y="399" type="curve"/>
+      <point x="578" y="399"/>
+      <point x="517" y="318"/>
+      <point x="517" y="204" type="curve"/>
+      <point x="517" y="178" type="line"/>
+      <point x="517" y="70"/>
+      <point x="574" y="-17"/>
+    </contour>
+    <contour>
+      <point x="693" y="89" type="curve"/>
+      <point x="652" y="89"/>
+      <point x="633" y="116"/>
+      <point x="633" y="191" type="curve"/>
+      <point x="633" y="269"/>
+      <point x="653" y="293"/>
+      <point x="693" y="293" type="curve"/>
+      <point x="733" y="293"/>
+      <point x="754" y="269"/>
+      <point x="754" y="190" type="curve"/>
+      <point x="754" y="116"/>
+      <point x="734" y="89"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 329 106</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 20 117</string>
+              <string>vstem 257 117</string>
+              <string>vstem 517 116</string>
+              <string>vstem 754 116</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0004</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -17 106</string>
+              <string>hstem 329 106</string>
+              <string>hstem 640 106</string>
+              <string>vstem 20 117</string>
+              <string>vstem 257 117</string>
+              <string>vstem 517 116</string>
+              <string>vstem 754 116</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0016</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -17 106</string>
+              <string>hstem 293 106</string>
+              <string>hstem 640 106</string>
+              <string>vstem 20 117</string>
+              <string>vstem 257 117</string>
+              <string>vstem 517 116</string>
+              <string>vstem 754 116</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>e99272ff79f026aaf97235bf3428239bd094a9ea2b47c72f42cdfd8190304142305ff5d4a6280c3ef5c97d58a8d48c15a7189412ef3234cc2732598871934cb5</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

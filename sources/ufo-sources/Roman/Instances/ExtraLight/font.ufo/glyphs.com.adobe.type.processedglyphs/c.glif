@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c" format="2">
+  <advance width="602"/>
+  <unicode hex="0063"/>
+  <anchor x="314" y="0" name="bottom"/>
+  <anchor x="318" y="524" name="top"/>
+  <outline>
+    <contour>
+      <point x="318" y="-16" type="curve" name="hintSet0000"/>
+      <point x="444" y="-16"/>
+      <point x="544" y="60"/>
+      <point x="558" y="173" type="curve"/>
+      <point x="511" y="173" type="line"/>
+      <point x="501" y="94"/>
+      <point x="425" y="28"/>
+      <point x="318" y="28" type="curve"/>
+      <point x="178" y="28"/>
+      <point x="108" y="140"/>
+      <point x="108" y="264" type="curve"/>
+      <point x="108" y="390"/>
+      <point x="177" y="496"/>
+      <point x="318" y="496" type="curve"/>
+      <point x="424" y="496"/>
+      <point x="489" y="436"/>
+      <point x="503" y="354" type="curve"/>
+      <point x="550" y="354" type="line"/>
+      <point x="533" y="469"/>
+      <point x="443" y="540"/>
+      <point x="318" y="540" type="curve"/>
+      <point x="146" y="540"/>
+      <point x="60" y="405"/>
+      <point x="60" y="269" type="curve"/>
+      <point x="60" y="260" type="line"/>
+      <point x="60" y="125"/>
+      <point x="146" y="-16"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -16 44</string>
+              <string>hstem 496 44</string>
+              <string>vstem 60 48</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>5bfcfbb25f68b33fb640d7768c6707430df7b93f253687fe7bae9d24e880c9d19344dc5fd9ea8319dee73d20f5c303f906908b587760d00521375339f40b620a</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

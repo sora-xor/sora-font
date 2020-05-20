@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide.tnum" format="2">
+  <advance width="669"/>
+  <outline>
+    <contour>
+      <point x="74" y="279" type="line"/>
+      <point x="595" y="279" type="line"/>
+      <point x="595" y="409" type="line"/>
+      <point x="74" y="409" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="60" type="line"/>
+      <point x="409" y="60" type="line"/>
+      <point x="409" y="206" type="line"/>
+      <point x="260" y="206" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="482" type="line"/>
+      <point x="409" y="482" type="line"/>
+      <point x="409" y="628" type="line"/>
+      <point x="260" y="628" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

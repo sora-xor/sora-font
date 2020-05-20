@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o" format="2">
+  <advance width="676"/>
+  <unicode hex="006F"/>
+  <note>
+o
+</note>
+  <anchor x="338" y="0" name="bottom"/>
+  <anchor x="338" y="267" name="center"/>
+  <anchor x="453" y="10" name="ogonek"/>
+  <anchor x="338" y="534" name="top"/>
+  <outline>
+    <contour>
+      <point x="338" y="-18" type="curve" name="hintSet0000"/>
+      <point x="524" y="-18"/>
+      <point x="624" y="123"/>
+      <point x="624" y="258" type="curve"/>
+      <point x="624" y="276" type="line"/>
+      <point x="624" y="413"/>
+      <point x="519" y="552"/>
+      <point x="338" y="552" type="curve"/>
+      <point x="157" y="552"/>
+      <point x="52" y="413"/>
+      <point x="52" y="276" type="curve"/>
+      <point x="52" y="258" type="line"/>
+      <point x="52" y="123"/>
+      <point x="152" y="-18"/>
+    </contour>
+    <contour>
+      <point x="338" y="68" type="curve"/>
+      <point x="218" y="68"/>
+      <point x="148" y="155"/>
+      <point x="148" y="267" type="curve"/>
+      <point x="148" y="381"/>
+      <point x="221" y="466"/>
+      <point x="338" y="466" type="curve"/>
+      <point x="455" y="466"/>
+      <point x="528" y="381"/>
+      <point x="528" y="267" type="curve"/>
+      <point x="528" y="155"/>
+      <point x="458" y="68"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -18 86</string>
+              <string>hstem 466 86</string>
+              <string>vstem 52 96</string>
+              <string>vstem 528 96</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>dc4e0edb97c5e758bf90d4c2f671125c262a11bdb50d176bc51ae6b48252f691f2e227e4e5d01fac23d6ff735929f5d8f5e96faa83e9da09d997bb3ec9e2360a</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

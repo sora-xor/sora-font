@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J.salt" format="2">
+  <advance width="605"/>
+  <anchor x="282" y="0" name="bottom"/>
+  <anchor x="449" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="282" y="-21" type="curve" name="hintSet0000"/>
+      <point x="444" y="-21"/>
+      <point x="531" y="73"/>
+      <point x="531" y="237" type="curve"/>
+      <point x="531" y="730" type="line"/>
+      <point x="368" y="730" type="line"/>
+      <point x="368" y="217" type="line"/>
+      <point x="368" y="164"/>
+      <point x="335" y="131"/>
+      <point x="282" y="131" type="curve"/>
+      <point x="230" y="131"/>
+      <point x="196" y="164"/>
+      <point x="196" y="217" type="curve"/>
+      <point x="196" y="331" type="line"/>
+      <point x="32" y="331" type="line"/>
+      <point x="32" y="237" type="line"/>
+      <point x="32" y="73"/>
+      <point x="120" y="-21"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -21 152</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 32 164</string>
+              <string>vstem 368 163</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w605c282-21444-2153173c531237l531730l368730l368217368164335131c282131230131196164c196217l196331l32331l322373273120-21</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=H-8</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

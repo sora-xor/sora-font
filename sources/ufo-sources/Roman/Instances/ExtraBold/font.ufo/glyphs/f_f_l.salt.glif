@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_l.salt" format="2">
+  <advance width="1108"/>
+  <outline>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="244" y="0" type="line"/>
+      <point x="244" y="590" type="line" smooth="yes"/>
+      <point x="244" y="606"/>
+      <point x="250" y="619"/>
+      <point x="267" y="619" type="curve" smooth="yes"/>
+      <point x="284" y="619"/>
+      <point x="290" y="606"/>
+      <point x="290" y="590" type="curve"/>
+      <point x="424" y="590" type="line"/>
+      <point x="424" y="687"/>
+      <point x="355" y="746"/>
+      <point x="251" y="746" type="curve" smooth="yes"/>
+      <point x="141" y="746"/>
+      <point x="76" y="682"/>
+      <point x="76" y="580" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="454" y="0" type="line"/>
+      <point x="622" y="0" type="line"/>
+      <point x="622" y="596" type="line" smooth="yes"/>
+      <point x="622" y="612"/>
+      <point x="629" y="625"/>
+      <point x="645" y="625" type="curve" smooth="yes"/>
+      <point x="661" y="625"/>
+      <point x="668" y="612"/>
+      <point x="668" y="596" type="curve"/>
+      <point x="802" y="596" type="line"/>
+      <point x="802" y="693"/>
+      <point x="733" y="752"/>
+      <point x="628" y="752" type="curve" smooth="yes"/>
+      <point x="517" y="752"/>
+      <point x="454" y="688"/>
+      <point x="454" y="586" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1020" y="-6" type="curve" smooth="yes"/>
+      <point x="1086" y="-6" type="line"/>
+      <point x="1086" y="150" type="line"/>
+      <point x="1039" y="150" type="line" smooth="yes"/>
+      <point x="1017" y="150"/>
+      <point x="1006" y="161"/>
+      <point x="1006" y="183" type="curve" smooth="yes"/>
+      <point x="1006" y="730" type="line"/>
+      <point x="824" y="730" type="line"/>
+      <point x="824" y="183" type="line" smooth="yes"/>
+      <point x="824" y="51"/>
+      <point x="868" y="-6"/>
+    </contour>
+    <contour>
+      <point x="16" y="408" type="line"/>
+      <point x="752" y="408" type="line"/>
+      <point x="752" y="540" type="line"/>
+      <point x="16" y="540" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f.salt</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l.salt</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

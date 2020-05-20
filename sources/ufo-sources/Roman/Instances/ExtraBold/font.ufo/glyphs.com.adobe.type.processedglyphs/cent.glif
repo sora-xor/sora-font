@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance width="610"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="245" y="0" type="line" name="hintSet0000"/>
+      <point x="391" y="0" type="line"/>
+      <point x="391" y="97" type="line"/>
+      <point x="505" y="122"/>
+      <point x="575" y="204"/>
+      <point x="582" y="319" type="curve"/>
+      <point x="410" y="319" type="line"/>
+      <point x="403" y="270"/>
+      <point x="369" y="239"/>
+      <point x="314" y="239" type="curve"/>
+      <point x="245" y="239"/>
+      <point x="210" y="286"/>
+      <point x="210" y="362" type="curve"/>
+      <point x="210" y="442"/>
+      <point x="251" y="489"/>
+      <point x="314" y="489" type="curve"/>
+      <point x="367" y="489"/>
+      <point x="401" y="456"/>
+      <point x="406" y="414" type="curve"/>
+      <point x="578" y="414" type="line"/>
+      <point x="571" y="527"/>
+      <point x="502" y="607"/>
+      <point x="391" y="631" type="curve"/>
+      <point x="391" y="720" type="line"/>
+      <point x="245" y="720" type="line"/>
+      <point x="245" y="632" type="line"/>
+      <point x="112" y="606"/>
+      <point x="34" y="503"/>
+      <point x="34" y="372" type="curve"/>
+      <point x="34" y="352" type="line"/>
+      <point x="34" y="227"/>
+      <point x="110" y="122"/>
+      <point x="245" y="96" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 239</string>
+              <string>hstem 489 231</string>
+              <string>vstem 34 176</string>
+              <string>vstem 245 146</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>2c0264a2b33cb944dee68f734897157b8f3cb71ccba6d97a5e66c5f54c04db91bc41a912ac4a2d1c8f9475042bcdcd16c72615e829e6bb98a373ce19d1df065f</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

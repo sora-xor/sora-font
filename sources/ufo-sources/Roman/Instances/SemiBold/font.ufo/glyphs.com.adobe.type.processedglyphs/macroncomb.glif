@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb" format="2">
+  <unicode hex="0304"/>
+  <anchor x="153" y="540" name="_top"/>
+  <anchor x="153" y="799" name="top"/>
+  <outline>
+    <contour>
+      <point x="0" y="658" type="line" name="hintSet0000"/>
+      <point x="307" y="658" type="line"/>
+      <point x="307" y="747" type="line"/>
+      <point x="0" y="747" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 658 89</string>
+              <string>vstem 0 307</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w0l0658l307658l307747l0747</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

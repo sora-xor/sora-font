@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.salt" format="2">
+  <advance width="523"/>
+  <outline>
+    <contour>
+      <point x="204" y="0" type="line"/>
+      <point x="251" y="0" type="line"/>
+      <point x="251" y="143" type="line" smooth="yes"/>
+      <point x="251" y="368"/>
+      <point x="319" y="527"/>
+      <point x="490" y="653" type="curve"/>
+      <point x="490" y="730" type="line"/>
+      <point x="23" y="730" type="line"/>
+      <point x="23" y="687" type="line"/>
+      <point x="441" y="687" type="line"/>
+      <point x="445" y="671" type="line"/>
+      <point x="284" y="555"/>
+      <point x="204" y="379"/>
+      <point x="204" y="143" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

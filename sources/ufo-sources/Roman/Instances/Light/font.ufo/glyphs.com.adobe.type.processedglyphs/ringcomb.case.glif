@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb.case" format="2">
+  <anchor x="113" y="730" name="_top"/>
+  <anchor x="113" y="952" name="top"/>
+  <outline>
+    <contour>
+      <point x="113" y="773" type="curve" name="hintSet0000"/>
+      <point x="184" y="773"/>
+      <point x="227" y="822"/>
+      <point x="227" y="878" type="curve"/>
+      <point x="227" y="934"/>
+      <point x="184" y="982"/>
+      <point x="113" y="982" type="curve"/>
+      <point x="42" y="982"/>
+      <point x="0" y="934"/>
+      <point x="0" y="878" type="curve"/>
+      <point x="0" y="822"/>
+      <point x="42" y="773"/>
+    </contour>
+    <contour>
+      <point x="113" y="814" type="curve"/>
+      <point x="68" y="814"/>
+      <point x="45" y="843"/>
+      <point x="45" y="878" type="curve"/>
+      <point x="45" y="913"/>
+      <point x="68" y="941"/>
+      <point x="113" y="941" type="curve"/>
+      <point x="158" y="941"/>
+      <point x="182" y="913"/>
+      <point x="182" y="878" type="curve"/>
+      <point x="182" y="843"/>
+      <point x="158" y="814"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 773 41</string>
+              <string>hstem 941 41</string>
+              <string>vstem 0 45</string>
+              <string>vstem 182 45</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>3a99c31c80dc20d574f9252a8c91f02254f841c75eaffacfdac5c3e64b55971558569c30e753a87296bf97730448e2e572053ebde10c4ec8270fd161bffc7e22</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

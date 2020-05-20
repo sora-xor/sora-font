@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresis.salt" format="2">
+  <advance width="620"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="410" y="10" name="ogonek"/>
+  <anchor x="310" y="810" name="top"/>
+  <anchor x="600" y="534" name="topright"/>
+  <outline>
+    <contour>
+      <point x="310" y="-18" type="curve" name="hintSet0000"/>
+      <point x="437" y="-18"/>
+      <point x="540" y="65"/>
+      <point x="540" y="224" type="curve"/>
+      <point x="540" y="534" type="line"/>
+      <point x="444" y="534" type="line"/>
+      <point x="444" y="206" type="line"/>
+      <point x="444" y="120"/>
+      <point x="390" y="70"/>
+      <point x="310" y="70" type="curve"/>
+      <point x="230" y="70"/>
+      <point x="176" y="120"/>
+      <point x="176" y="206" type="curve"/>
+      <point x="176" y="534" type="line"/>
+      <point x="80" y="534" type="line"/>
+      <point x="80" y="224" type="line"/>
+      <point x="80" y="65"/>
+      <point x="183" y="-18"/>
+    </contour>
+    <contour>
+      <point x="210" y="644" type="curve" name="hintSet0011"/>
+      <point x="252" y="644"/>
+      <point x="272" y="669"/>
+      <point x="272" y="703" type="curve"/>
+      <point x="272" y="737"/>
+      <point x="252" y="762"/>
+      <point x="210" y="762" type="curve"/>
+      <point x="168" y="762"/>
+      <point x="148" y="737"/>
+      <point x="148" y="703" type="curve"/>
+      <point x="148" y="669"/>
+      <point x="168" y="644"/>
+    </contour>
+    <contour>
+      <point x="410" y="644" type="curve"/>
+      <point x="452" y="644"/>
+      <point x="472" y="669"/>
+      <point x="472" y="703" type="curve"/>
+      <point x="472" y="737"/>
+      <point x="452" y="762"/>
+      <point x="410" y="762" type="curve"/>
+      <point x="368" y="762"/>
+      <point x="348" y="737"/>
+      <point x="348" y="703" type="curve"/>
+      <point x="348" y="669"/>
+      <point x="368" y="644"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -18 88</string>
+              <string>hstem 534 -20</string>
+              <string>hstem 644 118</string>
+              <string>vstem 80 96</string>
+              <string>vstem 444 96</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0011</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -18 88</string>
+              <string>hstem 534 -20</string>
+              <string>hstem 644 118</string>
+              <string>vstem 148 124</string>
+              <string>vstem 348 124</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>6cdfab9fbcf48130193cb23a76d0644ca6ee66879c77364e4e28ba913a552f0a10e5af361a217b75f0a4f2d3a35c370032a06d065bd91441afb0ff12fee08a13</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

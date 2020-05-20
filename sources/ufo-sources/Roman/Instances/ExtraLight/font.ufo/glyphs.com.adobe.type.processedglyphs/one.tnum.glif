@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tnum" format="2">
+  <advance width="632"/>
+  <outline>
+    <contour>
+      <point x="152" y="0" type="line" name="hintSet0000"/>
+      <point x="519" y="0" type="line"/>
+      <point x="519" y="43" type="line"/>
+      <point x="360" y="43" type="line"/>
+      <point x="360" y="730" type="line"/>
+      <point x="153" y="730" type="line" name="hintSet0005"/>
+      <point x="153" y="687" type="line"/>
+      <point x="312" y="687" type="line" name="hintSet0007"/>
+      <point x="312" y="43" type="line"/>
+      <point x="152" y="43" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 43</string>
+              <string>hstem 687 43</string>
+              <string>vstem 312 48</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0005</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 43</string>
+              <string>hstem 687 43</string>
+              <string>vstem 153 207</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0007</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 43</string>
+              <string>hstem 687 43</string>
+              <string>vstem 312 48</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w632l1520l5190l51943l36043l360730l153730l153687l312687l31243l15243</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

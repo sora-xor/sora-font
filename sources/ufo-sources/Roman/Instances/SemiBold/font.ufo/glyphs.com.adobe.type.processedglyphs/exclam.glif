@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="306"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="89" y="231" type="line" name="hintSet0000"/>
+      <point x="217" y="231" type="line"/>
+      <point x="217" y="730" type="line"/>
+      <point x="89" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="0" type="line" name="hintSet0004"/>
+      <point x="228" y="0" type="line"/>
+      <point x="228" y="140" type="line"/>
+      <point x="78" y="140" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 140</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 89 128</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0004</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 140</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 78 150</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w306l89231l217231l217730l89730l780l2280l228140l78140</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

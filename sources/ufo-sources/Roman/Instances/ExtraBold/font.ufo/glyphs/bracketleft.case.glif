@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleft.case" format="2">
+  <advance width="398"/>
+  <outline>
+    <contour>
+      <point x="78" y="-118" type="line"/>
+      <point x="252" y="-118" type="line"/>
+      <point x="252" y="806" type="line"/>
+      <point x="78" y="806" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="-118" type="line"/>
+      <point x="360" y="-118" type="line"/>
+      <point x="360" y="34" type="line"/>
+      <point x="204" y="34" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="654" type="line"/>
+      <point x="360" y="654" type="line"/>
+      <point x="360" y="806" type="line"/>
+      <point x="204" y="806" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>bracketleft</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

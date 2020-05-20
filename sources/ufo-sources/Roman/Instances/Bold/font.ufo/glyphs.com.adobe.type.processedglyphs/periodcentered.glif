@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered" format="2">
+  <advance width="272"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="48" y="194" type="line" name="hintSet0000"/>
+      <point x="224" y="194" type="line"/>
+      <point x="224" y="373" type="line"/>
+      <point x="48" y="373" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 194 179</string>
+              <string>vstem 48 176</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w272l48194l224194l224373l48373</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>period</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

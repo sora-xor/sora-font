@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresis.salt" format="2">
+  <advance width="608"/>
+  <anchor x="304" y="0" name="bottom"/>
+  <anchor x="412" y="17" name="ogonek"/>
+  <anchor x="304" y="800" name="top"/>
+  <anchor x="592" y="520" name="topright"/>
+  <outline>
+    <contour>
+      <point x="304" y="-16" type="curve" name="hintSet0000"/>
+      <point x="442" y="-16"/>
+      <point x="510" y="66"/>
+      <point x="510" y="196" type="curve"/>
+      <point x="510" y="520" type="line"/>
+      <point x="478" y="520" type="line"/>
+      <point x="478" y="194" type="line"/>
+      <point x="478" y="78"/>
+      <point x="422" y="14"/>
+      <point x="304" y="14" type="curve"/>
+      <point x="186" y="14"/>
+      <point x="130" y="77"/>
+      <point x="130" y="194" type="curve"/>
+      <point x="130" y="520" type="line"/>
+      <point x="98" y="520" type="line"/>
+      <point x="98" y="196" type="line"/>
+      <point x="98" y="65"/>
+      <point x="166" y="-16"/>
+    </contour>
+    <contour>
+      <point x="209" y="654" type="curve"/>
+      <point x="233" y="654"/>
+      <point x="245" y="668"/>
+      <point x="245" y="688" type="curve"/>
+      <point x="245" y="707"/>
+      <point x="233" y="722"/>
+      <point x="209" y="722" type="curve"/>
+      <point x="185" y="722"/>
+      <point x="173" y="707"/>
+      <point x="173" y="688" type="curve"/>
+      <point x="173" y="668"/>
+      <point x="185" y="654"/>
+    </contour>
+    <contour>
+      <point x="399" y="654" type="curve"/>
+      <point x="423" y="654"/>
+      <point x="435" y="668"/>
+      <point x="435" y="688" type="curve"/>
+      <point x="435" y="707"/>
+      <point x="423" y="722"/>
+      <point x="399" y="722" type="curve"/>
+      <point x="375" y="722"/>
+      <point x="363" y="707"/>
+      <point x="363" y="688" type="curve"/>
+      <point x="363" y="668"/>
+      <point x="375" y="654"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -16 30</string>
+              <string>hstem 520 -20</string>
+              <string>hstem 654 68</string>
+              <string>vstem 98 32</string>
+              <string>vstem 173 72</string>
+              <string>vstem 363 72</string>
+              <string>vstem 478 32</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>6278d6f75ae58c9ba6fffc8d9f899e362cbafd9ceb4a7e27213b759d26a303e65484b135dafe5e5f9299575ac43ae8a635a5b0969953707384a9b404ab9e1f03</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

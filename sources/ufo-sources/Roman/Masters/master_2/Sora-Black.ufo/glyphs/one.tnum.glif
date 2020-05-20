@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tnum" format="2">
+  <advance width="676"/>
+  <outline>
+    <contour>
+      <point x="272" y="0" type="line"/>
+      <point x="458" y="0" type="line"/>
+      <point x="458" y="730" type="line"/>
+      <point x="94" y="730" type="line"/>
+      <point x="94" y="568" type="line"/>
+      <point x="316" y="568" type="line"/>
+      <point x="272" y="602" type="line"/>
+    </contour>
+    <contour>
+      <point x="74" y="0" type="line"/>
+      <point x="622" y="0" type="line"/>
+      <point x="622" y="162" type="line"/>
+      <point x="74" y="162" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

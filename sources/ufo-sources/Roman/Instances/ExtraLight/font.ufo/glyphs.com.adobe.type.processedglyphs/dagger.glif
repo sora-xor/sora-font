@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="512"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="234" y="-200" type="line" name="hintSet0000"/>
+      <point x="278" y="-200" type="line"/>
+      <point x="278" y="388" type="line"/>
+      <point x="234" y="388" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="484" type="line"/>
+      <point x="455" y="484" type="line"/>
+      <point x="455" y="524" type="line"/>
+      <point x="278" y="524" type="line"/>
+      <point x="278" y="730" type="line"/>
+      <point x="234" y="730" type="line"/>
+      <point x="234" y="524" type="line"/>
+      <point x="57" y="524" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -179 -21</string>
+              <string>hstem 484 40</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 234 44</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w512l234-200l278-200l278388l234388l57484l455484l455524l278524l278730l234730l234524l57524</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="962"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="196" y="343" type="line" name="hintSet0000"/>
+      <point x="340" y="700" type="line"/>
+      <point x="489" y="700" type="line"/>
+      <point x="489" y="343" type="line"/>
+    </contour>
+    <contour>
+      <point x="26" y="0" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="184" y="313" type="line"/>
+      <point x="489" y="313" type="line"/>
+      <point x="489" y="0" type="line"/>
+      <point x="888" y="0" type="line"/>
+      <point x="888" y="30" type="line"/>
+      <point x="521" y="30" type="line"/>
+      <point x="521" y="352" type="line" name="hintSet0012"/>
+      <point x="849" y="352" type="line"/>
+      <point x="849" y="382" type="line"/>
+      <point x="521" y="382" type="line"/>
+      <point x="521" y="700" type="line"/>
+      <point x="875" y="700" type="line"/>
+      <point x="875" y="730" type="line"/>
+      <point x="323" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 30</string>
+              <string>hstem 313 30</string>
+              <string>hstem 352 30</string>
+              <string>hstem 700 30</string>
+              <string>vstem 489 32</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0012</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 30</string>
+              <string>hstem 352 30</string>
+              <string>hstem 700 30</string>
+              <string>vstem 489 32</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>7c64aaee6d523a32d3570d0dbeeaa664150db95f1b1941c26a66ab631a1f418f07a2d86a69095e89169a44aa0ddc54d06cd9201ebb02ac7b15c2d032369b16ba</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

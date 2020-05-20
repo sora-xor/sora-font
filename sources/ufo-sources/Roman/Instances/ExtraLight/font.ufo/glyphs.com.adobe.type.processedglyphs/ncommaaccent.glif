@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ncommaaccent" format="2">
+  <advance width="630"/>
+  <unicode hex="0146"/>
+  <outline>
+    <contour>
+      <point x="104" y="0" type="line" name="hintSet0000"/>
+      <point x="152" y="0" type="line"/>
+      <point x="152" y="317" type="line"/>
+      <point x="152" y="422"/>
+      <point x="219" y="494"/>
+      <point x="324" y="494" type="curve"/>
+      <point x="427" y="494"/>
+      <point x="484" y="424"/>
+      <point x="484" y="321" type="curve"/>
+      <point x="484" y="0" type="line"/>
+      <point x="532" y="0" type="line"/>
+      <point x="532" y="310" type="line"/>
+      <point x="532" y="450"/>
+      <point x="464" y="538"/>
+      <point x="333" y="538" type="curve"/>
+      <point x="331" y="538" type="line"/>
+      <point x="231" y="538" name="hintSet0010"/>
+      <point x="168" y="485"/>
+      <point x="143" y="401" type="curve"/>
+      <point x="143" y="524" type="line" name="hintSet0011"/>
+      <point x="104" y="524" type="line" name="hintSet0012"/>
+    </contour>
+    <contour>
+      <point x="316" y="-55" type="curve"/>
+      <point x="291" y="-55"/>
+      <point x="274" y="-71"/>
+      <point x="274" y="-96" type="curve"/>
+      <point x="274" y="-122"/>
+      <point x="291" y="-136"/>
+      <point x="312" y="-136" type="curve"/>
+      <point x="323" y="-136"/>
+      <point x="332" y="-132"/>
+      <point x="338" y="-127" type="curve"/>
+      <point x="338" y="-147" type="line"/>
+      <point x="339" y="-207"/>
+      <point x="317" y="-233"/>
+      <point x="273" y="-233" type="curve"/>
+      <point x="268" y="-233" type="line"/>
+      <point x="268" y="-263" type="line"/>
+      <point x="273" y="-263" type="line"/>
+      <point x="335" y="-263"/>
+      <point x="371" y="-228"/>
+      <point x="371" y="-144" type="curve"/>
+      <point x="371" y="-140" type="line"/>
+      <point x="371" y="-81"/>
+      <point x="349" y="-55"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -263 30</string>
+              <string>hstem 21 -21</string>
+              <string>hstem 494 44</string>
+              <string>vstem 104 48</string>
+              <string>vstem 338 33</string>
+              <string>vstem 484 48</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0010</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -263 30</string>
+              <string>hstem 21 -21</string>
+              <string>hstem 494 44</string>
+              <string>vstem 104 39</string>
+              <string>vstem 338 33</string>
+              <string>vstem 484 48</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0011</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -263 30</string>
+              <string>hstem 21 -21</string>
+              <string>hstem 524 -20</string>
+              <string>vstem 104 39</string>
+              <string>vstem 338 33</string>
+              <string>vstem 484 48</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0012</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -263 30</string>
+              <string>hstem -136 81</string>
+              <string>hstem 21 -21</string>
+              <string>hstem 524 -20</string>
+              <string>vstem 104 48</string>
+              <string>vstem 338 33</string>
+              <string>vstem 484 48</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>4911631c41bb6b3da54fc0029aea553a27ffb2ee49d1b30eb1684f6f1e3eb2e16858bc77fb408090807e972a93205a0e5ff21e192aaa4bcf5f98802aabd00000</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

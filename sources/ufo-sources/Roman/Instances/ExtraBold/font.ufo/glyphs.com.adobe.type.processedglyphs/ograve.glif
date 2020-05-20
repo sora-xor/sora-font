@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ograve" format="2">
+  <advance width="682"/>
+  <unicode hex="00F2"/>
+  <anchor x="341" y="0" name="bottom"/>
+  <anchor x="341" y="267" name="center"/>
+  <anchor x="458" y="12" name="ogonek"/>
+  <anchor x="239" y="824" name="top"/>
+  <outline>
+    <contour>
+      <point x="341" y="-20" type="curve" name="hintSet0000"/>
+      <point x="536" y="-20"/>
+      <point x="648" y="108"/>
+      <point x="648" y="262" type="curve"/>
+      <point x="648" y="286" type="line"/>
+      <point x="648" y="447"/>
+      <point x="529" y="572"/>
+      <point x="341" y="572" type="curve"/>
+      <point x="153" y="572"/>
+      <point x="34" y="447"/>
+      <point x="34" y="286" type="curve"/>
+      <point x="34" y="262" type="line"/>
+      <point x="34" y="108"/>
+      <point x="146" y="-20"/>
+    </contour>
+    <contour>
+      <point x="341" y="132" type="curve"/>
+      <point x="258" y="132"/>
+      <point x="216" y="191"/>
+      <point x="216" y="274" type="curve"/>
+      <point x="216" y="359"/>
+      <point x="261" y="420"/>
+      <point x="341" y="420" type="curve"/>
+      <point x="421" y="420"/>
+      <point x="466" y="359"/>
+      <point x="466" y="274" type="curve"/>
+      <point x="466" y="191"/>
+      <point x="424" y="132"/>
+    </contour>
+    <contour>
+      <point x="259" y="612" type="line"/>
+      <point x="423" y="612" type="line"/>
+      <point x="335" y="824" type="line"/>
+      <point x="145" y="824" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -20 152</string>
+              <string>hstem 420 152</string>
+              <string>hstem 612 212</string>
+              <string>vstem 34 182</string>
+              <string>vstem 466 182</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>72c2d82b6bd545043ae3e593c19c619f1cb4e0d799a68ab3611ea5faaf566eeae577ba77b283ae43c12709acebf362032dbafacf7859d89219e8930238403d35</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.salt" format="2">
+  <advance width="535"/>
+  <outline>
+    <contour>
+      <point x="199" y="0" type="line" name="hintSet0000"/>
+      <point x="267" y="0" type="line"/>
+      <point x="267" y="138" type="line"/>
+      <point x="267" y="352"/>
+      <point x="335" y="507"/>
+      <point x="503" y="630" type="curve"/>
+      <point x="503" y="730" type="line"/>
+      <point x="22" y="730" type="line"/>
+      <point x="22" y="669" type="line"/>
+      <point x="433" y="669" type="line"/>
+      <point x="437" y="652" type="line"/>
+      <point x="281" y="540"/>
+      <point x="199" y="366"/>
+      <point x="199" y="138" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 669 61</string>
+              <string>vstem 199 68</string>
+              <string>vstem 435 68</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w535l1990l2670l267138267352335507c503630l503730l22730l22669l433669l437652281540199366c199138</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

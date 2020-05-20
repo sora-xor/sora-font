@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Jcircumflex.salt" format="2">
+  <advance width="595"/>
+  <anchor x="278" y="0" name="bottom"/>
+  <anchor x="444" y="958" name="top"/>
+  <outline>
+    <contour>
+      <point x="276" y="-21" type="curve" name="hintSet0000"/>
+      <point x="418" y="-21"/>
+      <point x="508" y="63"/>
+      <point x="508" y="221" type="curve"/>
+      <point x="508" y="730" type="line"/>
+      <point x="380" y="730" type="line"/>
+      <point x="380" y="202" type="line"/>
+      <point x="380" y="137"/>
+      <point x="339" y="99"/>
+      <point x="276" y="99" type="curve"/>
+      <point x="213" y="99"/>
+      <point x="173" y="137"/>
+      <point x="173" y="202" type="curve"/>
+      <point x="173" y="324" type="line"/>
+      <point x="44" y="324" type="line"/>
+      <point x="44" y="221" type="line"/>
+      <point x="44" y="63"/>
+      <point x="133" y="-21"/>
+    </contour>
+    <contour>
+      <point x="241" y="787" type="line" name="hintSet0011"/>
+      <point x="354" y="787" type="line"/>
+      <point x="435" y="896" type="line" name="hintSet0013"/>
+      <point x="452" y="896" type="line"/>
+      <point x="535" y="787" type="line" name="hintSet0015"/>
+      <point x="651" y="787" type="line"/>
+      <point x="520" y="958" type="line" name="hintSet0017"/>
+      <point x="370" y="958" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -21 120</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 896 62</string>
+              <string>vstem 44 129</string>
+              <string>vstem 380 128</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0011</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -21 120</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 787 171</string>
+              <string>vstem 44 129</string>
+              <string>vstem 380 128</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0013</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -21 120</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 896 62</string>
+              <string>vstem 44 129</string>
+              <string>vstem 380 128</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0015</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -21 120</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 787 171</string>
+              <string>vstem 44 129</string>
+              <string>vstem 380 128</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0017</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -21 120</string>
+              <string>hstem 730 -20</string>
+              <string>hstem 896 62</string>
+              <string>vstem 44 129</string>
+              <string>vstem 380 128</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>9359a15049a61b4238f9d2a5d5cc7b060b4b564a2b8efadc42196471980b73edbe3b5d82985422aa65d6531bbf587d12d56377c22ea0b35131937a137444f5ea</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

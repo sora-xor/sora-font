@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aacute" format="2">
+  <advance width="790"/>
+  <unicode hex="00C1"/>
+  <outline>
+    <contour>
+      <point x="8" y="0" type="line" name="hintSet0000"/>
+      <point x="194" y="0" type="line"/>
+      <point x="246" y="169" type="line"/>
+      <point x="537" y="169" type="line"/>
+      <point x="590" y="0" type="line"/>
+      <point x="782" y="0" type="line"/>
+      <point x="540" y="730" type="line"/>
+      <point x="242" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="292" y="321" type="line"/>
+      <point x="371" y="580" type="line"/>
+      <point x="408" y="580" type="line"/>
+      <point x="489" y="321" type="line"/>
+    </contour>
+    <contour>
+      <point x="296" y="784" type="line"/>
+      <point x="470" y="784" type="line"/>
+      <point x="612" y="968" type="line"/>
+      <point x="420" y="968" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 169 152</string>
+              <string>hstem 580 150</string>
+              <string>hstem 784 184</string>
+              <string>vstem 8 774</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w790l80l1940l246169l537169l5900l7820l540730l242730l292321l371580l408580l489321l296784l470784l612968l420968</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

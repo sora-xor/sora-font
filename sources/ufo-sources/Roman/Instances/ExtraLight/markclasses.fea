@@ -1,0 +1,35 @@
+@mGC_ogonek_207_10 = [ ogonekcomb ogonekcomb.case ];
+@mGC_top_139_524 = [ dieresiscomb circumflexcomb ];
+@mGC_top_147_730 = [ dieresiscomb.case brevecomb.case ];
+
+markClass @mGC_ogonek_207_10 <anchor 207 10> @MC_ogonek;
+markClass @mGC_top_139_524 <anchor 139 524> @MC_top;
+markClass @mGC_top_147_730 <anchor 147 730> @MC_top;
+
+markClass acutecomb <anchor 31 524> @MC_top;
+markClass acutecomb.case <anchor 33 730> @MC_top;
+markClass brevecomb <anchor 135 524> @MC_top;
+markClass caroncomb <anchor 136 524> @MC_top;
+markClass caroncomb.alt <anchor 0 524> @MC_topright;
+markClass caroncomb.case <anchor 146 730> @MC_top;
+markClass cedillacomb <anchor 120 0> @MC_bottom;
+markClass cedillacomb.case <anchor 68 0> @MC_bottom;
+markClass circumflexcomb.case <anchor 149 730> @MC_top;
+markClass commaaccentcomb <anchor 46 0> @MC_bottom;
+markClass commaaccentcomb.case <anchor 54 0> @MC_bottom;
+markClass commaturnedabovecomb <anchor 49 524> @MC_top;
+markClass commaturnedabovecomb.case <anchor 56 720> @MC_top;
+markClass dotaccentcomb <anchor 43 524> @MC_top;
+markClass dotaccentcomb.case <anchor 43 730> @MC_top;
+markClass gravecomb <anchor 114 524> @MC_top;
+markClass gravecomb.case <anchor 140 730> @MC_top;
+markClass hungarumlautcomb <anchor 98 524> @MC_top;
+markClass hungarumlautcomb.case <anchor 107 730> @MC_top;
+markClass macroncomb <anchor 120 524> @MC_top;
+markClass macroncomb.case <anchor 142 730> @MC_top;
+markClass ringcomb <anchor 106 524> @MC_top;
+markClass ringcomb.case <anchor 109 730> @MC_top;
+markClass strokelongcomb <anchor 150 359> @MC_center;
+markClass strokeshortcomb <anchor 150 267> @MC_center;
+markClass tildecomb <anchor 148 524> @MC_top;
+markClass tildecomb.case <anchor 158 730> @MC_top;

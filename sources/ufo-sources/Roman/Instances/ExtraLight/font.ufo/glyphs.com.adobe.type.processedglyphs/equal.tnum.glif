@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal.tnum" format="2">
+  <advance width="632"/>
+  <outline>
+    <contour>
+      <point x="102" y="395" type="line" name="hintSet0000"/>
+      <point x="530" y="395" type="line"/>
+      <point x="530" y="435" type="line"/>
+      <point x="102" y="435" type="line"/>
+    </contour>
+    <contour>
+      <point x="102" y="232" type="line"/>
+      <point x="530" y="232" type="line"/>
+      <point x="530" y="272" type="line"/>
+      <point x="102" y="272" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 232 40</string>
+              <string>hstem 395 40</string>
+              <string>vstem 102 428</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w632l102395l530395l530435l102435l102232l530232l530272l102272</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

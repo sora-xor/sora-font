@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron.salt" format="2">
+  <advance width="336"/>
+  <anchor x="179" y="0" name="bottom"/>
+  <anchor x="183" y="480" name="center"/>
+  <anchor x="143" y="730" name="top"/>
+  <anchor x="218" y="534" name="topright"/>
+  <outline>
+    <contour>
+      <point x="248" y="-6" type="curve" name="hintSet0000"/>
+      <point x="314" y="-6" type="line"/>
+      <point x="314" y="150" type="line"/>
+      <point x="267" y="150" type="line"/>
+      <point x="245" y="150"/>
+      <point x="234" y="161"/>
+      <point x="234" y="183" type="curve"/>
+      <point x="234" y="730" type="line"/>
+      <point x="52" y="730" type="line"/>
+      <point x="52" y="183" type="line"/>
+      <point x="52" y="51"/>
+      <point x="96" y="-6"/>
+    </contour>
+    <contour>
+      <point x="270" y="558" type="line"/>
+      <point x="408" y="558" type="line"/>
+      <point x="426" y="822" type="line" name="hintSet0011"/>
+      <point x="270" y="822" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -6 156</string>
+              <string>hstem 558 172</string>
+              <string>vstem 52 182</string>
+              <string>vstem 270 147</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0011</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -6 156</string>
+              <string>hstem 558 264</string>
+              <string>vstem 52 182</string>
+              <string>vstem 270 147</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w336c248-6l314-6l314150l267150245150234161c234183l234730l52730l52183525196-6l270558l408558l426822l270822</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

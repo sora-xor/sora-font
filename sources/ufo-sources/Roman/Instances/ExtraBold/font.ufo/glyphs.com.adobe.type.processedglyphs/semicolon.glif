@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="276"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="139" y="-176" type="line" name="hintSet0000"/>
+      <point x="264" y="144" type="line"/>
+      <point x="110" y="200" type="line"/>
+      <point x="0" y="-122" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="320" type="line"/>
+      <point x="242" y="320" type="line"/>
+      <point x="242" y="518" type="line"/>
+      <point x="46" y="518" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 320 198</string>
+              <string>vstem 46 196</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w276l139-176l264144l110200l0-122l46320l242320l242518l46518</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>period</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

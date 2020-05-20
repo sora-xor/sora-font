@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cacute" format="2">
+  <advance width="797"/>
+  <unicode hex="0106"/>
+  <anchor x="417" y="0" name="bottom"/>
+  <anchor x="534" y="958" name="top"/>
+  <outline>
+    <contour>
+      <point x="420" y="-19" type="curve" name="hintSet0000"/>
+      <point x="627" y="-19"/>
+      <point x="746" y="108"/>
+      <point x="766" y="263" type="curve"/>
+      <point x="636" y="263" type="line"/>
+      <point x="619" y="159"/>
+      <point x="534" y="101"/>
+      <point x="420" y="101" type="curve"/>
+      <point x="263" y="101"/>
+      <point x="180" y="218"/>
+      <point x="180" y="366" type="curve"/>
+      <point x="180" y="518"/>
+      <point x="261" y="631"/>
+      <point x="415" y="631" type="curve"/>
+      <point x="524" y="631"/>
+      <point x="607" y="576"/>
+      <point x="623" y="469" type="curve"/>
+      <point x="753" y="469" type="line"/>
+      <point x="735" y="638"/>
+      <point x="611" y="751"/>
+      <point x="415" y="751" type="curve"/>
+      <point x="159" y="751"/>
+      <point x="50" y="556"/>
+      <point x="50" y="378" type="curve"/>
+      <point x="50" y="356" type="line"/>
+      <point x="50" y="192"/>
+      <point x="154" y="-19"/>
+    </contour>
+    <contour>
+      <point x="344" y="787" type="line"/>
+      <point x="462" y="787" type="line"/>
+      <point x="610" y="958" type="line"/>
+      <point x="470" y="958" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -19 120</string>
+              <string>hstem 631 120</string>
+              <string>hstem 787 171</string>
+              <string>vstem 50 130</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>88de7b11811ad0c9d0c4d39a30fbb5f4c2c75f822b7849a71ab0b1ef6a5de3380a06bf9c5bdc0f64f1f739f62bb84edc828d5a15faac8735e5ff603eaad6cf8e</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

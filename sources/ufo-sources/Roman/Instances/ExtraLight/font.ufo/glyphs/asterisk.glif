@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="565"/>
+  <unicode hex="002A"/>
+  <outline>
+    <component base="asterisk.part" xOffset="322" yOffset="61"/>
+    <component base="asterisk.part" xScale="-0.5" xyScale="0.86603" yxScale="-0.86603" yScale="-0.5" xOffset="668" yOffset="803"/>
+    <component base="asterisk.part" xScale="-0.5" xyScale="-0.86603" yxScale="0.86603" yScale="-0.5" xOffset="-146" yOffset="729"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

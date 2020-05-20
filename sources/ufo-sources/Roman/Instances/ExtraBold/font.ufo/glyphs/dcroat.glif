@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="708"/>
+  <unicode hex="0111"/>
+  <anchor x="317" y="0" name="bottom"/>
+  <anchor x="510" y="637" name="center"/>
+  <anchor x="553" y="730" name="top"/>
+  <anchor x="626" y="534" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="strokeshortcomb" xOffset="360" yOffset="370"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

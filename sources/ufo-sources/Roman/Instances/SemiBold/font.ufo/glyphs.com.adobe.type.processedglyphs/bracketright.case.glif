@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright.case" format="2">
+  <advance width="384"/>
+  <outline>
+    <contour>
+      <point x="285" y="-118" type="line" name="hintSet0000"/>
+      <point x="285" y="806" type="line"/>
+      <point x="49" y="806" type="line" name="hintSet0002"/>
+      <point x="49" y="703" type="line"/>
+      <point x="165" y="703" type="line" name="hintSet0004"/>
+      <point x="165" y="-15" type="line"/>
+      <point x="49" y="-15" type="line" name="hintSet0006"/>
+      <point x="49" y="-118" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -118 103</string>
+              <string>hstem 703 103</string>
+              <string>vstem 165 120</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0002</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -118 103</string>
+              <string>hstem 703 103</string>
+              <string>vstem 49 236</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0004</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -118 103</string>
+              <string>hstem 703 103</string>
+              <string>vstem 165 120</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0006</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -118 103</string>
+              <string>hstem 703 103</string>
+              <string>vstem 49 236</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w384l285-118l285806l49806l49703l165703l165-15l49-15l49-118</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

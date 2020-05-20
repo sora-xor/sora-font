@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="262"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="73" y="0" type="line" name="hintSet0000"/>
+      <point x="189" y="0" type="line"/>
+      <point x="189" y="122" type="line"/>
+      <point x="73" y="122" type="line"/>
+    </contour>
+    <contour>
+      <point x="73" y="370" type="line"/>
+      <point x="189" y="370" type="line"/>
+      <point x="189" y="492" type="line"/>
+      <point x="73" y="492" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 122</string>
+              <string>hstem 370 122</string>
+              <string>vstem 73 116</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w262l730l1890l189122l73122l73370l189370l189492l73492</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>period</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>period</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

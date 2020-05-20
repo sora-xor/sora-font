@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sora" format="2">
+  <advance width="830"/>
+  <unicode hex="E000"/>
+  <outline>
+    <contour>
+      <point x="153" y="-8" type="line"/>
+      <point x="400" y="344" type="line"/>
+      <point x="380" y="339" type="line"/>
+      <point x="446" y="339" type="line"/>
+      <point x="428" y="344" type="line"/>
+      <point x="674" y="-8" type="line"/>
+      <point x="769" y="56" type="line"/>
+      <point x="479" y="460" type="line"/>
+      <point x="352" y="460" type="line"/>
+      <point x="61" y="56" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="460" type="line"/>
+      <point x="754" y="460" type="line"/>
+      <point x="754" y="542" type="line"/>
+      <point x="77" y="542" type="line"/>
+    </contour>
+    <contour>
+      <point x="356" y="505" type="line"/>
+      <point x="474" y="505" type="line"/>
+      <point x="474" y="674" type="line"/>
+      <point x="356" y="674" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="648" type="line"/>
+      <point x="754" y="648" type="line"/>
+      <point x="754" y="730" type="line"/>
+      <point x="77" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

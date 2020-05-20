@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb.case" format="2">
+  <outline>
+    <contour>
+      <point x="97" y="757" type="curve" name="hintSet0000"/>
+      <point x="140" y="757"/>
+      <point x="177" y="777"/>
+      <point x="177" y="825" type="curve"/>
+      <point x="177" y="867"/>
+      <point x="151" y="889"/>
+      <point x="115" y="889" type="curve"/>
+      <point x="102" y="889"/>
+      <point x="92" y="886"/>
+      <point x="83" y="882" type="curve"/>
+      <point x="83" y="909"/>
+      <point x="103" y="928"/>
+      <point x="145" y="928" type="curve"/>
+      <point x="169" y="928" type="line" name="hintSet0005"/>
+      <point x="169" y="1005" type="line"/>
+      <point x="147" y="1005" type="line"/>
+      <point x="61" y="1005" name="hintSet0008"/>
+      <point x="0" y="964"/>
+      <point x="0" y="877" type="curve"/>
+      <point x="0" y="871" type="line"/>
+      <point x="0" y="799"/>
+      <point x="36" y="757"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 757 132</string>
+              <string>hstem 928 77</string>
+              <string>vstem 0 83</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0005</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 757 132</string>
+              <string>hstem 928 77</string>
+              <string>vstem 0 169</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0008</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 757 132</string>
+              <string>hstem 928 77</string>
+              <string>vstem 0 83</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>951be7020826cb5a926dc6d84135405226bb07106a67718308dbad587f156e970d9b5939c3caa3643e5ba4873e3f14e83ec98ad5b0b8bcbe8736ed4d689c6a09</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

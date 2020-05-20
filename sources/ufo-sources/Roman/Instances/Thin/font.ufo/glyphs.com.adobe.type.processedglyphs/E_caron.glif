@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecaron" format="2">
+  <advance width="608"/>
+  <unicode hex="011A"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line" name="hintSet0000"/>
+      <point x="534" y="0" type="line"/>
+      <point x="534" y="30" type="line"/>
+      <point x="162" y="30" type="line"/>
+      <point x="162" y="356" type="line"/>
+      <point x="495" y="356" type="line"/>
+      <point x="495" y="386" type="line"/>
+      <point x="162" y="386" type="line"/>
+      <point x="162" y="700" type="line"/>
+      <point x="521" y="700" type="line"/>
+      <point x="521" y="730" type="line"/>
+      <point x="130" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="298" y="802" type="line"/>
+      <point x="349" y="802" type="line"/>
+      <point x="455" y="940" type="line"/>
+      <point x="422" y="940" type="line"/>
+      <point x="334" y="824" type="line"/>
+      <point x="314" y="824" type="line"/>
+      <point x="226" y="940" type="line"/>
+      <point x="192" y="940" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 30</string>
+              <string>hstem 356 30</string>
+              <string>hstem 700 30</string>
+              <string>hstem 802 22</string>
+              <string>vstem 130 32</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>b95d1fcf8877b5b53287a5613571470ee1766cad14b5443c874bc6437072af60256d42cc112b524a226f80dee22bb01088042f7140da0c896486f264e14b0ccc</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

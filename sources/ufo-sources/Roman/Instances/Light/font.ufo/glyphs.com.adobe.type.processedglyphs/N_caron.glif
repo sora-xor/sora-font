@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncaron" format="2">
+  <advance width="838"/>
+  <unicode hex="0147"/>
+  <outline>
+    <contour>
+      <point x="116" y="0" type="line" name="hintSet0000"/>
+      <point x="183" y="0" type="line"/>
+      <point x="183" y="666" type="line"/>
+      <point x="195" y="666" type="line"/>
+      <point x="601" y="0" type="line"/>
+      <point x="722" y="0" type="line"/>
+      <point x="722" y="730" type="line"/>
+      <point x="653" y="730" type="line"/>
+      <point x="653" y="64" type="line"/>
+      <point x="641" y="64" type="line"/>
+      <point x="236" y="730" type="line"/>
+      <point x="116" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="393" y="794" type="line"/>
+      <point x="480" y="794" type="line"/>
+      <point x="595" y="947" type="line"/>
+      <point x="530" y="947" type="line"/>
+      <point x="446" y="831" type="line"/>
+      <point x="428" y="831" type="line"/>
+      <point x="339" y="947" type="line"/>
+      <point x="272" y="947" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 64</string>
+              <string>hstem 666 64</string>
+              <string>hstem 794 37</string>
+              <string>vstem 116 67</string>
+              <string>vstem 653 69</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>888ca1e9170d00f0f0a67609b5ff0673e61844a202f724e37d231539a87978883036ef05dadb3b18ac4a18a293a9ed52971b0581e3f5878ffeb44f950700e7e4</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

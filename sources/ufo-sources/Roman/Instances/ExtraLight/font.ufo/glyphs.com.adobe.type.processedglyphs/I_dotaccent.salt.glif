@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotaccent.salt" format="2">
+  <advance width="445"/>
+  <outline>
+    <contour>
+      <point x="108" y="0" type="line" name="hintSet0000"/>
+      <point x="338" y="0" type="line"/>
+      <point x="338" y="44" type="line"/>
+      <point x="247" y="44" type="line"/>
+      <point x="247" y="687" type="line"/>
+      <point x="338" y="687" type="line"/>
+      <point x="338" y="730" type="line"/>
+      <point x="108" y="730" type="line"/>
+      <point x="108" y="687" type="line"/>
+      <point x="198" y="687" type="line"/>
+      <point x="198" y="44" type="line"/>
+      <point x="108" y="44" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="827" type="curve" name="hintSet0012"/>
+      <point x="249" y="827"/>
+      <point x="266" y="843"/>
+      <point x="266" y="869" type="curve"/>
+      <point x="266" y="893"/>
+      <point x="249" y="910"/>
+      <point x="222" y="910" type="curve"/>
+      <point x="195" y="910"/>
+      <point x="179" y="893"/>
+      <point x="179" y="869" type="curve"/>
+      <point x="179" y="843"/>
+      <point x="195" y="827"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 44</string>
+              <string>hstem 687 43</string>
+              <string>vstem 198 49</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0012</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 44</string>
+              <string>hstem 687 43</string>
+              <string>hstem 827 83</string>
+              <string>vstem 179 87</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>f1e0457de16b0925777142f9d01a90c28b756fe6fe72f4c709281a21bdac06206a393ad6cf949bc29e303117ffe7d6f84841a3e38d46f95a2b520ce5bfe990b2</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

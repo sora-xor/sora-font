@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless" format="2">
+  <advance width="333"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="26" y="430" type="line" name="hintSet0000"/>
+      <point x="99" y="430" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="259" y="0" type="line"/>
+      <point x="259" y="547" type="line"/>
+      <point x="26" y="547" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 430 117</string>
+              <string>vstem 99 160</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w333l26430l99430l990l2590l259547l26547</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

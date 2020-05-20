@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="G" format="2">
+  <advance width="831"/>
+  <unicode hex="0047"/>
+  <outline>
+    <contour>
+      <point x="435" y="-16" type="curve" name="hintSet0000"/>
+      <point x="562" y="-16"/>
+      <point x="657" y="31"/>
+      <point x="714" y="102" type="curve"/>
+      <point x="714" y="292" type="line"/>
+      <point x="785" y="292" type="line"/>
+      <point x="785" y="320" type="line"/>
+      <point x="407" y="320" type="line"/>
+      <point x="407" y="292" type="line"/>
+      <point x="682" y="292" type="line"/>
+      <point x="682" y="111" type="line"/>
+      <point x="627" y="50"/>
+      <point x="540" y="14"/>
+      <point x="435" y="14" type="curve"/>
+      <point x="196" y="14"/>
+      <point x="102" y="194"/>
+      <point x="102" y="366" type="curve"/>
+      <point x="102" y="551"/>
+      <point x="211" y="718"/>
+      <point x="419" y="718" type="curve"/>
+      <point x="563" y="718"/>
+      <point x="675" y="637"/>
+      <point x="693" y="495" type="curve"/>
+      <point x="725" y="495" type="line"/>
+      <point x="706" y="647"/>
+      <point x="589" y="748"/>
+      <point x="419" y="748" type="curve"/>
+      <point x="183" y="748"/>
+      <point x="70" y="557"/>
+      <point x="70" y="372" type="curve"/>
+      <point x="70" y="360" type="line"/>
+      <point x="70" y="188"/>
+      <point x="168" y="-16"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -16 30</string>
+              <string>hstem 292 28</string>
+              <string>hstem 718 30</string>
+              <string>vstem 70 32</string>
+              <string>vstem 682 32</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>8be1117fa70b3a58d65ebb2434e0a21fb74bb9b00d129c1bd65850ea5f093acda9760cb46d3032992e72a379ee6c730589186ec4b50555926ccda79e0bcb39ab</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

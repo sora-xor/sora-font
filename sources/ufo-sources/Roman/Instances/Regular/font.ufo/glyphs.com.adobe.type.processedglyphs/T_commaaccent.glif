@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcommaaccent" format="2">
+  <advance width="594"/>
+  <unicode hex="021A"/>
+  <outline>
+    <contour>
+      <point x="26" y="642" type="line" name="hintSet0000"/>
+      <point x="248" y="642" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="346" y="642" type="line"/>
+      <point x="568" y="642" type="line"/>
+      <point x="568" y="730" type="line"/>
+      <point x="26" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="-284" type="line"/>
+      <point x="237" y="-284" type="line"/>
+      <point x="314" y="-284" name="hintSet0010"/>
+      <point x="366" y="-237"/>
+      <point x="366" y="-155" type="curve"/>
+      <point x="366" y="-149" type="line"/>
+      <point x="366" y="-82"/>
+      <point x="332" y="-50"/>
+      <point x="290" y="-50" type="curve"/>
+      <point x="260" y="-50"/>
+      <point x="232" y="-69"/>
+      <point x="232" y="-107" type="curve"/>
+      <point x="232" y="-143"/>
+      <point x="258" y="-161"/>
+      <point x="288" y="-161" type="curve"/>
+      <point x="297" y="-161"/>
+      <point x="305" y="-159"/>
+      <point x="312" y="-156" type="curve"/>
+      <point x="312" y="-157" type="line"/>
+      <point x="312" y="-203"/>
+      <point x="285" y="-236"/>
+      <point x="239" y="-236" type="curve"/>
+      <point x="230" y="-236" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -284 48</string>
+              <string>hstem 21 -21</string>
+              <string>hstem 642 88</string>
+              <string>vstem 248 98</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0010</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -284 48</string>
+              <string>hstem -161 111</string>
+              <string>hstem 21 -21</string>
+              <string>hstem 642 88</string>
+              <string>vstem 312 54</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>a2eac8cae116e534039e9e02c0ab1b1acfcbd702c30c89791cc48bead10da7ab398d079fb7dc280d52fb38b029b145abcf7640132e95a0cdbf3e7723b12c2c12</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

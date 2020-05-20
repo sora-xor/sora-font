@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f.salt" format="2">
+  <advance width="395"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="232" y="0" type="line"/>
+      <point x="232" y="601" type="line" smooth="yes"/>
+      <point x="232" y="622"/>
+      <point x="242" y="637"/>
+      <point x="264" y="637" type="curve" smooth="yes"/>
+      <point x="286" y="637"/>
+      <point x="297" y="622"/>
+      <point x="297" y="601" type="curve"/>
+      <point x="423" y="601" type="line"/>
+      <point x="423" y="694"/>
+      <point x="357" y="750"/>
+      <point x="255" y="750" type="curve" smooth="yes"/>
+      <point x="149" y="750"/>
+      <point x="84" y="691"/>
+      <point x="84" y="594" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="20" y="419" type="line"/>
+      <point x="377" y="419" type="line"/>
+      <point x="377" y="536" type="line"/>
+      <point x="20" y="536" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

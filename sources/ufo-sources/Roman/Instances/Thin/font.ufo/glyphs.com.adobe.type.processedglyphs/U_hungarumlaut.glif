@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhungarumlaut" format="2">
+  <advance width="806"/>
+  <unicode hex="0170"/>
+  <anchor x="403" y="0" name="bottom"/>
+  <anchor x="497" y="5" name="ogonek"/>
+  <anchor x="479" y="940" name="top"/>
+  <outline>
+    <contour>
+      <point x="403" y="-16" type="curve" name="hintSet0000"/>
+      <point x="604" y="-16"/>
+      <point x="690" y="109"/>
+      <point x="690" y="275" type="curve"/>
+      <point x="690" y="730" type="line"/>
+      <point x="658" y="730" type="line"/>
+      <point x="658" y="271" type="line"/>
+      <point x="658" y="117"/>
+      <point x="580" y="14"/>
+      <point x="403" y="14" type="curve"/>
+      <point x="227" y="14"/>
+      <point x="148" y="117"/>
+      <point x="148" y="271" type="curve"/>
+      <point x="148" y="730" type="line"/>
+      <point x="116" y="730" type="line"/>
+      <point x="116" y="275" type="line"/>
+      <point x="116" y="109"/>
+      <point x="202" y="-16"/>
+    </contour>
+    <contour>
+      <point x="448" y="802" type="line"/>
+      <point x="478" y="802" type="line"/>
+      <point x="564" y="940" type="line"/>
+      <point x="532" y="940" type="line"/>
+    </contour>
+    <contour>
+      <point x="306" y="802" type="line"/>
+      <point x="336" y="802" type="line"/>
+      <point x="423" y="940" type="line"/>
+      <point x="391" y="940" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -16 30</string>
+              <string>hstem 730 -20</string>
+              <string>vstem 116 32</string>
+              <string>vstem 658 32</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>a6290dac3d35fbc5ac4951ad60d17d2062c74eb98cf6be3989075298ae9e71722c15f7812c224436e1df1f47c3c5d0e78b7b15e729e127b208aa8afcf5b1de87</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
