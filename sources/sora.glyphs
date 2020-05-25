@@ -184,7 +184,7 @@ name = "Axis Location";
 value = (
 {
 Axis = Weight;
-Location = 32;
+Location = 100;
 }
 );
 }
@@ -258,7 +258,7 @@ name = "Axis Location";
 value = (
 {
 Axis = Weight;
-Location = 96;
+Location = 400;
 }
 );
 }
@@ -274,7 +274,7 @@ horizontalStems = (
 72,
 88
 );
-iconName = SemiBold_Extended;
+iconName = Extended;
 id = "445E0A7C-B12F-48FD-B0B3-D474C1FC2A30";
 userData = {
 GSCornerRadius = 40;
@@ -330,7 +330,7 @@ name = "Axis Location";
 value = (
 {
 Axis = Weight;
-Location = 182;
+Location = 800;
 }
 );
 }
@@ -340,7 +340,7 @@ horizontalStems = (
 152,
 162
 );
-iconName = SemiBold_Extended;
+iconName = Bold_Extended;
 id = "7C8656A8-8591-4735-94A0-92D633732231";
 name = ExtraBold;
 userData = {
@@ -57635,10 +57635,6 @@ instances = (
 {
 customParameters = (
 {
-name = postscriptFontName;
-value = "Sora-Thin";
-},
-{
 name = weightClass;
 value = 100;
 }
@@ -57652,10 +57648,6 @@ weightClass = Thin;
 },
 {
 customParameters = (
-{
-name = postscriptFontName;
-value = "Sora-ExtraLight";
-},
 {
 name = weightClass;
 value = 200;
@@ -57672,10 +57664,6 @@ weightClass = ExtraLight;
 {
 customParameters = (
 {
-name = postscriptFontName;
-value = "Sora-Light";
-},
-{
 name = weightClass;
 value = 300;
 }
@@ -57691,10 +57679,6 @@ weightClass = Light;
 {
 customParameters = (
 {
-name = postscriptFontName;
-value = "Sora-Regular";
-},
-{
 name = weightClass;
 value = 400;
 }
@@ -57703,16 +57687,11 @@ interpolationWeight = 96;
 instanceInterpolations = {
 "445E0A7C-B12F-48FD-B0B3-D474C1FC2A30" = 1;
 };
-isBold = 1;
 linkStyle = ExtraLight;
 name = Regular;
 },
 {
 customParameters = (
-{
-name = postscriptFontName;
-value = "Sora-SemiBold";
-},
 {
 name = weightClass;
 value = 600;
@@ -57731,10 +57710,6 @@ weightClass = SemiBold;
 {
 customParameters = (
 {
-name = postscriptFontName;
-value = "Sora-Bold";
-},
-{
 name = weightClass;
 value = 700;
 }
@@ -57751,10 +57726,6 @@ weightClass = Bold;
 },
 {
 customParameters = (
-{
-name = postscriptFontName;
-value = "Sora-Extrabold";
-},
 {
 name = weightClass;
 value = 800;
