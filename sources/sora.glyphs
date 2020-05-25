@@ -164,20 +164,24 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 970;
-},
-{
-name = winDescent;
-value = 290;
-},
-{
 name = hheaAscender;
 value = 970;
 },
 {
 name = hheaDescender;
 value = -290;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1220;
+},
+{
+name = winDescent;
+value = 320;
 },
 {
 name = "Axis Location";
@@ -238,20 +242,24 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 970;
-},
-{
-name = winDescent;
-value = 290;
-},
-{
 name = hheaAscender;
 value = 970;
 },
 {
 name = hheaDescender;
 value = -290;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1220;
+},
+{
+name = winDescent;
+value = 320;
 },
 {
 name = "Axis Location";
@@ -310,20 +318,24 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 970;
-},
-{
-name = winDescent;
-value = 290;
-},
-{
 name = hheaAscender;
 value = 970;
 },
 {
 name = hheaDescender;
 value = -290;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1220;
+},
+{
+name = winDescent;
+value = 320;
 },
 {
 name = "Axis Location";
@@ -57687,7 +57699,6 @@ interpolationWeight = 96;
 instanceInterpolations = {
 "445E0A7C-B12F-48FD-B0B3-D474C1FC2A30" = 1;
 };
-linkStyle = ExtraLight;
 name = Regular;
 },
 {
