@@ -42,7 +42,7 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aring
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2019 Barnbrook Fonts. All rights reserved.";
+copyright = "Copyright 2019 The Sora Authors (https://github.com/sora-xor/sora-font/)";
 customParameters = (
 {
 name = "Use Typo Metrics";
@@ -82,9 +82,13 @@ Tag = wght;
 name = fsType;
 value = (
 );
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
 }
 );
-date = "2019-07-08 10:05:45 +0000";
+date = "2020-05-25 21:01:22 +0000";
 designer = "Jonathan Barnbrook, Julián Moncada";
 designerURL = "http://www.barnbrook.net";
 familyName = Sora;
@@ -57633,6 +57637,10 @@ customParameters = (
 {
 name = postscriptFontName;
 value = "Sora-Thin";
+},
+{
+name = weightClass;
+value = 100;
 }
 );
 interpolationWeight = 32;
@@ -57647,6 +57655,10 @@ customParameters = (
 {
 name = postscriptFontName;
 value = "Sora-ExtraLight";
+},
+{
+name = weightClass;
+value = 200;
 }
 );
 interpolationWeight = 48;
@@ -57662,6 +57674,10 @@ customParameters = (
 {
 name = postscriptFontName;
 value = "Sora-Light";
+},
+{
+name = weightClass;
+value = 300;
 }
 );
 interpolationWeight = 70;
@@ -57677,6 +57693,10 @@ customParameters = (
 {
 name = postscriptFontName;
 value = "Sora-Regular";
+},
+{
+name = weightClass;
+value = 400;
 }
 );
 interpolationWeight = 96;
@@ -57692,6 +57712,10 @@ customParameters = (
 {
 name = postscriptFontName;
 value = "Sora-SemiBold";
+},
+{
+name = weightClass;
+value = 600;
 }
 );
 interpolationWeight = 126;
@@ -57709,6 +57733,10 @@ customParameters = (
 {
 name = postscriptFontName;
 value = "Sora-Bold";
+},
+{
+name = weightClass;
+value = 700;
 }
 );
 interpolationWeight = 160;
@@ -57726,6 +57754,10 @@ customParameters = (
 {
 name = postscriptFontName;
 value = "Sora-Extrabold";
+},
+{
+name = weightClass;
+value = 800;
 }
 );
 interpolationWeight = 190;
