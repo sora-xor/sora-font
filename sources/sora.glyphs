@@ -57713,8 +57713,6 @@ instanceInterpolations = {
 "445E0A7C-B12F-48FD-B0B3-D474C1FC2A30" = 0.65116;
 "7C8656A8-8591-4735-94A0-92D633732231" = 0.34884;
 };
-isBold = 1;
-linkStyle = Light;
 name = SemiBold;
 weightClass = SemiBold;
 },
@@ -57731,7 +57729,6 @@ instanceInterpolations = {
 "7C8656A8-8591-4735-94A0-92D633732231" = 0.74419;
 };
 isBold = 1;
-linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
 },
@@ -57748,8 +57745,6 @@ instanceInterpolations = {
 "7C8656A8-8591-4735-94A0-92D633732231" = 1.07318;
 "C54A1B2C-2BC8-455F-8AA9-31AEAFF53136" = -0.02667;
 };
-isBold = 1;
-linkStyle = SemiBold;
 name = ExtraBold;
 weightClass = ExtraBold;
 }
