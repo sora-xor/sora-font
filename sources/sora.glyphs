@@ -42,7 +42,7 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aring
 name = Uppercase;
 }
 );
-copyright = "Copyright 2019 The Sora Authors (https://github.com/sora-xor/sora-font/)";
+copyright = "Copyright 2019 The Sora Project Authors (https://github.com/sora-xor/sora-font)";
 customParameters = (
 {
 name = "Use Typo Metrics";
