@@ -1,0 +1,57 @@
+Last login: Thu May 28 13:25:54 on ttys000
+vivi:~ Viviana$ cd Documents/06_GOOGLE/GF_Fonts/sora-font/
+vivi:sora-font Viviana$ source venv/bin/activate
+(venv) vivi:sora-font Viviana$ cd fonts/variable/
+(venv) vivi:variable Viviana$ python --version
+Python 3.7.7
+(venv) vivi:variable Viviana$ fontbakery --version
+0.7.25
+(venv) vivi:variable Viviana$ fontbakery check-googlefonts Sora\[wght\].ttf -l FAIL
+Start ... running 170 individual check executions.
+ >> com.google.fonts/check/STAT_strings
+    Check correctness of STAT table strings 
+    with Sora[wght].ttf
+
+      Rationale:                                                                
+      On the STAT table, the "Italic" keyword must not be used on AxisValues    
+      for variation axes other than 'ital'.                                     
+
+    * ERROR: Failed with AttributeError: 'NoneType' object has no attribute 'AxisValue'
+           File "/Users/Viviana/Documents/06_GOOGLE/GF_Fonts/sora-font/venv/lib/python3.7/site-packages/fontbakery/checkrunner.py", line 344, in _exec_check
+             for sub_result in result:  # Might raise.
+           File "/Users/Viviana/Documents/06_GOOGLE/GF_Fonts/sora-font/venv/lib/python3.7/site-packages/fontbakery/profiles/universal.py", line 574, in com_google_fonts_check_STAT_strings
+             for value in ttFont["STAT"].table.AxisValueArray.AxisValue:
+         
+
+    Result: ERROR
+
+
+Total:
+
+    ERROR: 1
+    FAIL: 0
+    WARN: 3
+    INFO: 7
+    SKIP: 74
+    PASS: 85
+
+[PSPPSSSSSSSSSSSSSPWPPPSPPPPIPSPIIPPSSSSSSSSSSSSSSSSSSSSSPSSSSSSSSSSSSWSSSSSSSSSPSSSPPPIPPPPPPPPPPWPPPSSSPPPPPIPPPPPPPPPPIPEPPPISSSPPPPPPPSPPPPPPPPPPPSPPPPPPPPPPPPSSSSPPPS] 100%
+
+DONE!
+
+    Meaning of check results:
+
+    An ERROR is something wrong with FontBakery itself, possibly a bug.
+    A FAIL is a problem with the font that must be fixed.
+    A WARN is something that you should consider addressing.
+    An INFO result simply prints something useful. Typically stats.
+    A PASS means the font looks good for the given checking routine.
+    And a SKIP happens when the check does not apply to the given font.
+
+    If you get ERRORs, please help us improve the tool by reporting them at
+    https://github.com/googlefonts/fontbakery/issues
+
+    (but other kinds of bug reports and/or
+     feature requests are also always welcome, of course!)
+
+(venv) vivi:variable Viviana$ 

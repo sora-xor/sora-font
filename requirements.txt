@@ -1,0 +1,4 @@
+afdko==3.3.0
+fontmake==2.1.4
+git+https://github.com/googlefonts/gftools
+statmake
