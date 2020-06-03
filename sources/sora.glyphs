@@ -73084,6 +73084,10 @@ customParameters = (
 {
 name = weightClass;
 value = 100;
+},
+{
+name = "Style Name as STAT entry";
+value = wght;
 }
 );
 instanceInterpolations = {
@@ -73097,6 +73101,10 @@ customParameters = (
 {
 name = weightClass;
 value = 200;
+},
+{
+name = "Style Name as STAT entry";
+value = wght;
 }
 );
 interpolationWeight = 200;
@@ -73112,6 +73120,10 @@ customParameters = (
 {
 name = weightClass;
 value = 300;
+},
+{
+name = "Style Name as STAT entry";
+value = wght;
 }
 );
 interpolationWeight = 300;
@@ -73127,6 +73139,10 @@ customParameters = (
 {
 name = weightClass;
 value = 400;
+},
+{
+name = "Elidable STAT Axis Value Name";
+value = wght;
 }
 );
 interpolationWeight = 400;
@@ -73140,6 +73156,10 @@ customParameters = (
 {
 name = weightClass;
 value = 600;
+},
+{
+name = "Style Name as STAT entry";
+value = wght;
 }
 );
 interpolationWeight = 600;
@@ -73155,6 +73175,10 @@ customParameters = (
 {
 name = weightClass;
 value = 700;
+},
+{
+name = "Style Name as STAT entry";
+value = wght;
 }
 );
 interpolationWeight = 700;
@@ -73171,6 +73195,10 @@ customParameters = (
 {
 name = weightClass;
 value = 800;
+},
+{
+name = "Style Name as STAT entry";
+value = wght;
 }
 );
 interpolationWeight = 800;
