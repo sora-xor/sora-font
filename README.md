@@ -18,4 +18,4 @@ The Sora typeface is an open-source project and available for download and use f
 | Bold                 | 700
 | ExtraBold            | 800
 
-Also available as a variable font.
+Sora is also available as a variable font.
