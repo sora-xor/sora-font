@@ -11,9 +11,9 @@ The Sora typeface is an open-source project and available for download and use f
 | Name                 | Weight class
 | -------------------- | ----------------
 | Thin                 | 100
-| Extra Light          | 200
+| ExtraLight           | 200
 | Light                | 300
 | Regular              | 400
-| Semi Bold            | 600
+| SemiBold             | 600
 | Bold                 | 700
-| Black                | 900
+| ExtraBold            | 800
