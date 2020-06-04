@@ -4,7 +4,9 @@ Sora is a typeface family commissioned for the [Sora](https://sora.org/) decentr
 
 The Sora typeface was designed to capture Soramitsu's spirit and heritage and is highly optimized for user interfaces. The outcome is a type family with cues of low-resolution aesthetics and early screen typography but without nostalgia, as every decision was considered towards the crisp digital environment of today. The particularly big x-height combined with evidently generous counters turns the family into a convenient tool for app and web interfaces, where clarity and effectiveness at any size is an imperative. Therefore giving us a neutral, yet distinctive, sans serif typeface with excellent legibility across various mediums.
 
-Current font styles:
+The Sora typeface is an open-source project and available for download and use following the Open Font License (OFL).
+
+# Styles
 
 | Name                 | Weight class
 | -------------------- | ----------------
