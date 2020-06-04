@@ -6,7 +6,7 @@ The Sora typeface was designed to capture Soramitsu's spirit and heritage and is
 
 The Sora typeface is an open-source project and available for download and use following the Open Font License (OFL).
 
-## Currently available styles
+### Currently available styles
 
 | Name                 | Weight class
 | -------------------- | ----------------
@@ -17,3 +17,5 @@ The Sora typeface is an open-source project and available for download and use f
 | SemiBold             | 600
 | Bold                 | 700
 | ExtraBold            | 800
+
+Also available as a variable font.
