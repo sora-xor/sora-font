@@ -1,6 +1,4 @@
-Copyright 2019 The Sora Project Authors (https://github.com/sora-xor/sora-font)
-
-Varta is a trademark of Sorkin Type Co.
+Copyright 2020 Sora.org (https://github.com/sora-xor)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
