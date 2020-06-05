@@ -1,6 +1,6 @@
 # Sora typeface
 
-<p align="center"><img alt="Sora" src="https://github.com/sora-xor/sora-font/blob/master/docs/sample.png?raw=true" /></p>
+[![Sample](docs/sample.png)]
 
 Sora is a typeface family commissioned for the [Sora](https://sora.org/) decentralized autonomous economy as a custom solution for branding and interface design. Soramitsu, the developer of Sora, is a boutique Japanese technology company specializing in developing blockchain technologies and well-known for creating the first central bank digital currency using Hyperledger Iroha for the central bank of Cambodia. Sora, meaning sky in Japanese, is focused on empowering projects that benefit society by delivering new goods and services.
 
