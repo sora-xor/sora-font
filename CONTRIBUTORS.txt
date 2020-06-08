@@ -11,9 +11,9 @@
 
 
 
-Jonathan Barnbrook <email address>
+Jonathan Barnbrook <jb@barnbrook.net>
 Julián Moncada <julian@moncada.work>
 Viviana Monsalve <viviana.monsalve.a@gmail.com>
-Sora
+Soramitsu Co, Ltd <info@soramitsu.co.jp>
 Google, Inc
 
