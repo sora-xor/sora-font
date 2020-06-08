@@ -1,4 +1,4 @@
-Copyright 2020 Sora.org (https://github.com/sora-xor)
+Copyright 2019 The Sora Project Authors (https://github.com/sora-xor/sora-font)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
