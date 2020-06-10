@@ -131,7 +131,7 @@ Tag = wght;
 );
 }
 );
-date = "2020-05-25 21:01:22 +0000";
+date = "2020-06-08 22:08:55 +0000";
 designer = "Jonathan Barnbrook, Julián Moncada";
 designerURL = "http://www.barnbrook.net";
 familyName = Sora;
@@ -77114,6 +77114,6 @@ fraction = -20;
 manufacturer = "Barnbrook Fonts";
 manufacturerURL = "https://fonts.barnbrook.net";
 unitsPerEm = 1000;
-versionMajor = 1;
-versionMinor = 2;
+versionMajor = 2;
+versionMinor = 0;
 }
