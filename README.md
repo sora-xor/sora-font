@@ -13,11 +13,20 @@ The Sora typeface is an open-source project and available for download and use f
 | Name                 | Weight class
 | -------------------- | ----------------
 | Thin                 | 100
+| Thin Italic          | 100
 | ExtraLight           | 200
+| ExtraLight Italic    | 200
 | Light                | 300
+| Light Italic         | 300
 | Regular              | 400
+| Italic               | 400
+| Medium               | 500
+| Medium Italic        | 500
 | SemiBold             | 600
+| SemiBold Italic      | 600
 | Bold                 | 700
+| Bold Italic          | 700
 | ExtraBold            | 800
+| ExtraBold Italic     | 800
 
 Sora is also available as a variable font.
