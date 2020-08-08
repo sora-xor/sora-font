@@ -31,4 +31,4 @@ The Sora typeface is an open-source project and available for download and use f
 
 Sora is also available as a variable font.
 
-![Sample](docs/sample-italic.png)
+![Sample](docs/sample-italic-2.png)
