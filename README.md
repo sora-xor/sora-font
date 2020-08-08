@@ -30,3 +30,5 @@ The Sora typeface is an open-source project and available for download and use f
 | ExtraBold Italic     | 800
 
 Sora is also available as a variable font.
+
+![Sample](docs/sample-italic.png)
