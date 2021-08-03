@@ -13,7 +13,7 @@
 
 Jonathan Barnbrook <jb@barnbrook.net>
 Julián Moncada <julian@moncada.work>
-Soramitsu Co, Ltd <info@soramitsu.co.jp>
+Soramitsu Co, Ltd <design@soramitsu.co.jp>
 Viviana Monsalve <viviana.monsalve.a@gmail.com>
 Google, Inc
 Cristiano Sobral <cssobral2013@gmail.com>
