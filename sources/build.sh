@@ -5,6 +5,7 @@ mkdir -p ../fonts ../fonts/ttf ../fonts/otf ../fonts/variable ../fonts/woff2
 
 echo "GENERATING TTFs"
 fontmake -g sora.glyphs -i -o ttf --output-dir ../fonts/ttf/
+fontmake -g sora-italic.glyphs -i -o ttf --output-dir ../fonts/ttf/
 
 echo "POST PROCESSING TTFs"
 ttfs=$(ls ../fonts/ttf/*.ttf)
@@ -33,6 +34,7 @@ done
 
 echo "GENERATING OTFs"
 fontmake -g sora.glyphs -i -o otf --output-dir ../fonts/otf/
+fontmake -g sora-italic.glyphs -i -o otf --output-dir ../fonts/otf/
 
 echo "POST PROCESSING OTFs"
 otfs=$(ls ../fonts/otf/*.otf)
@@ -44,6 +46,8 @@ done
 echo "GENERATING VFs"
 VF_FILE=../fonts/variable/Sora\[wght]\.ttf
 fontmake -g sora.glyphs -o variable --output-path $VF_FILE
+VF_FILE=../fonts/variable/Sora-Italic\[wght]\.ttf
+fontmake -g sora-italic.glyphs -o variable --output-path $VF_FILE
 
 rm -rf master_ufo/ instance_ufo/
 
